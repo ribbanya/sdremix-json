@@ -1,6 +1,6 @@
 This project was created to offer a comparison between SD Remix v3.3, SD Remix v5.0, and vanilla Melee v1.02.
 
-The data was dumped using [meleeDat2Json](https://github.com/pfirsich/meleeDat2Json). These files do not account for differences in Frame Speed Modifier Engine values, or any other assembly code.
+The data was dumped using [meleeDat2Json](https://github.com/pfirsich/meleeDat2Json). These files do not account for differences in Frame Speed Multiplier Engine values, or any other assembly code.
 
 To compare two versions, consult the table below.
 
