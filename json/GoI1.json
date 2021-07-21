@@ -1,0 +1,369 @@
+{
+    "sourceFile": "GoI1.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 64988
+        },
+        {
+            "name": "GrdInishie1BBlkA_CMPR_image",
+            "rootOffset": 242976
+        },
+        {
+            "name": "GrdInishie1BBlkB_CMPR_image",
+            "rootOffset": 245024
+        },
+        {
+            "name": "GrdInishie1BBlkC_CMPR_image",
+            "rootOffset": 247072
+        },
+        {
+            "name": "GrdInishie1Back_C8_image",
+            "rootOffset": 155904
+        },
+        {
+            "name": "GrdInishie1Back_tlut",
+            "rootOffset": 221440
+        },
+        {
+            "name": "GrdInishie1Back_tlut_desc",
+            "rootOffset": 221696
+        },
+        {
+            "name": "GrdInishie1BlockA_C4_image",
+            "rootOffset": 98432
+        },
+        {
+            "name": "GrdInishie1BlockA_tlut",
+            "rootOffset": 107648
+        },
+        {
+            "name": "GrdInishie1BlockA_tlut_desc",
+            "rootOffset": 107680
+        },
+        {
+            "name": "GrdInishie1Clouds_C4_image",
+            "rootOffset": 135168
+        },
+        {
+            "name": "GrdInishie1Clouds_tlut",
+            "rootOffset": 136320
+        },
+        {
+            "name": "GrdInishie1Clouds_tlut_desc",
+            "rootOffset": 136352
+        },
+        {
+            "name": "GrdInishie1Danger_C8_image",
+            "rootOffset": 110080
+        },
+        {
+            "name": "GrdInishie1Danger_tlut",
+            "rootOffset": 114176
+        },
+        {
+            "name": "GrdInishie1Danger_tlut_desc",
+            "rootOffset": 114400
+        },
+        {
+            "name": "GrdInishie1DokanA_C4_image",
+            "rootOffset": 227808
+        },
+        {
+            "name": "GrdInishie1DokanA_tlut",
+            "rootOffset": 228832
+        },
+        {
+            "name": "GrdInishie1DokanA_tlut_desc",
+            "rootOffset": 228864
+        },
+        {
+            "name": "GrdInishie1DokanB_C4_image",
+            "rootOffset": 66880
+        },
+        {
+            "name": "GrdInishie1DokanB_tlut",
+            "rootOffset": 68928
+        },
+        {
+            "name": "GrdInishie1DokanB_tlut_desc",
+            "rootOffset": 68960
+        },
+        {
+            "name": "GrdInishie1Face_IA4_image",
+            "rootOffset": 221728
+        },
+        {
+            "name": "GrdInishie1GrassA_C4_image",
+            "rootOffset": 107712
+        },
+        {
+            "name": "GrdInishie1GrassA_tlut",
+            "rootOffset": 110016
+        },
+        {
+            "name": "GrdInishie1GrassA_tlut_desc",
+            "rootOffset": 110048
+        },
+        {
+            "name": "GrdInishie1Hei_C4_image",
+            "rootOffset": 87488
+        },
+        {
+            "name": "GrdInishie1Hei_tlut",
+            "rootOffset": 88000
+        },
+        {
+            "name": "GrdInishie1Hei_tlut_desc",
+            "rootOffset": 88032
+        },
+        {
+            "name": "GrdInishie1JugemuA_C4_image",
+            "rootOffset": 221984
+        },
+        {
+            "name": "GrdInishie1JugemuA_tlut",
+            "rootOffset": 225312
+        },
+        {
+            "name": "GrdInishie1JugemuA_tlut_desc",
+            "rootOffset": 225344
+        },
+        {
+            "name": "GrdInishie1JugemuB_C4_image",
+            "rootOffset": 233504
+        },
+        {
+            "name": "GrdInishie1JugemuC_C4_image",
+            "rootOffset": 236832
+        },
+        {
+            "name": "GrdInishie1KinokoA_C4_image",
+            "rootOffset": 137472
+        },
+        {
+            "name": "GrdInishie1KinokoA_tlut",
+            "rootOffset": 144512
+        },
+        {
+            "name": "GrdInishie1KinokoA_tlut_desc",
+            "rootOffset": 144544
+        },
+        {
+            "name": "GrdInishie1KinokoB_C4_image",
+            "rootOffset": 144576
+        },
+        {
+            "name": "GrdInishie1KinokoB_tlut",
+            "rootOffset": 155840
+        },
+        {
+            "name": "GrdInishie1KinokoB_tlut_desc",
+            "rootOffset": 155872
+        },
+        {
+            "name": "GrdInishie1Mamenoki_C4_image",
+            "rootOffset": 136384
+        },
+        {
+            "name": "GrdInishie1Mamenoki_tlut",
+            "rootOffset": 137408
+        },
+        {
+            "name": "GrdInishie1Mamenoki_tlut_desc",
+            "rootOffset": 137440
+        },
+        {
+            "name": "GrdInishie1NokonokoA_C4_image",
+            "rootOffset": 227488
+        },
+        {
+            "name": "GrdInishie1NokonokoA_tlut",
+            "rootOffset": 227744
+        },
+        {
+            "name": "GrdInishie1NokonokoA_tlut_desc",
+            "rootOffset": 227776
+        },
+        {
+            "name": "GrdInishie1NokonokoB_C4_image",
+            "rootOffset": 242208
+        },
+        {
+            "name": "GrdInishie1NokonokoC_C4_image",
+            "rootOffset": 242464
+        },
+        {
+            "name": "GrdInishie1NokonokoD_C4_image",
+            "rootOffset": 242720
+        },
+        {
+            "name": "GrdInishie1RengaA_C4_image",
+            "rootOffset": 120768
+        },
+        {
+            "name": "GrdInishie1RengaA_tlut",
+            "rootOffset": 124864
+        },
+        {
+            "name": "GrdInishie1RengaA_tlut_desc",
+            "rootOffset": 124896
+        },
+        {
+            "name": "GrdInishie1RiftA_CMPR_image",
+            "rootOffset": 124928
+        },
+        {
+            "name": "GrdInishie1SUSHI_CMPR_image",
+            "rootOffset": 68992
+        },
+        {
+            "name": "GrdInishie1Siro_C4_image",
+            "rootOffset": 90176
+        },
+        {
+            "name": "GrdInishie1Siro_tlut",
+            "rootOffset": 98368
+        },
+        {
+            "name": "GrdInishie1Siro_tlut_desc",
+            "rootOffset": 98400
+        },
+        {
+            "name": "GrdInishie1TreesA_C4_image",
+            "rootOffset": 114432
+        },
+        {
+            "name": "GrdInishie1TreesA_tlut",
+            "rootOffset": 115456
+        },
+        {
+            "name": "GrdInishie1TreesA_tlut_desc",
+            "rootOffset": 115488
+        },
+        {
+            "name": "GrdInishie1TreesB_C4_image",
+            "rootOffset": 115520
+        },
+        {
+            "name": "GrdInishie1TreesB_tlut",
+            "rootOffset": 116288
+        },
+        {
+            "name": "GrdInishie1TreesB_tlut_desc",
+            "rootOffset": 116320
+        },
+        {
+            "name": "GrdInishie1WallA_C4_image",
+            "rootOffset": 88064
+        },
+        {
+            "name": "GrdInishie1WallA_tlut",
+            "rootOffset": 90112
+        },
+        {
+            "name": "GrdInishie1WallA_tlut_desc",
+            "rootOffset": 90144
+        },
+        {
+            "name": "GrdInishieCube3B_CMPR_image",
+            "rootOffset": 83392
+        },
+        {
+            "name": "GrdInishieCy_RGB565_image",
+            "rootOffset": 74624
+        },
+        {
+            "name": "GrdInishieFlag2_CMPR_image",
+            "rootOffset": 116352
+        },
+        {
+            "name": "GrdInishieFlag_C4_image",
+            "rootOffset": 116864
+        },
+        {
+            "name": "GrdInishieFlag_tlut",
+            "rootOffset": 120704
+        },
+        {
+            "name": "GrdInishieFlag_tlut_desc",
+            "rootOffset": 120736
+        },
+        {
+            "name": "GrdInishieGake_C4_image",
+            "rootOffset": 82816
+        },
+        {
+            "name": "GrdInishieGake_tlut",
+            "rootOffset": 83328
+        },
+        {
+            "name": "GrdInishieGake_tlut_desc",
+            "rootOffset": 83360
+        },
+        {
+            "name": "GrdInishieHanabi2_CMPR_image",
+            "rootOffset": 228896
+        },
+        {
+            "name": "GrdInishieHanabi3_CMPR_image",
+            "rootOffset": 230944
+        },
+        {
+            "name": "GrdInishieHanabi4_CMPR_image",
+            "rootOffset": 232992
+        },
+        {
+            "name": "GrdInishieHanabi_CMPR_image",
+            "rootOffset": 133120
+        },
+        {
+            "name": "GrdInishieKuri2_C4_image",
+            "rootOffset": 240160
+        },
+        {
+            "name": "GrdInishieKuri_C4_image",
+            "rootOffset": 225376
+        },
+        {
+            "name": "GrdInishieKuri_tlut",
+            "rootOffset": 227424
+        },
+        {
+            "name": "GrdInishieKuri_tlut_desc",
+            "rootOffset": 227456
+        },
+        {
+            "name": "GrdInishieSaku_CMPR_image",
+            "rootOffset": 85440
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 63708
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 64652
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 64872
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 596
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 65096
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 250088
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 64876
+        }
+    ]
+}

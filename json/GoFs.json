@@ -1,0 +1,269 @@
+{
+    "sourceFile": "GoFs.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 308404
+        },
+        {
+            "name": "EffGrdFoursideSenpuuI4_I4_image",
+            "rootOffset": 821824
+        },
+        {
+            "name": "GrdFoursideBillHeri_CMPR_image",
+            "rootOffset": 681024
+        },
+        {
+            "name": "GrdFoursideBillTop2e_CMPR_image",
+            "rootOffset": 644160
+        },
+        {
+            "name": "GrdFoursideBillWin9b_CMPR_image",
+            "rootOffset": 635968
+        },
+        {
+            "name": "GrdFoursideBillmado2c_CMPR_image",
+            "rootOffset": 369216
+        },
+        {
+            "name": "GrdFoursideFlare1_RGBA8_image",
+            "rootOffset": 690240
+        },
+        {
+            "name": "GrdFoursideFlare2_RGBA8_image",
+            "rootOffset": 528448
+        },
+        {
+            "name": "GrdFoursideKousiH2_CMPR_image",
+            "rootOffset": 676928
+        },
+        {
+            "name": "GrdFoursideKran2_CMPR_image",
+            "rootOffset": 729664
+        },
+        {
+            "name": "GrdFoursideLight1_I8_image",
+            "rootOffset": 545856
+        },
+        {
+            "name": "GrdFoursideLight2_CMPR_image",
+            "rootOffset": 421440
+        },
+        {
+            "name": "GrdFoursideLight3_I8_image",
+            "rootOffset": 512064
+        },
+        {
+            "name": "GrdFoursideMono1_CMPR_image",
+            "rootOffset": 586816
+        },
+        {
+            "name": "GrdFoursideMono2_CMPR_image",
+            "rootOffset": 578624
+        },
+        {
+            "name": "GrdFoursideMoon1_CMPR_image",
+            "rootOffset": 847424
+        },
+        {
+            "name": "GrdFoursideMuseumA_CMPR_image",
+            "rootOffset": 438336
+        },
+        {
+            "name": "GrdFoursideMuseumC_CMPR_image",
+            "rootOffset": 471104
+        },
+        {
+            "name": "GrdFoursideRasen3_CMPR_image",
+            "rootOffset": 380480
+        },
+        {
+            "name": "GrdFoursideRenga2a_CMPR_image",
+            "rootOffset": 405056
+        },
+        {
+            "name": "GrdFoursideRenga_CMPR_image",
+            "rootOffset": 413248
+        },
+        {
+            "name": "GrdFoursideRengac_CMPR_image",
+            "rootOffset": 388672
+        },
+        {
+            "name": "GrdFoursideRengadoor2_CMPR_image",
+            "rootOffset": 396864
+        },
+        {
+            "name": "GrdFoursideRengatenjo2_CMPR_image",
+            "rootOffset": 544832
+        },
+        {
+            "name": "GrdFoursideRengatenjo_CMPR_image",
+            "rootOffset": 424000
+        },
+        {
+            "name": "GrdFoursideTank1_CMPR_image",
+            "rootOffset": 562240
+        },
+        {
+            "name": "GrdFoursideTetu1_CMPR_image",
+            "rootOffset": 421952
+        },
+        {
+            "name": "GrdFoursideWin2_CMPR_image",
+            "rootOffset": 660544
+        },
+        {
+            "name": "GrdFoursideWin3_CMPR_image",
+            "rootOffset": 652352
+        },
+        {
+            "name": "GrdFoursideWin3b_CMPR_image",
+            "rootOffset": 619584
+        },
+        {
+            "name": "GrdFoursideWin4b_CMPR_image",
+            "rootOffset": 570432
+        },
+        {
+            "name": "GrdFoursideWin4c_CMPR_image",
+            "rootOffset": 503872
+        },
+        {
+            "name": "GrdFoursideWin_CMPR_image",
+            "rootOffset": 668736
+        },
+        {
+            "name": "GrdFoursideWindow1_C8_image",
+            "rootOffset": 318432
+        },
+        {
+            "name": "GrdFoursideWindow1_tlut",
+            "rootOffset": 334816
+        },
+        {
+            "name": "GrdFoursideWindow1_tlut_desc",
+            "rootOffset": 335328
+        },
+        {
+            "name": "GrdFoursideWindow2_C8_image",
+            "rootOffset": 335360
+        },
+        {
+            "name": "GrdFoursideWindow2_tlut",
+            "rootOffset": 351744
+        },
+        {
+            "name": "GrdFoursideWindow2_tlut_desc",
+            "rootOffset": 352256
+        },
+        {
+            "name": "GrdFoursideWindow3_C8_image",
+            "rootOffset": 352288
+        },
+        {
+            "name": "GrdFoursideWindow3_tlut",
+            "rootOffset": 368672
+        },
+        {
+            "name": "GrdFoursideWindow3_tlut_desc",
+            "rootOffset": 369184
+        },
+        {
+            "name": "GrdFoursideWire1_CMPR_image",
+            "rootOffset": 725056
+        },
+        {
+            "name": "GrdFoursideYakei1_CMPR_image",
+            "rootOffset": 310240
+        },
+        {
+            "name": "GrdFousideBillArl_RGB565_image",
+            "rootOffset": 370240
+        },
+        {
+            "name": "GrdFousideBillDoor_CMPR_image",
+            "rootOffset": 627776
+        },
+        {
+            "name": "GrdFousideHasigo_CMPR_image",
+            "rootOffset": 434240
+        },
+        {
+            "name": "GrdFousideHeliL2_CMPR_image",
+            "rootOffset": 739904
+        },
+        {
+            "name": "GrdFousideHeliLS_I4_image",
+            "rootOffset": 822848
+        },
+        {
+            "name": "GrdFousideHeliL_CMPR_image",
+            "rootOffset": 805440
+        },
+        {
+            "name": "GrdFousideKousiH_CMPR_image",
+            "rootOffset": 686144
+        },
+        {
+            "name": "GrdFousideKousiR_CMPR_image",
+            "rootOffset": 725568
+        },
+        {
+            "name": "GrdFousideKran_CMPR_image",
+            "rootOffset": 706624
+        },
+        {
+            "name": "GrdFousideSakus_CMPR_image",
+            "rootOffset": 378432
+        },
+        {
+            "name": "GrdFousideSyoberu_CMPR_image",
+            "rootOffset": 714816
+        },
+        {
+            "name": "GrdFousideTetu_CMPR_image",
+            "rootOffset": 731712
+        },
+        {
+            "name": "GrdFousideUfo2_CMPR_image",
+            "rootOffset": 839232
+        },
+        {
+            "name": "GrdFousideYogosi_CMPR_image",
+            "rootOffset": 723008
+        },
+        {
+            "name": "basslight2_RGB5A3_image",
+            "rootOffset": 432192
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 307432
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 308076
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 308296
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 820
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 308632
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 881160
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 308300
+        }
+    ]
+}

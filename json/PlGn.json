@@ -37,7 +37,7 @@
                     },
                     {
                         "name": "dashInitialVelocity",
-                        "value": 1.2999999523162842
+                        "value": 1.3300000429153442
                     },
                     {
                         "name": "dashAndRunAccelerationA",
@@ -49,7 +49,7 @@
                     },
                     {
                         "name": "dashAndRunTerminalVelocity",
-                        "value": 1.350000023841858
+                        "value": 1.3799999952316284
                     },
                     {
                         "name": "runAnimationScaling",
@@ -65,7 +65,7 @@
                     },
                     {
                         "name": "jumpStartup",
-                        "value": 6.0
+                        "value": 5.0
                     },
                     {
                         "name": "jumpHInitialVelocity",
@@ -237,7 +237,7 @@
                     },
                     {
                         "name": "normalLandingLag",
-                        "value": 5.0
+                        "value": 4.0
                     },
                     {
                         "name": "nairLandingLag",
@@ -257,7 +257,7 @@
                     },
                     {
                         "name": "dairLandingLag",
-                        "value": 35.0
+                        "value": 32.0
                     },
                     {
                         "name": "victoryScreenWindowModelScaling",
@@ -2926,16 +2926,13 @@
                                 "bytes": "ac 02 00 00"
                             },
                             {
-                                "commandId": "0xa4",
-                                "name": "animateModel",
+                                "commandId": "0x68",
+                                "name": "bodyCollisionState",
                                 "length": 4,
-                                "bytes": "a4 20 40 00"
-                            },
-                            {
-                                "commandId": "0xa4",
-                                "name": "animateModel",
-                                "length": 4,
-                                "bytes": "a4 18 40 00"
+                                "bytes": "68 00 00 01",
+                                "fields": {
+                                    "state": 1
+                                }
                             },
                             {
                                 "commandId": "0x2c",
@@ -2987,6 +2984,15 @@
                                 }
                             },
                             {
+                                "commandId": "0x68",
+                                "name": "bodyCollisionState",
+                                "length": 4,
+                                "bytes": "68 00 00 00",
+                                "fields": {
+                                    "state": 0
+                                }
+                            },
+                            {
                                 "commandId": "0x2c",
                                 "name": "hitbox",
                                 "length": 20,
@@ -3015,9 +3021,9 @@
                                 "commandId": "0x4",
                                 "name": "waitFor",
                                 "length": 4,
-                                "bytes": "04 00 00 07",
+                                "bytes": "04 00 00 09",
                                 "fields": {
-                                    "frames": 7
+                                    "frames": 9
                                 }
                             },
                             {
@@ -3856,189 +3862,42 @@
                         ]
                     },
                     {
-                        "shortName": "AttackHi3",
-                        "name": "PlyGanon5K_Share_ACTION_AttackHi3_figatree",
-                        "animOffset": 344896,
-                        "animSize": 17327,
+                        "shortName": "SpecialS",
+                        "name": "PlyGanon5K_Share_ACTION_SpecialS_figatree",
+                        "animOffset": 552320,
+                        "animSize": 7218,
                         "animationFile": 50,
                         "eventsOffset": 18512,
                         "events": [
                             {
-                                "commandId": "0x44",
-                                "name": "sfx",
-                                "length": 12,
-                                "bytes": "44 04 00 00 00 00 00 a6 00 00 7f 40"
-                            },
-                            {
-                                "commandId": "0xe8",
-                                "name": "windEffect",
-                                "length": 16,
-                                "bytes": "e8 00 00 45 00 00 00 00 00 00 ff ff 00 3c 00 00"
-                            },
-                            {
-                                "commandId": "0x8",
-                                "name": "waitUntil",
-                                "length": 4,
-                                "bytes": "08 00 00 08",
+                                "commandId": "0x28",
+                                "name": "gfx",
+                                "length": 20,
+                                "bytes": "28 00 00 00 04 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
                                 "fields": {
-                                    "frame": 8
-                                }
-                            },
-                            {
-                                "commandId": "0xac",
-                                "name": "rumble",
-                                "length": 4,
-                                "bytes": "ac 00 20 45"
-                            },
-                            {
-                                "commandId": "0xc",
-                                "name": "setLoop",
-                                "length": 4,
-                                "bytes": "0c 00 00 0d",
-                                "fields": {
-                                    "loopCount": 13
+                                    "id": 1030,
+                                    "z": 0,
+                                    "y": 0,
+                                    "x": 0,
+                                    "zRange": 0,
+                                    "yRange": 0,
+                                    "xRange": 0
                                 }
                             },
                             {
                                 "commandId": "0x28",
                                 "name": "gfx",
                                 "length": 20,
-                                "bytes": "28 34 00 00 03 f7 00 00 05 dc 00 00 00 00 07 d0 07 d0 07 d0",
+                                "bytes": "28 00 00 00 04 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
                                 "fields": {
-                                    "id": 1015,
-                                    "z": 1500,
+                                    "id": 1031,
+                                    "z": 0,
                                     "y": 0,
                                     "x": 0,
-                                    "zRange": 2000,
-                                    "yRange": 2000,
-                                    "xRange": 2000
+                                    "zRange": 0,
+                                    "yRange": 0,
+                                    "xRange": 0
                                 }
-                            },
-                            {
-                                "commandId": "0x4",
-                                "name": "waitFor",
-                                "length": 4,
-                                "bytes": "04 00 00 04",
-                                "fields": {
-                                    "frames": 4
-                                }
-                            },
-                            {
-                                "commandId": "0x10",
-                                "name": "executeLoop",
-                                "length": 4,
-                                "bytes": "10 00 00 00"
-                            },
-                            {
-                                "commandId": "0x8",
-                                "name": "waitUntil",
-                                "length": 4,
-                                "bytes": "08 00 00 4e",
-                                "fields": {
-                                    "frame": 78
-                                }
-                            },
-                            {
-                                "commandId": "0x44",
-                                "name": "sfx",
-                                "length": 12,
-                                "bytes": "44 04 00 00 00 00 00 9f 00 00 7f 40"
-                            },
-                            {
-                                "commandId": "0xd0",
-                                "name": "continuationControl?",
-                                "length": 4,
-                                "bytes": "d0 00 00 04"
-                            },
-                            {
-                                "commandId": "0x8",
-                                "name": "waitUntil",
-                                "length": 4,
-                                "bytes": "08 00 00 51",
-                                "fields": {
-                                    "frame": 81
-                                }
-                            },
-                            {
-                                "commandId": "0x2c",
-                                "name": "hitbox",
-                                "length": 20,
-                                "bytes": "2c 00 68 1b 07 08 00 00 03 20 03 e8 b4 94 00 13 37 04 01 23",
-                                "fields": {
-                                    "id": 0,
-                                    "bone": 13,
-                                    "damage": 27,
-                                    "size": 7.0588235294117645,
-                                    "z": 0.0,
-                                    "y": 3.1372549019607843,
-                                    "x": 3.9215686274509802,
-                                    "angle": 361,
-                                    "kbGrowth": 80,
-                                    "weightDepKb": 0,
-                                    "hitboxInteraction": 3,
-                                    "baseKb": 110,
-                                    "element": "fire",
-                                    "shieldDamage": 0,
-                                    "sfx": 72,
-                                    "hitGrounded": true,
-                                    "hitAirborne": true
-                                }
-                            },
-                            {
-                                "commandId": "0x2c",
-                                "name": "hitbox",
-                                "length": 20,
-                                "bytes": "2c 80 68 1b 07 08 00 00 00 00 00 00 b4 94 00 13 37 04 01 23",
-                                "fields": {
-                                    "id": 1,
-                                    "bone": 13,
-                                    "damage": 27,
-                                    "size": 7.0588235294117645,
-                                    "z": 0.0,
-                                    "y": 0.0,
-                                    "x": 0.0,
-                                    "angle": 361,
-                                    "kbGrowth": 80,
-                                    "weightDepKb": 0,
-                                    "hitboxInteraction": 3,
-                                    "baseKb": 110,
-                                    "element": "fire",
-                                    "shieldDamage": 0,
-                                    "sfx": 72,
-                                    "hitGrounded": true,
-                                    "hitAirborne": true
-                                }
-                            },
-                            {
-                                "commandId": "0x2c",
-                                "name": "hitbox",
-                                "length": 20,
-                                "bytes": "2d 00 60 1b 03 e8 00 00 00 00 00 00 b4 94 00 13 37 04 01 23",
-                                "fields": {
-                                    "id": 2,
-                                    "bone": 12,
-                                    "damage": 27,
-                                    "size": 3.9215686274509802,
-                                    "z": 0.0,
-                                    "y": 0.0,
-                                    "x": 0.0,
-                                    "angle": 361,
-                                    "kbGrowth": 80,
-                                    "weightDepKb": 0,
-                                    "hitboxInteraction": 3,
-                                    "baseKb": 110,
-                                    "element": "fire",
-                                    "shieldDamage": 0,
-                                    "sfx": 72,
-                                    "hitGrounded": true,
-                                    "hitAirborne": true
-                                }
-                            },
-                            {
-                                "commandId": "0xac",
-                                "name": "rumble",
-                                "length": 4,
-                                "bytes": "ac 01 c0 00"
                             },
                             {
                                 "commandId": "0x28",
@@ -4056,34 +3915,157 @@
                                 }
                             },
                             {
-                                "commandId": "0x28",
-                                "name": "gfx",
-                                "length": 20,
-                                "bytes": "28 3c 00 00 00 43 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+                                "commandId": "0x8",
+                                "name": "waitUntil",
+                                "length": 4,
+                                "bytes": "08 00 00 02",
                                 "fields": {
-                                    "id": 67,
-                                    "z": 0,
-                                    "y": 0,
-                                    "x": 0,
-                                    "zRange": 0,
-                                    "yRange": 0,
-                                    "xRange": 0
+                                    "frame": 2
                                 }
                             },
                             {
-                                "commandId": "0x28",
-                                "name": "gfx",
-                                "length": 20,
-                                "bytes": "28 00 00 00 04 06 00 00 00 00 00 00 04 b0 00 00 00 00 00 00",
+                                "commandId": "0xcc",
+                                "name": "selfDamage",
+                                "length": 4,
+                                "bytes": "cc 00 00 00",
                                 "fields": {
-                                    "id": 1030,
-                                    "z": 0,
-                                    "y": 0,
-                                    "x": 1200,
-                                    "zRange": 0,
-                                    "yRange": 0,
-                                    "xRange": 0
+                                    "damage": 0
                                 }
+                            },
+                            {
+                                "commandId": "0xcc",
+                                "name": "selfDamage",
+                                "length": 4,
+                                "bytes": "cc 00 00 00",
+                                "fields": {
+                                    "damage": 0
+                                }
+                            },
+                            {
+                                "commandId": "0xcc",
+                                "name": "selfDamage",
+                                "length": 4,
+                                "bytes": "cc 00 00 00",
+                                "fields": {
+                                    "damage": 0
+                                }
+                            },
+                            {
+                                "commandId": "0x8",
+                                "name": "waitUntil",
+                                "length": 4,
+                                "bytes": "08 00 00 03",
+                                "fields": {
+                                    "frame": 3
+                                }
+                            },
+                            {
+                                "commandId": "0x2c",
+                                "name": "hitbox",
+                                "length": 20,
+                                "bytes": "2c 00 c8 0d 03 e8 00 00 00 00 00 00 2d 1a c0 13 14 34 3d 23",
+                                "fields": {
+                                    "id": 0,
+                                    "bone": 25,
+                                    "damage": 13,
+                                    "size": 3.9215686274509802,
+                                    "z": 0.0,
+                                    "y": 0.0,
+                                    "x": 0.0,
+                                    "angle": 90,
+                                    "kbGrowth": 107,
+                                    "weightDepKb": 0,
+                                    "hitboxInteraction": 3,
+                                    "baseKb": 40,
+                                    "element": "darkness",
+                                    "shieldDamage": 15,
+                                    "sfx": 72,
+                                    "hitGrounded": true,
+                                    "hitAirborne": true
+                                }
+                            },
+                            {
+                                "commandId": "0x2c",
+                                "name": "hitbox",
+                                "length": 20,
+                                "bytes": "2c 80 b8 0d 03 e8 00 00 00 00 00 00 2d 1a c0 13 14 34 3d 23",
+                                "fields": {
+                                    "id": 1,
+                                    "bone": 23,
+                                    "damage": 13,
+                                    "size": 3.9215686274509802,
+                                    "z": 0.0,
+                                    "y": 0.0,
+                                    "x": 0.0,
+                                    "angle": 90,
+                                    "kbGrowth": 107,
+                                    "weightDepKb": 0,
+                                    "hitboxInteraction": 3,
+                                    "baseKb": 40,
+                                    "element": "darkness",
+                                    "shieldDamage": 15,
+                                    "sfx": 72,
+                                    "hitGrounded": true,
+                                    "hitAirborne": true
+                                }
+                            },
+                            {
+                                "commandId": "0x2c",
+                                "name": "hitbox",
+                                "length": 20,
+                                "bytes": "2d 00 20 0a 03 e8 00 00 00 00 00 00 b4 9b 80 13 0a 00 29 23",
+                                "fields": {
+                                    "id": 2,
+                                    "bone": 4,
+                                    "damage": 10,
+                                    "size": 3.9215686274509802,
+                                    "z": 0.0,
+                                    "y": 0.0,
+                                    "x": 0.0,
+                                    "angle": 361,
+                                    "kbGrowth": 110,
+                                    "weightDepKb": 0,
+                                    "hitboxInteraction": 3,
+                                    "baseKb": 20,
+                                    "element": "normal",
+                                    "shieldDamage": 10,
+                                    "sfx": 72,
+                                    "hitGrounded": true,
+                                    "hitAirborne": true
+                                }
+                            },
+                            {
+                                "commandId": "0x44",
+                                "name": "sfx",
+                                "length": 12,
+                                "bytes": "44 04 00 00 00 00 00 a6 00 00 7f 40"
+                            },
+                            {
+                                "commandId": "0x44",
+                                "name": "sfx",
+                                "length": 12,
+                                "bytes": "44 00 00 00 00 00 00 74 00 00 7f 40"
+                            },
+                            {
+                                "commandId": "0x44",
+                                "name": "sfx",
+                                "length": 12,
+                                "bytes": "44 08 00 00 00 04 93 f0 00 00 7f 40"
+                            },
+                            {
+                                "commandId": "0x4",
+                                "name": "waitFor",
+                                "length": 4,
+                                "bytes": "04 00 00 06",
+                                "fields": {
+                                    "frames": 6
+                                }
+                            },
+                            {
+                                "commandId": "0x6c",
+                                "name": "bodyCollisionStatus",
+                                "length": 4,
+                                "bytes": "6c 00 00 00"
                             },
                             {
                                 "commandId": "0x44",
@@ -4110,9 +4092,9 @@
                                 "commandId": "0x8",
                                 "name": "waitUntil",
                                 "length": 4,
-                                "bytes": "08 00 00 62",
+                                "bytes": "08 00 00 16",
                                 "fields": {
-                                    "frame": 98
+                                    "frame": 22
                                 }
                             },
                             {
@@ -4125,9 +4107,9 @@
                                 "commandId": "0x8",
                                 "name": "waitUntil",
                                 "length": 4,
-                                "bytes": "08 00 00 71",
+                                "bytes": "08 00 00 17",
                                 "fields": {
-                                    "frame": 113
+                                    "frame": 23
                                 }
                             },
                             {
@@ -4141,6 +4123,78 @@
                                 "name": "continuationControl?",
                                 "length": 4,
                                 "bytes": "d0 00 00 03"
+                            },
+                            {
+                                "commandId": "0xcc",
+                                "name": "selfDamage",
+                                "length": 4,
+                                "bytes": "cc 00 00 00",
+                                "fields": {
+                                    "damage": 0
+                                }
+                            },
+                            {
+                                "commandId": "0xcc",
+                                "name": "selfDamage",
+                                "length": 4,
+                                "bytes": "cc 00 00 00",
+                                "fields": {
+                                    "damage": 0
+                                }
+                            },
+                            {
+                                "commandId": "0xcc",
+                                "name": "selfDamage",
+                                "length": 4,
+                                "bytes": "cc 00 00 00",
+                                "fields": {
+                                    "damage": 0
+                                }
+                            },
+                            {
+                                "commandId": "0xcc",
+                                "name": "selfDamage",
+                                "length": 4,
+                                "bytes": "cc 00 00 00",
+                                "fields": {
+                                    "damage": 0
+                                }
+                            },
+                            {
+                                "commandId": "0xcc",
+                                "name": "selfDamage",
+                                "length": 4,
+                                "bytes": "cc 00 00 00",
+                                "fields": {
+                                    "damage": 0
+                                }
+                            },
+                            {
+                                "commandId": "0xcc",
+                                "name": "selfDamage",
+                                "length": 4,
+                                "bytes": "cc 00 00 00",
+                                "fields": {
+                                    "damage": 0
+                                }
+                            },
+                            {
+                                "commandId": "0xcc",
+                                "name": "selfDamage",
+                                "length": 4,
+                                "bytes": "cc 00 00 00",
+                                "fields": {
+                                    "damage": 0
+                                }
+                            },
+                            {
+                                "commandId": "0xcc",
+                                "name": "selfDamage",
+                                "length": 4,
+                                "bytes": "cc 00 00 00",
+                                "fields": {
+                                    "damage": 0
+                                }
                             },
                             {
                                 "commandId": "0x0",
@@ -6549,9 +6603,9 @@
                                 "commandId": "0x4",
                                 "name": "waitFor",
                                 "length": 4,
-                                "bytes": "04 00 00 02",
+                                "bytes": "04 00 00 05",
                                 "fields": {
-                                    "frames": 2
+                                    "frames": 5
                                 }
                             },
                             {
@@ -6564,9 +6618,9 @@
                                 "commandId": "0x8",
                                 "name": "waitUntil",
                                 "length": 4,
-                                "bytes": "08 00 00 14",
+                                "bytes": "08 00 00 10",
                                 "fields": {
-                                    "frame": 20
+                                    "frame": 16
                                 }
                             },
                             {
@@ -6660,9 +6714,9 @@
                                 "commandId": "0x4",
                                 "name": "waitFor",
                                 "length": 4,
-                                "bytes": "04 00 00 02",
+                                "bytes": "04 00 00 0b",
                                 "fields": {
-                                    "frames": 2
+                                    "frames": 11
                                 }
                             },
                             {
@@ -6672,6 +6726,12 @@
                                 "bytes": "40 00 00 00"
                             },
                             {
+                                "commandId": "0x4c",
+                                "name": "autocancel",
+                                "length": 4,
+                                "bytes": "4c 00 00 00"
+                            },
+                            {
                                 "commandId": "0x4",
                                 "name": "waitFor",
                                 "length": 4,
@@ -6679,12 +6739,6 @@
                                 "fields": {
                                     "frames": 4
                                 }
-                            },
-                            {
-                                "commandId": "0x4c",
-                                "name": "autocancel",
-                                "length": 4,
-                                "bytes": "4c 00 00 00"
                             },
                             {
                                 "commandId": "0x8",
@@ -17832,7 +17886,7 @@
                                 "commandId": "0x2c",
                                 "name": "hitbox",
                                 "length": 20,
-                                "bytes": "2c 00 00 00 03 e8 00 00 0a f0 07 08 b4 99 00 12 00 20 00 8b",
+                                "bytes": "2c 00 00 00 03 e8 00 00 0a f0 07 d0 b4 99 00 12 00 20 00 8b",
                                 "fields": {
                                     "id": 0,
                                     "bone": 0,
@@ -17840,7 +17894,7 @@
                                     "size": 3.9215686274509802,
                                     "z": 0.0,
                                     "y": 10.980392156862745,
-                                    "x": 7.0588235294117645,
+                                    "x": 7.8431372549019605,
                                     "angle": 361,
                                     "kbGrowth": 100,
                                     "weightDepKb": 0,
@@ -17964,7 +18018,7 @@
                                 "commandId": "0x2c",
                                 "name": "hitbox",
                                 "length": 20,
-                                "bytes": "2c 00 00 00 03 e8 00 00 0a 28 08 98 b4 99 00 12 00 20 00 8b",
+                                "bytes": "2c 00 00 00 03 e8 00 00 0a 28 09 60 b4 99 00 12 00 20 00 8b",
                                 "fields": {
                                     "id": 0,
                                     "bone": 0,
@@ -17972,7 +18026,7 @@
                                     "size": 3.9215686274509802,
                                     "z": 0.0,
                                     "y": 10.196078431372548,
-                                    "x": 8.627450980392156,
+                                    "x": 9.411764705882353,
                                     "angle": 361,
                                     "kbGrowth": 100,
                                     "weightDepKb": 0,
@@ -21419,7 +21473,7 @@
                                 "commandId": "0x2c",
                                 "name": "hitbox",
                                 "length": 20,
-                                "bytes": "2c 80 00 01 05 00 00 00 08 aa 0d 55 b4 99 00 13 00 20 00 86",
+                                "bytes": "2c 80 00 01 05 00 00 00 08 aa 0d 55 b4 99 00 13 00 20 00 87",
                                 "fields": {
                                     "id": 1,
                                     "bone": 0,
@@ -21437,7 +21491,7 @@
                                     "shieldDamage": 0,
                                     "sfx": 33,
                                     "hitGrounded": true,
-                                    "hitAirborne": false
+                                    "hitAirborne": true
                                 }
                             },
                             {
@@ -21528,9 +21582,9 @@
                                 "commandId": "0x8",
                                 "name": "waitUntil",
                                 "length": 4,
-                                "bytes": "08 00 00 1e",
+                                "bytes": "08 00 00 21",
                                 "fields": {
-                                    "frame": 30
+                                    "frame": 33
                                 }
                             },
                             {
@@ -21645,7 +21699,7 @@
                                 "commandId": "0x2c",
                                 "name": "hitbox",
                                 "length": 20,
-                                "bytes": "2c 80 00 01 05 00 00 00 08 aa 0d 55 b4 99 00 13 00 20 00 86",
+                                "bytes": "2c 80 00 01 05 00 00 00 08 aa 0d 55 b4 99 00 13 00 20 00 87",
                                 "fields": {
                                     "id": 1,
                                     "bone": 0,
@@ -21663,7 +21717,7 @@
                                     "shieldDamage": 0,
                                     "sfx": 33,
                                     "hitGrounded": true,
-                                    "hitAirborne": false
+                                    "hitAirborne": true
                                 }
                             },
                             {
@@ -21754,9 +21808,9 @@
                                 "commandId": "0x8",
                                 "name": "waitUntil",
                                 "length": 4,
-                                "bytes": "08 00 00 1e",
+                                "bytes": "08 00 00 21",
                                 "fields": {
-                                    "frame": 30
+                                    "frame": 33
                                 }
                             },
                             {
@@ -28966,13 +29020,13 @@
         {
             "nodes": [
                 {
-                    "shortName": "AttackHi3",
-                    "name": "PlyGanon5K_Share_ACTION_AttackHi3_figatree",
-                    "rootOffset": 16488,
+                    "shortName": "SpecialS",
+                    "name": "PlyGanon5K_Share_ACTION_SpecialS_figatree",
+                    "rootOffset": 6384,
                     "data": {
-                        "numFrames": 115.0,
-                        "boneTableOffset": 16400,
-                        "animDataOffset": 14216
+                        "numFrames": 25.0,
+                        "boneTableOffset": 6296,
+                        "animDataOffset": 4124
                     }
                 }
             ]

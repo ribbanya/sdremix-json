@@ -1,0 +1,257 @@
+{
+    "sourceFile": "GoSh.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 235788
+        },
+        {
+            "name": "GrdShirineUka2_MIPMAP_CMPR_image",
+            "rootOffset": 572576
+        },
+        {
+            "name": "GrdShrineDodai_CMPR_image",
+            "rootOffset": 935584
+        },
+        {
+            "name": "GrdShrineDodai_MIPMAP_CMPR_image",
+            "rootOffset": 939680
+        },
+        {
+            "name": "GrdShrineGake2_C8_image",
+            "rootOffset": 950368
+        },
+        {
+            "name": "GrdShrineGake2_tlut",
+            "rootOffset": 1015904
+        },
+        {
+            "name": "GrdShrineGake2_tlut_desc",
+            "rootOffset": 1016416
+        },
+        {
+            "name": "GrdShrineGake2b_CMPR_image",
+            "rootOffset": 815264
+        },
+        {
+            "name": "GrdShrineGake2b_MIPMAP_CMPR_image",
+            "rootOffset": 848032
+        },
+        {
+            "name": "GrdShrineGake3_MIPMAP_CMPR_image",
+            "rootOffset": 698784
+        },
+        {
+            "name": "GrdShrineGara3_CMPR_image",
+            "rootOffset": 945248
+        },
+        {
+            "name": "GrdShrineIseki2_C8_image",
+            "rootOffset": 237632
+        },
+        {
+            "name": "GrdShrineIseki2_tlut",
+            "rootOffset": 303168
+        },
+        {
+            "name": "GrdShrineIseki2_tlut_desc",
+            "rootOffset": 303680
+        },
+        {
+            "name": "GrdShrineIseki2b_MIPMAP_CMPR_image",
+            "rootOffset": 411296
+        },
+        {
+            "name": "GrdShrineIseki2c_MIPMAP_CMPR_image",
+            "rootOffset": 648992
+        },
+        {
+            "name": "GrdShrineIseki3b_MIPMAP_CMPR_image",
+            "rootOffset": 660000
+        },
+        {
+            "name": "GrdShrineIseki4_CMPR_image",
+            "rootOffset": 403104
+        },
+        {
+            "name": "GrdShrineIseki4_MIPMAP_CMPR_image",
+            "rootOffset": 749472
+        },
+        {
+            "name": "GrdShrineIseki4b_MIPMAP_CMPR_image",
+            "rootOffset": 665632
+        },
+        {
+            "name": "GrdShrineIseki5_MIPMAP_CMPR_image",
+            "rootOffset": 671200
+        },
+        {
+            "name": "GrdShrineIseki6_MIPMAP_CMPR_image",
+            "rootOffset": 687776
+        },
+        {
+            "name": "GrdShrineIseki7_MIPMAP_CMPR_image",
+            "rootOffset": 676768
+        },
+        {
+            "name": "GrdShrineIseki_CMPR_image",
+            "rootOffset": 370336
+        },
+        {
+            "name": "GrdShrineIseki_MIPMAP_CMPR_image",
+            "rootOffset": 771488
+        },
+        {
+            "name": "GrdShrineIsekib_CMPR_image",
+            "rootOffset": 603744
+        },
+        {
+            "name": "GrdShrineIsekib_MIPMAP_CMPR_image",
+            "rootOffset": 455072
+        },
+        {
+            "name": "GrdShrineIsekic_MIPMAP_CMPR_image",
+            "rootOffset": 636512
+        },
+        {
+            "name": "GrdShrineKumo3_I8_image",
+            "rootOffset": 1117344
+        },
+        {
+            "name": "GrdShrineKuzure2_CMPR_image",
+            "rootOffset": 498848
+        },
+        {
+            "name": "GrdShrineKuzure2_MIPMAP_CMPR_image",
+            "rootOffset": 592736
+        },
+        {
+            "name": "GrdShrineKuzure_CMPR_image",
+            "rootOffset": 311904
+        },
+        {
+            "name": "GrdShrineMori2_CMPR_image",
+            "rootOffset": 539808
+        },
+        {
+            "name": "GrdShrineMori_CMPR_image",
+            "rootOffset": 507040
+        },
+        {
+            "name": "GrdShrineMori_MIPMAP_CMPR_image",
+            "rootOffset": 891808
+        },
+        {
+            "name": "GrdShrineRenga_CMPR_image",
+            "rootOffset": 303712
+        },
+        {
+            "name": "GrdShrineRenga_MIPMAP_CMPR_image",
+            "rootOffset": 760480
+        },
+        {
+            "name": "GrdShrineRengab_MIPMAP_CMPR_image",
+            "rootOffset": 662816
+        },
+        {
+            "name": "GrdShrineSky2_C8_image",
+            "rootOffset": 1183008
+        },
+        {
+            "name": "GrdShrineSky2_tlut",
+            "rootOffset": 1215776
+        },
+        {
+            "name": "GrdShrineSky2_tlut_desc",
+            "rootOffset": 1216288
+        },
+        {
+            "name": "GrdShrineSky2b_CMPR_image",
+            "rootOffset": 1182880
+        },
+        {
+            "name": "GrdShrineSkyA2_C8_image",
+            "rootOffset": 1016448
+        },
+        {
+            "name": "GrdShrineSkyA2_tlut",
+            "rootOffset": 1116800
+        },
+        {
+            "name": "GrdShrineSkyA2_tlut_desc",
+            "rootOffset": 1117312
+        },
+        {
+            "name": "GrdShrineStep1_C8_image",
+            "rootOffset": 337024
+        },
+        {
+            "name": "GrdShrineStep1_tlut",
+            "rootOffset": 369792
+        },
+        {
+            "name": "GrdShrineStep1_tlut_desc",
+            "rootOffset": 370304
+        },
+        {
+            "name": "GrdShrineStep2_C8_image",
+            "rootOffset": 320096
+        },
+        {
+            "name": "GrdShrineStep2_tlut",
+            "rootOffset": 336480
+        },
+        {
+            "name": "GrdShrineStep2_tlut_desc",
+            "rootOffset": 336992
+        },
+        {
+            "name": "GrdShrineTetusaku_CMPR_image",
+            "rootOffset": 583584
+        },
+        {
+            "name": "GrdShrineTuta2_CMPR_image",
+            "rootOffset": 742560
+        },
+        {
+            "name": "GrdShrineTuta_CMPR_image",
+            "rootOffset": 946272
+        },
+        {
+            "name": "GrdShrineUroko_MIPMAP_CMPR_image",
+            "rootOffset": 746656
+        },
+        {
+            "name": "GrdShrinedoor_MIPMAP_CMPR_image",
+            "rootOffset": 647520
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 233688
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 235532
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 235752
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 480
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 235956
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 1217288
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 235756
+        }
+    ]
+}

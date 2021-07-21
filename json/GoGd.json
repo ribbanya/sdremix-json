@@ -1,0 +1,237 @@
+{
+    "sourceFile": "GoGd.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 271220
+        },
+        {
+            "name": "GrdGardenCloud_I4_image",
+            "rootOffset": 526720
+        },
+        {
+            "name": "GrdGardenCrankyShadow_I4_image",
+            "rootOffset": 562560
+        },
+        {
+            "name": "GrdGardenCrankySwHand_I4_image",
+            "rootOffset": 570752
+        },
+        {
+            "name": "GrdGardenFlash1_IA8_image",
+            "rootOffset": 346304
+        },
+        {
+            "name": "GrdGardenFlooe1_CMPR_image",
+            "rootOffset": 284512
+        },
+        {
+            "name": "GrdGardenForest3_CMPR_image",
+            "rootOffset": 484736
+        },
+        {
+            "name": "GrdGardenGA_IA4_image",
+            "rootOffset": 342208
+        },
+        {
+            "name": "GrdGardenGake1_CMPR_image",
+            "rootOffset": 510336
+        },
+        {
+            "name": "GrdGardenGrass_C8_image",
+            "rootOffset": 379072
+        },
+        {
+            "name": "GrdGardenGrass_tlut",
+            "rootOffset": 444608
+        },
+        {
+            "name": "GrdGardenGrass_tlut_desc",
+            "rootOffset": 444928
+        },
+        {
+            "name": "GrdGardenKirakira_I4_image",
+            "rootOffset": 560512
+        },
+        {
+            "name": "GrdGardenKlap1_CMPR_image",
+            "rootOffset": 575616
+        },
+        {
+            "name": "GrdGardenKlap2_CMPR_image",
+            "rootOffset": 576128
+        },
+        {
+            "name": "GrdGardenKlap3_CMPR_image",
+            "rootOffset": 573568
+        },
+        {
+            "name": "GrdGardenKlap4_CMPR_image",
+            "rootOffset": 578176
+        },
+        {
+            "name": "GrdGardenKlap5_CMPR_image",
+            "rootOffset": 578688
+        },
+        {
+            "name": "GrdGardenKoya1_CMPR_image",
+            "rootOffset": 314560
+        },
+        {
+            "name": "GrdGardenKoya2_CMPR_image",
+            "rootOffset": 322752
+        },
+        {
+            "name": "GrdGardenKoya3_CMPR_image",
+            "rootOffset": 326848
+        },
+        {
+            "name": "GrdGardenKoya6_C8_image",
+            "rootOffset": 300896
+        },
+        {
+            "name": "GrdGardenKoya6_tlut",
+            "rootOffset": 304992
+        },
+        {
+            "name": "GrdGardenKoya6_tlut_desc",
+            "rootOffset": 305504
+        },
+        {
+            "name": "GrdGardenLampRef_CMPR_image",
+            "rootOffset": 310464
+        },
+        {
+            "name": "GrdGardenNawa_CMPR_image",
+            "rootOffset": 283488
+        },
+        {
+            "name": "GrdGardenNiraNira_IA8_image",
+            "rootOffset": 501120
+        },
+        {
+            "name": "GrdGardenRdTree1_CMPR_image",
+            "rootOffset": 460160
+        },
+        {
+            "name": "GrdGardenRoom1_CMPR_image",
+            "rootOffset": 340160
+        },
+        {
+            "name": "GrdGardenRoom2_CMPR_image",
+            "rootOffset": 337088
+        },
+        {
+            "name": "GrdGardenRousoku1_I4_image",
+            "rootOffset": 312512
+        },
+        {
+            "name": "GrdGardenSplash1_I4_image",
+            "rootOffset": 509312
+        },
+        {
+            "name": "GrdGardenTaru2_CMPR_image",
+            "rootOffset": 308416
+        },
+        {
+            "name": "GrdGardenToilet_CMPR_image",
+            "rootOffset": 305536
+        },
+        {
+            "name": "GrdGardenTreeP1_CMPR_image",
+            "rootOffset": 454016
+        },
+        {
+            "name": "GrdGardenTreeP3_IA4_image",
+            "rootOffset": 456064
+        },
+        {
+            "name": "GrdGardenWater2Side_IA4_image",
+            "rootOffset": 492928
+        },
+        {
+            "name": "GrdGardenWater2_I8_image",
+            "rootOffset": 527744
+        },
+        {
+            "name": "GrdGardenWood_CMPR_image",
+            "rootOffset": 275296
+        },
+        {
+            "name": "GrdGardenYane_CMPR_image",
+            "rootOffset": 328896
+        },
+        {
+            "name": "GrdGardensEda1_CMPR_image",
+            "rootOffset": 444960
+        },
+        {
+            "name": "GrdGardensLeaf1_C4_image",
+            "rootOffset": 447264
+        },
+        {
+            "name": "GrdGardensLeaf1_tlut",
+            "rootOffset": 449312
+        },
+        {
+            "name": "GrdGardensLeaf1_tlut_desc",
+            "rootOffset": 449344
+        },
+        {
+            "name": "GrdGardensTuta1_C4_image",
+            "rootOffset": 449376
+        },
+        {
+            "name": "GrdGardensTuta1_tlut",
+            "rootOffset": 453472
+        },
+        {
+            "name": "GrdGardensTuta1_tlut_desc",
+            "rootOffset": 453984
+        },
+        {
+            "name": "GrdGardensleaf2_CMPR_image",
+            "rootOffset": 447008
+        },
+        {
+            "name": "GrdGardenwood1_CMPR_image",
+            "rootOffset": 273248
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 238920
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 270908
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 271128
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 660
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 271548
+        },
+        {
+            "name": "map_ptcl",
+            "rootOffset": 238976
+        },
+        {
+            "name": "map_texg",
+            "rootOffset": 240352
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 581704
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 271132
+        }
+    ]
+}

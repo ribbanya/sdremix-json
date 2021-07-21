@@ -1,0 +1,505 @@
+{
+    "sourceFile": "GoCs.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 613368
+        },
+        {
+            "name": "DbCastSwitcha_CMPR_image",
+            "rootOffset": 1456928
+        },
+        {
+            "name": "GrdCastleBlockBlue2_CMPR_image",
+            "rootOffset": 1469472
+        },
+        {
+            "name": "GrdCastleBlockBlue3_CMPR_image",
+            "rootOffset": 1465376
+        },
+        {
+            "name": "GrdCastleBlockBlue_CMPR_image",
+            "rootOffset": 1467424
+        },
+        {
+            "name": "GrdCastleBlockGreen2_CMPR_image",
+            "rootOffset": 1475616
+        },
+        {
+            "name": "GrdCastleBlockGreen3_CMPR_image",
+            "rootOffset": 1471520
+        },
+        {
+            "name": "GrdCastleBlockGreen_CMPR_image",
+            "rootOffset": 1473568
+        },
+        {
+            "name": "GrdCastleBlockRed2_CMPR_image",
+            "rootOffset": 1463328
+        },
+        {
+            "name": "GrdCastleBlockRed3_CMPR_image",
+            "rootOffset": 1459232
+        },
+        {
+            "name": "GrdCastleBlockRed_CMPR_image",
+            "rootOffset": 1461280
+        },
+        {
+            "name": "GrdCastleCastdr1_CMPR_image",
+            "rootOffset": 909344
+        },
+        {
+            "name": "GrdCastleCastkpt_CMPR_image",
+            "rootOffset": 901152
+        },
+        {
+            "name": "GrdCastleCastrk1_CMPR_image",
+            "rootOffset": 1038336
+        },
+        {
+            "name": "GrdCastleCastrk2_CMPR_image",
+            "rootOffset": 1046528
+        },
+        {
+            "name": "GrdCastleClm1_CMPR_image",
+            "rootOffset": 656096
+        },
+        {
+            "name": "GrdCastleClm2_CMPR_image",
+            "rootOffset": 662240
+        },
+        {
+            "name": "GrdCastleClm3_CMPR_image",
+            "rootOffset": 682240
+        },
+        {
+            "name": "GrdCastleClm4b_CMPR_image",
+            "rootOffset": 682752
+        },
+        {
+            "name": "GrdCastleClm5_CMPR_image",
+            "rootOffset": 763424
+        },
+        {
+            "name": "GrdCastleClm7_CMPR_image",
+            "rootOffset": 750880
+        },
+        {
+            "name": "GrdCastleElev1_CMPR_image",
+            "rootOffset": 1486880
+        },
+        {
+            "name": "GrdCastleEnt1_CMPR_image",
+            "rootOffset": 755232
+        },
+        {
+            "name": "GrdCastleFlagd_C8_image",
+            "rootOffset": 1010368
+        },
+        {
+            "name": "GrdCastleFlagd_tlut",
+            "rootOffset": 1018560
+        },
+        {
+            "name": "GrdCastleFlagd_tlut_desc",
+            "rootOffset": 1018816
+        },
+        {
+            "name": "GrdCastleFuti1_CMPR_image",
+            "rootOffset": 1458976
+        },
+        {
+            "name": "GrdCastleGdnfbed1_CMPR_image",
+            "rootOffset": 892960
+        },
+        {
+            "name": "GrdCastleGdnfbed2_CMPR_image",
+            "rootOffset": 884768
+        },
+        {
+            "name": "GrdCastleGdnfrw1_C8_image",
+            "rootOffset": 818688
+        },
+        {
+            "name": "GrdCastleGdnfrw1_tlut",
+            "rootOffset": 884224
+        },
+        {
+            "name": "GrdCastleGdnfrw1_tlut_desc",
+            "rootOffset": 884736
+        },
+        {
+            "name": "GrdCastleGdnfrw2_C8_image",
+            "rootOffset": 793696
+        },
+        {
+            "name": "GrdCastleGdnfrw2_tlut",
+            "rootOffset": 810080
+        },
+        {
+            "name": "GrdCastleGdnfrw2_tlut_desc",
+            "rootOffset": 810464
+        },
+        {
+            "name": "GrdCastleGdngrs2_CMPR_image",
+            "rootOffset": 777312
+        },
+        {
+            "name": "GrdCastleGdngrs3_CMPR_image",
+            "rootOffset": 769120
+        },
+        {
+            "name": "GrdCastleGdngrs4_CMPR_image",
+            "rootOffset": 810496
+        },
+        {
+            "name": "GrdCastleGdngrs_CMPR_image",
+            "rootOffset": 785504
+        },
+        {
+            "name": "GrdCastleGdnrail1_CMPR_image",
+            "rootOffset": 1018848
+        },
+        {
+            "name": "GrdCastleGrate1_CMPR_image",
+            "rootOffset": 1037824
+        },
+        {
+            "name": "GrdCastleKillerfin_CMPR_image",
+            "rootOffset": 1361120
+        },
+        {
+            "name": "GrdCastleKillerkuti_C8_image",
+            "rootOffset": 1364192
+        },
+        {
+            "name": "GrdCastleKillerkuti_tlut",
+            "rootOffset": 1429728
+        },
+        {
+            "name": "GrdCastleKillerkuti_tlut_desc",
+            "rootOffset": 1430016
+        },
+        {
+            "name": "GrdCastleKillerme_C8_image",
+            "rootOffset": 1430048
+        },
+        {
+            "name": "GrdCastleKillerme_tlut",
+            "rootOffset": 1446432
+        },
+        {
+            "name": "GrdCastleKillerme_tlut_desc",
+            "rootOffset": 1446656
+        },
+        {
+            "name": "GrdCastleKillerrif_CMPR_image",
+            "rootOffset": 1358944
+        },
+        {
+            "name": "GrdCastleKillerrktc_CMPR_image",
+            "rootOffset": 1360992
+        },
+        {
+            "name": "GrdCastleKillerrktend_CMPR_image",
+            "rootOffset": 1363168
+        },
+        {
+            "name": "GrdCastleKillerx_CMPR_image",
+            "rootOffset": 1363680
+        },
+        {
+            "name": "GrdCastleMt1_CMPR_image",
+            "rootOffset": 1170080
+        },
+        {
+            "name": "GrdCastleMt2_CMPR_image",
+            "rootOffset": 1244256
+        },
+        {
+            "name": "GrdCastleMt3_CMPR_image",
+            "rootOffset": 615136
+        },
+        {
+            "name": "GrdCastleMt4_C8_image",
+            "rootOffset": 1178272
+        },
+        {
+            "name": "GrdCastleMt4_tlut",
+            "rootOffset": 1243808
+        },
+        {
+            "name": "GrdCastleMt4_tlut_desc",
+            "rootOffset": 1244224
+        },
+        {
+            "name": "GrdCastleMtwtr2_I8_image",
+            "rootOffset": 1136800
+        },
+        {
+            "name": "GrdCastlePole1_CMPR_image",
+            "rootOffset": 765472
+        },
+        {
+            "name": "GrdCastleRoof1_C8_image",
+            "rootOffset": 669408
+        },
+        {
+            "name": "GrdCastleRoof1_tlut",
+            "rootOffset": 673504
+        },
+        {
+            "name": "GrdCastleRoof1_tlut_desc",
+            "rootOffset": 674016
+        },
+        {
+            "name": "GrdCastleRoof3_CMPR_image",
+            "rootOffset": 674048
+        },
+        {
+            "name": "GrdCastleRoof4_CMPR_image",
+            "rootOffset": 754976
+        },
+        {
+            "name": "GrdCastleSky1n_CMPR_image",
+            "rootOffset": 1144992
+        },
+        {
+            "name": "GrdCastleSky2_CMPR_image",
+            "rootOffset": 1145504
+        },
+        {
+            "name": "GrdCastleSky3_I8_image",
+            "rootOffset": 1248352
+        },
+        {
+            "name": "GrdCastleSky3b_I8_image",
+            "rootOffset": 1272928
+        },
+        {
+            "name": "GrdCastleSky3c_I8_image",
+            "rootOffset": 1309792
+        },
+        {
+            "name": "GrdCastleStd1_CMPR_image",
+            "rootOffset": 684800
+        },
+        {
+            "name": "GrdCastleStd2_C8_image",
+            "rootOffset": 717568
+        },
+        {
+            "name": "GrdCastleStd2_tlut",
+            "rootOffset": 750336
+        },
+        {
+            "name": "GrdCastleStd2_tlut_desc",
+            "rootOffset": 750848
+        },
+        {
+            "name": "GrdCastleSwitchBlue_CMPR_image",
+            "rootOffset": 1457952
+        },
+        {
+            "name": "GrdCastleSwitchGreen_CMPR_image",
+            "rootOffset": 1458464
+        },
+        {
+            "name": "GrdCastleSwitchRed_CMPR_image",
+            "rootOffset": 1457440
+        },
+        {
+            "name": "GrdCastleTama1_CMPR_image",
+            "rootOffset": 1490976
+        },
+        {
+            "name": "GrdCastleWall1_CMPR_image",
+            "rootOffset": 667360
+        },
+        {
+            "name": "GrdCastleWall2_CMPR_image",
+            "rootOffset": 666336
+        },
+        {
+            "name": "GrdCastleWall2b_CMPR_image",
+            "rootOffset": 768096
+        },
+        {
+            "name": "GrdCastleWater1na_RGB565_image",
+            "rootOffset": 1054720
+        },
+        {
+            "name": "GrdCastleWater2na_RGB565_image",
+            "rootOffset": 1087488
+        },
+        {
+            "name": "GrdCastleWaterfall1_C8_image",
+            "rootOffset": 1120256
+        },
+        {
+            "name": "GrdCastleWaterfall1_tlut",
+            "rootOffset": 1136640
+        },
+        {
+            "name": "GrdCastleWaterfall1_tlut_desc",
+            "rootOffset": 1136768
+        },
+        {
+            "name": "GrdCastleWin1_CMPR_image",
+            "rootOffset": 623328
+        },
+        {
+            "name": "GrdCastleWmk1_CMPR_image",
+            "rootOffset": 660192
+        },
+        {
+            "name": "GrdEffKillerBomb1_RGB5A3_image",
+            "rootOffset": 1448736
+        },
+        {
+            "name": "GrdEffKillerBomb2_CMPR_image",
+            "rootOffset": 1446688
+        },
+        {
+            "name": "GrdPeachCaststain1_C4_image",
+            "rootOffset": 767520
+        },
+        {
+            "name": "GrdPeachCaststain1_tlut",
+            "rootOffset": 768032
+        },
+        {
+            "name": "GrdPeachCaststain1_tlut_desc",
+            "rootOffset": 768064
+        },
+        {
+            "name": "GrdPeachGdntr1_C8_image",
+            "rootOffset": 1020896
+        },
+        {
+            "name": "GrdPeachGdntr1_tlut",
+            "rootOffset": 1037280
+        },
+        {
+            "name": "GrdPeachGdntr1_tlut_desc",
+            "rootOffset": 1037792
+        },
+        {
+            "name": "GrdPeachGdntr2_C8_image",
+            "rootOffset": 984704
+        },
+        {
+            "name": "GrdPeachGdntr2_tlut",
+            "rootOffset": 1001088
+        },
+        {
+            "name": "GrdPeachGdntr2_tlut_desc",
+            "rootOffset": 1001600
+        },
+        {
+            "name": "GrdPeachGdntr3_C8_image",
+            "rootOffset": 975968
+        },
+        {
+            "name": "GrdPeachGdntr3_tlut",
+            "rootOffset": 984160
+        },
+        {
+            "name": "GrdPeachGdntr3_tlut_desc",
+            "rootOffset": 984672
+        },
+        {
+            "name": "GrdPeachGdntr4_C8_image",
+            "rootOffset": 1001632
+        },
+        {
+            "name": "GrdPeachGdntr4_tlut",
+            "rootOffset": 1009824
+        },
+        {
+            "name": "GrdPeachGdntr4_tlut_desc",
+            "rootOffset": 1010336
+        },
+        {
+            "name": "GrdPeachGdntr5_C8_image",
+            "rootOffset": 959040
+        },
+        {
+            "name": "GrdPeachGdntr5_tlut",
+            "rootOffset": 975424
+        },
+        {
+            "name": "GrdPeachGdntr5_tlut_desc",
+            "rootOffset": 975936
+        },
+        {
+            "name": "GrdPeachGdntr6_C8_image",
+            "rootOffset": 942112
+        },
+        {
+            "name": "GrdPeachGdntr6_tlut",
+            "rootOffset": 958496
+        },
+        {
+            "name": "GrdPeachGdntr6_tlut_desc",
+            "rootOffset": 959008
+        },
+        {
+            "name": "GrdRainbowCruseRefA_RGB5A3_image",
+            "rootOffset": 1478688
+        },
+        {
+            "name": "GrdRainbowCruseSipF_CMPR_image",
+            "rootOffset": 1477664
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 573064
+        },
+        {
+            "name": "dynamicsdata_flag3",
+            "rootOffset": 780
+        },
+        {
+            "name": "dynamicsdata_flag4",
+            "rootOffset": 800
+        },
+        {
+            "name": "dynamicsdata_flag6",
+            "rootOffset": 820
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 612556
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 612776
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 2756
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 613548
+        },
+        {
+            "name": "map_ptcl",
+            "rootOffset": 573120
+        },
+        {
+            "name": "map_texg",
+            "rootOffset": 574304
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 1492456
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 612864
+        }
+    ]
+}

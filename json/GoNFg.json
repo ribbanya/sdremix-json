@@ -1,0 +1,149 @@
+{
+    "sourceFile": "GoNFg.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 114556
+        },
+        {
+            "name": "Dai2_CMPR_image",
+            "rootOffset": 124032
+        },
+        {
+            "name": "Dai3_CMPR_image",
+            "rootOffset": 115840
+        },
+        {
+            "name": "GrdFiguregetBG3_C8_image",
+            "rootOffset": 197760
+        },
+        {
+            "name": "GrdFiguregetBG3_tlut",
+            "rootOffset": 214144
+        },
+        {
+            "name": "GrdFiguregetBG3_tlut_desc",
+            "rootOffset": 214656
+        },
+        {
+            "name": "GrdFiguregetColB_RGBA8_image",
+            "rootOffset": 421536
+        },
+        {
+            "name": "GrdFiguregetColW_RGBA8_image",
+            "rootOffset": 420512
+        },
+        {
+            "name": "GrdFiguregetKago_RGBA8_image",
+            "rootOffset": 346176
+        },
+        {
+            "name": "GrdFiguregetKumoUn22_IA8_image",
+            "rootOffset": 132224
+        },
+        {
+            "name": "GrdFiguregetKumoUn333_C8_image",
+            "rootOffset": 280224
+        },
+        {
+            "name": "GrdFiguregetKumoUn333_tlut",
+            "rootOffset": 345760
+        },
+        {
+            "name": "GrdFiguregetKumoUn333_tlut_desc",
+            "rootOffset": 346144
+        },
+        {
+            "name": "GrdFiguregetMark1_C8_image",
+            "rootOffset": 422560
+        },
+        {
+            "name": "GrdFiguregetMark1_tlut",
+            "rootOffset": 438944
+        },
+        {
+            "name": "GrdFiguregetMark1_tlut_desc",
+            "rootOffset": 439392
+        },
+        {
+            "name": "GrdFiguregetMark2_C8_image",
+            "rootOffset": 378944
+        },
+        {
+            "name": "GrdFiguregetMark2_tlut",
+            "rootOffset": 395328
+        },
+        {
+            "name": "GrdFiguregetMark2_tlut_desc",
+            "rootOffset": 395840
+        },
+        {
+            "name": "GrdFiguregetMetal2_RGBA8_image",
+            "rootOffset": 362560
+        },
+        {
+            "name": "GrdFiguregetMetal3_RGBA8_image",
+            "rootOffset": 439424
+        },
+        {
+            "name": "GrdFiguregetSkin5_C8_image",
+            "rootOffset": 399072
+        },
+        {
+            "name": "GrdFiguregetSkin5_tlut",
+            "rootOffset": 403168
+        },
+        {
+            "name": "GrdFiguregetSkin5_tlut_desc",
+            "rootOffset": 403552
+        },
+        {
+            "name": "GrdFiguregetSter2_I8_image",
+            "rootOffset": 214688
+        },
+        {
+            "name": "GrdFigurgetSkin3_C8_image",
+            "rootOffset": 403584
+        },
+        {
+            "name": "GrdFigurgetSkin3_tlut",
+            "rootOffset": 419968
+        },
+        {
+            "name": "GrdFigurgetSkin3_tlut_desc",
+            "rootOffset": 420480
+        },
+        {
+            "name": "PlyMario5KButton_CMPR_image",
+            "rootOffset": 395872
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 114136
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 114280
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 114500
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 260
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 114720
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 441416
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 114504
+        }
+    ]
+}

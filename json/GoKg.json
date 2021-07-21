@@ -1,0 +1,193 @@
+{
+    "sourceFile": "GoKg.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 269592
+        },
+        {
+            "name": "GrdDonkeyEda1_CMPR_image",
+            "rootOffset": 368960
+        },
+        {
+            "name": "GrdDonkeyFloor1_CMPR_image",
+            "rootOffset": 319584
+        },
+        {
+            "name": "GrdDonkeyFloor2_CMPR_image",
+            "rootOffset": 304224
+        },
+        {
+            "name": "GrdDonkeyForest_CMPR_image",
+            "rootOffset": 327776
+        },
+        {
+            "name": "GrdDonkeyGake1_CMPR_image",
+            "rootOffset": 437120
+        },
+        {
+            "name": "GrdDonkeyGrass_CMPR_image",
+            "rootOffset": 428928
+        },
+        {
+            "name": "GrdDonkeyKareki1_CMPR_image",
+            "rootOffset": 393056
+        },
+        {
+            "name": "GrdDonkeyKareki2_C8_image",
+            "rootOffset": 384320
+        },
+        {
+            "name": "GrdDonkeyKareki2_tlut",
+            "rootOffset": 392512
+        },
+        {
+            "name": "GrdDonkeyKareki2_tlut_desc",
+            "rootOffset": 393024
+        },
+        {
+            "name": "GrdDonkeyKoya1_CMPR_image",
+            "rootOffset": 409440
+        },
+        {
+            "name": "GrdDonkeyKoya2_CMPR_image",
+            "rootOffset": 420192
+        },
+        {
+            "name": "GrdDonkeyKoya3_CMPR_image",
+            "rootOffset": 418144
+        },
+        {
+            "name": "GrdDonkeyKoya4_C8_image",
+            "rootOffset": 424288
+        },
+        {
+            "name": "GrdDonkeyKoya4_tlut",
+            "rootOffset": 428384
+        },
+        {
+            "name": "GrdDonkeyKoya4_tlut_desc",
+            "rootOffset": 428896
+        },
+        {
+            "name": "GrdDonkeyKoya5_CMPR_image",
+            "rootOffset": 417632
+        },
+        {
+            "name": "GrdDonkeyLeaf1_CMPR_image",
+            "rootOffset": 372032
+        },
+        {
+            "name": "GrdDonkeyNawa_CMPR_image",
+            "rootOffset": 312416
+        },
+        {
+            "name": "GrdDonkeyRainbow_RGBA8_image",
+            "rootOffset": 449408
+        },
+        {
+            "name": "GrdDonkeyRdTree1_CMPR_image",
+            "rootOffset": 335968
+        },
+        {
+            "name": "GrdDonkeyRiver1_CMPR_image",
+            "rootOffset": 439168
+        },
+        {
+            "name": "GrdDonkeySida2_CMPR_image",
+            "rootOffset": 405344
+        },
+        {
+            "name": "GrdDonkeyTakiA2_CMPR_image",
+            "rootOffset": 443264
+        },
+        {
+            "name": "GrdDonkeyTaru1_CMPR_image",
+            "rootOffset": 321632
+        },
+        {
+            "name": "GrdDonkeyTaru2_CMPR_image",
+            "rootOffset": 325728
+        },
+        {
+            "name": "GrdDonkeyTreeP1_CMPR_image",
+            "rootOffset": 362592
+        },
+        {
+            "name": "GrdDonkeyTreeP2_CMPR_image",
+            "rootOffset": 360544
+        },
+        {
+            "name": "GrdDonkeyTreeP3_C8_image",
+            "rootOffset": 364640
+        },
+        {
+            "name": "GrdDonkeyTreeP3_tlut",
+            "rootOffset": 368736
+        },
+        {
+            "name": "GrdDonkeyTreeP3_tlut_desc",
+            "rootOffset": 368928
+        },
+        {
+            "name": "GrdDonkeyTuta1_CMPR_image",
+            "rootOffset": 380224
+        },
+        {
+            "name": "GrdDonkeyWall_CMPR_image",
+            "rootOffset": 397152
+        },
+        {
+            "name": "GrdDonkeyWalter1_IA8_image",
+            "rootOffset": 445312
+        },
+        {
+            "name": "GrdDonkeyleaf2_CMPR_image",
+            "rootOffset": 371008
+        },
+        {
+            "name": "GrdDonkeywood1_CMPR_image",
+            "rootOffset": 313440
+        },
+        {
+            "name": "GrdDonkeywood2_CMPR_image",
+            "rootOffset": 315488
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 245448
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 269116
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 269336
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 1012
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 303304
+        },
+        {
+            "name": "map_ptcl",
+            "rootOffset": 245504
+        },
+        {
+            "name": "map_texg",
+            "rootOffset": 246240
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 458568
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 269376
+        }
+    ]
+}

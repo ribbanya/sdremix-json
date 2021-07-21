@@ -1,0 +1,153 @@
+{
+    "sourceFile": "GoNBa.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 213220
+        },
+        {
+            "name": "GrdBattle2Color_RGB565_image",
+            "rootOffset": 303616
+        },
+        {
+            "name": "GrdBattle2Linex_I4_image",
+            "rootOffset": 305664
+        },
+        {
+            "name": "GrdBattle2texblack_RGB565_image",
+            "rootOffset": 287232
+        },
+        {
+            "name": "GrdBattle2texgreen_RGB565_image",
+            "rootOffset": 295424
+        },
+        {
+            "name": "GrdBattle2texsky2_RGB565_image",
+            "rootOffset": 313856
+        },
+        {
+            "name": "GrdBattleBGGrad2_I8_image",
+            "rootOffset": 238080
+        },
+        {
+            "name": "GrdBattleBGWater_RGB5A3_image",
+            "rootOffset": 254464
+        },
+        {
+            "name": "GrdBattleBit_I4_image",
+            "rootOffset": 237440
+        },
+        {
+            "name": "GrdBattleClaw_CMPR_image",
+            "rootOffset": 238016
+        },
+        {
+            "name": "GrdBattleCord_CMPR_image",
+            "rootOffset": 237984
+        },
+        {
+            "name": "GrdBattleCore0_CMPR_image",
+            "rootOffset": 216736
+        },
+        {
+            "name": "GrdBattleCore1_CMPR_image",
+            "rootOffset": 215072
+        },
+        {
+            "name": "GrdBattleGrad2_CMPR_image",
+            "rootOffset": 237472
+        },
+        {
+            "name": "GrdBattleGrad_CMPR_image",
+            "rootOffset": 216096
+        },
+        {
+            "name": "GrdBattleGround_CMPR_image",
+            "rootOffset": 225536
+        },
+        {
+            "name": "GrdBattleWall0_C8_image",
+            "rootOffset": 222944
+        },
+        {
+            "name": "GrdBattleWall0_tlut",
+            "rootOffset": 224992
+        },
+        {
+            "name": "GrdBattleWall0_tlut_desc",
+            "rootOffset": 225504
+        },
+        {
+            "name": "GrdBattleWall1_C8_image",
+            "rootOffset": 226656
+        },
+        {
+            "name": "GrdBattleWall1_tlut",
+            "rootOffset": 228704
+        },
+        {
+            "name": "GrdBattleWall1_tlut_desc",
+            "rootOffset": 229216
+        },
+        {
+            "name": "GrdBattleWall2_CMPR_image",
+            "rootOffset": 225568
+        },
+        {
+            "name": "GrdBattleWall4_CMPR_image",
+            "rootOffset": 229248
+        },
+        {
+            "name": "GrdBattleWall5_CMPR_image",
+            "rootOffset": 218848
+        },
+        {
+            "name": "GrdBattleWall7_CMPR_image",
+            "rootOffset": 226592
+        },
+        {
+            "name": "GrdBattleYuka2_I4_image",
+            "rootOffset": 216800
+        },
+        {
+            "name": "GrdBattleYuka_I4_image",
+            "rootOffset": 216608
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 205020
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 212904
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 213124
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 636
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 213388
+        },
+        {
+            "name": "map_ptcl",
+            "rootOffset": 205088
+        },
+        {
+            "name": "map_texg",
+            "rootOffset": 205888
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 445896
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 213184
+        }
+    ]
+}
