@@ -1,0 +1,9 @@
+{
+    "sourceFile": "PlCo.dat",
+    "nodes": [
+        {
+            "name": "ftLoadCommonData",
+            "rootOffset": 60632
+        }
+    ]
+}

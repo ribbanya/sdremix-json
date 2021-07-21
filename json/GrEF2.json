@@ -1,0 +1,189 @@
+{
+    "sourceFile": "GrEF2.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 263680
+        },
+        {
+            "name": "GrdFigure2Ashike_C8_image",
+            "rootOffset": 265984
+        },
+        {
+            "name": "GrdFigure2Ashike_tlut",
+            "rootOffset": 298752
+        },
+        {
+            "name": "GrdFigure2Ashike_tlut_desc",
+            "rootOffset": 298880
+        },
+        {
+            "name": "GrdFigure2BodyBrown_CMPR_image",
+            "rootOffset": 324256
+        },
+        {
+            "name": "GrdFigure2Claw_C8_image",
+            "rootOffset": 356320
+        },
+        {
+            "name": "GrdFigure2Claw_tlut",
+            "rootOffset": 364512
+        },
+        {
+            "name": "GrdFigure2Claw_tlut_desc",
+            "rootOffset": 365024
+        },
+        {
+            "name": "GrdFigure2Eye_C8_image",
+            "rootOffset": 315488
+        },
+        {
+            "name": "GrdFigure2Eye_tlut",
+            "rootOffset": 323680
+        },
+        {
+            "name": "GrdFigure2Eye_tlut_desc",
+            "rootOffset": 324192
+        },
+        {
+            "name": "GrdFigure2Foot_C8_image",
+            "rootOffset": 365056
+        },
+        {
+            "name": "GrdFigure2Foot_tlut",
+            "rootOffset": 369152
+        },
+        {
+            "name": "GrdFigure2Foot_tlut_desc",
+            "rootOffset": 369664
+        },
+        {
+            "name": "GrdFigure2Gray_CMPR_image",
+            "rootOffset": 324224
+        },
+        {
+            "name": "GrdFigure2HairA_C8_image",
+            "rootOffset": 340672
+        },
+        {
+            "name": "GrdFigure2HairA_tlut",
+            "rootOffset": 344768
+        },
+        {
+            "name": "GrdFigure2HairA_tlut_desc",
+            "rootOffset": 345280
+        },
+        {
+            "name": "GrdFigure2Hane_CMPR_image",
+            "rootOffset": 354272
+        },
+        {
+            "name": "GrdFigure2Hige_C8_image",
+            "rootOffset": 298912
+        },
+        {
+            "name": "GrdFigure2Hige_tlut",
+            "rootOffset": 315296
+        },
+        {
+            "name": "GrdFigure2Hige_tlut_desc",
+            "rootOffset": 315456
+        },
+        {
+            "name": "GrdFigure2Horn_CMPR_image",
+            "rootOffset": 265952
+        },
+        {
+            "name": "GrdFigure2KemuriA_C8_image",
+            "rootOffset": 345312
+        },
+        {
+            "name": "GrdFigure2KemuriA_tlut",
+            "rootOffset": 349408
+        },
+        {
+            "name": "GrdFigure2KemuriA_tlut_desc",
+            "rootOffset": 349760
+        },
+        {
+            "name": "GrdFigure2Meral_C8_image",
+            "rootOffset": 369696
+        },
+        {
+            "name": "GrdFigure2Meral_tlut",
+            "rootOffset": 370720
+        },
+        {
+            "name": "GrdFigure2Meral_tlut_desc",
+            "rootOffset": 370848
+        },
+        {
+            "name": "GrdFigure2ZAtamakami_CMPR_image",
+            "rootOffset": 324288
+        },
+        {
+            "name": "GrdNSrGrad1_I8_image",
+            "rootOffset": 370880
+        },
+        {
+            "name": "GrdNSrVanishEff_IA4_image",
+            "rootOffset": 410336
+        },
+        {
+            "name": "GrdNSrWater_RGB5A3_image",
+            "rootOffset": 374976
+        },
+        {
+            "name": "GrdShrineRouteIshi3_C8_image",
+            "rootOffset": 407744
+        },
+        {
+            "name": "GrdShrineRouteIshi3_tlut",
+            "rootOffset": 409792
+        },
+        {
+            "name": "GrdShrineRouteIshi3_tlut_desc",
+            "rootOffset": 410304
+        },
+        {
+            "name": "ToyEnteiKemuri1_C8_image",
+            "rootOffset": 349792
+        },
+        {
+            "name": "ToyEnteiKemuri1_tlut",
+            "rootOffset": 353888
+        },
+        {
+            "name": "ToyEnteiKemuri1_tlut_desc",
+            "rootOffset": 354240
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 263280
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 263424
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 263644
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 348
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 264276
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 412328
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 263648
+        }
+    ]
+}

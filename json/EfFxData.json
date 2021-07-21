@@ -1,0 +1,9 @@
+{
+    "sourceFile": "EfFxData.dat",
+    "nodes": [
+        {
+            "name": "effFoxDataTable",
+            "rootOffset": 0
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "sourceFile": "LbMcGame.dat",
+    "nodes": [
+        {
+            "name": "MemCardBanner_01",
+            "rootOffset": 0
+        },
+        {
+            "name": "MemCardBanner_02",
+            "rootOffset": 6144
+        },
+        {
+            "name": "MemCardBanner_03",
+            "rootOffset": 12288
+        },
+        {
+            "name": "MemCardIconData",
+            "rootOffset": 19968
+        },
+        {
+            "name": "MemCardIcon_01",
+            "rootOffset": 18432
+        }
+    ]
+}

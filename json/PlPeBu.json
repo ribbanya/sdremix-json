@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlPeBu.dat",
+    "nodes": [
+        {
+            "name": "PlyPeach5KBu_Share_joint",
+            "rootOffset": 127624
+        },
+        {
+            "name": "PlyPeach5KBu_Share_matanim_joint",
+            "rootOffset": 437208
+        }
+    ]
+}

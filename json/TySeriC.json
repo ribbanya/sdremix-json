@@ -1,0 +1,13 @@
+{
+    "sourceFile": "TySeriC.dat",
+    "nodes": [
+        {
+            "name": "ToyDspFgseriesC_Top_joint",
+            "rootOffset": 392
+        },
+        {
+            "name": "ToyDspFgseriesC_Top_matanim_joint",
+            "rootOffset": 11608
+        }
+    ]
+}

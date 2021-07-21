@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyCoin.dat",
+    "nodes": [
+        {
+            "name": "ToyCoinModel_TopN_joint",
+            "rootOffset": 15656
+        }
+    ]
+}

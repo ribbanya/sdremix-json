@@ -1,0 +1,9 @@
+{
+    "sourceFile": "EfPeData.dat",
+    "nodes": [
+        {
+            "name": "effPeachDataTable",
+            "rootOffset": 0
+        }
+    ]
+}

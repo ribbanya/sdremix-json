@@ -1,0 +1,57 @@
+{
+    "sourceFile": "GmTtAll.dat",
+    "nodes": [
+        {
+            "name": "ScTitle_cam_int1_camanim",
+            "rootOffset": 310080
+        },
+        {
+            "name": "ScTitle_cam_int1_camera",
+            "rootOffset": 310024
+        },
+        {
+            "name": "ScTitle_fog",
+            "rootOffset": 310248
+        },
+        {
+            "name": "ScTitle_scene_lights",
+            "rootOffset": 310236
+        },
+        {
+            "name": "TitleMark_sobjdesc",
+            "rootOffset": 373720
+        },
+        {
+            "name": "TtlBg_Top_animjoint",
+            "rootOffset": 350076
+        },
+        {
+            "name": "TtlBg_Top_joint",
+            "rootOffset": 343688
+        },
+        {
+            "name": "TtlBg_Top_matanim_joint",
+            "rootOffset": 351224
+        },
+        {
+            "name": "TtlBg_Top_shapeanim_joint",
+            "rootOffset": 351336
+        },
+        {
+            "name": "TtlMoji_Top_animjoint",
+            "rootOffset": 232328
+        },
+        {
+            "name": "TtlMoji_Top_joint",
+            "rootOffset": 21288
+        },
+        {
+            "name": "TtlMoji_Top_matanim_joint",
+            "rootOffset": 294664
+        },
+        {
+            "name": "TtlMoji_Top_shapeanim_joint",
+            "rootOffset": 309624
+        }
+    ]
+}

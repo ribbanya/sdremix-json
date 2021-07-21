@@ -1,0 +1,49 @@
+{
+    "sourceFile": "IfAll.dat",
+    "nodes": [
+        {
+            "name": "DmgMrk_scene_models",
+            "rootOffset": 63960
+        },
+        {
+            "name": "DmgNum_scene_models",
+            "rootOffset": 21780
+        },
+        {
+            "name": "ScInfCnt_scene_models",
+            "rootOffset": 725668
+        },
+        {
+            "name": "ScInfDmg_scene_data",
+            "rootOffset": 65168
+        },
+        {
+            "name": "ScInfPnm_scene_models",
+            "rootOffset": 877208
+        },
+        {
+            "name": "ScInfStc_scene_models",
+            "rootOffset": 757736
+        },
+        {
+            "name": "ScInfTim_scene_models",
+            "rootOffset": 738904
+        },
+        {
+            "name": "Stc_rarwmdls",
+            "rootOffset": 878132
+        },
+        {
+            "name": "Stc_scemdls",
+            "rootOffset": 856032
+        },
+        {
+            "name": "lupe",
+            "rootOffset": 865712
+        },
+        {
+            "name": "tdsce",
+            "rootOffset": 750884
+        }
+    ]
+}

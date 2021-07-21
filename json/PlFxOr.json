@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlFxOr.dat",
+    "nodes": [
+        {
+            "name": "PlyFox5KOr_Share_joint",
+            "rootOffset": 116328
+        },
+        {
+            "name": "PlyFox5KOr_Share_matanim_joint",
+            "rootOffset": 338440
+        }
+    ]
+}

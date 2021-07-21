@@ -1,0 +1,53 @@
+{
+    "sourceFile": "GrTFe.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 81328
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 91136
+        },
+        {
+            "name": "GrdTargetEmblemFloorA_CMPR_image",
+            "rootOffset": 87040
+        },
+        {
+            "name": "GrdTargetEmblemFloorB_CMPR_image",
+            "rootOffset": 84992
+        },
+        {
+            "name": "GrdTargetEmblemFloorD_CMPR_image",
+            "rootOffset": 89088
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 80924
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 81068
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 81288
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 352
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 84224
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 94152
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 81296
+        }
+    ]
+}

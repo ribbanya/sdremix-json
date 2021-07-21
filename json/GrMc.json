@@ -1,0 +1,965 @@
+{
+    "sourceFile": "GrMc.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 316972
+        },
+        {
+            "name": "GrdFzeroAdver1_CMPR_image",
+            "rootOffset": 635136
+        },
+        {
+            "name": "GrdFzeroAdver2_C8_image",
+            "rootOffset": 637184
+        },
+        {
+            "name": "GrdFzeroAdver2_tlut",
+            "rootOffset": 645376
+        },
+        {
+            "name": "GrdFzeroAdver2_tlut_desc",
+            "rootOffset": 645888
+        },
+        {
+            "name": "GrdFzeroAdver3_C8_image",
+            "rootOffset": 645920
+        },
+        {
+            "name": "GrdFzeroAdver3_tlut",
+            "rootOffset": 662304
+        },
+        {
+            "name": "GrdFzeroAdver3_tlut_desc",
+            "rootOffset": 662816
+        },
+        {
+            "name": "GrdFzeroAdver4_CMPR_image",
+            "rootOffset": 662848
+        },
+        {
+            "name": "GrdFzeroAdver5_CMPR_image",
+            "rootOffset": 634624
+        },
+        {
+            "name": "GrdFzeroAdver6_C8_image",
+            "rootOffset": 625888
+        },
+        {
+            "name": "GrdFzeroAdver6_tlut",
+            "rootOffset": 634080
+        },
+        {
+            "name": "GrdFzeroAdver6_tlut_desc",
+            "rootOffset": 634592
+        },
+        {
+            "name": "GrdFzeroAdver7_C8_image",
+            "rootOffset": 621248
+        },
+        {
+            "name": "GrdFzeroAdver7_tlut",
+            "rootOffset": 625344
+        },
+        {
+            "name": "GrdFzeroAdver7_tlut_desc",
+            "rootOffset": 625856
+        },
+        {
+            "name": "GrdFzeroArch1a_CMPR_image",
+            "rootOffset": 566912
+        },
+        {
+            "name": "GrdFzeroArch1b_CMPR_image",
+            "rootOffset": 866144
+        },
+        {
+            "name": "GrdFzeroArch1c_CMPR_image",
+            "rootOffset": 874336
+        },
+        {
+            "name": "GrdFzeroArch1d_CMPR_image",
+            "rootOffset": 882528
+        },
+        {
+            "name": "GrdFzeroArch1e_CMPR_image",
+            "rootOffset": 890720
+        },
+        {
+            "name": "GrdFzeroArch2_CMPR_image",
+            "rootOffset": 575104
+        },
+        {
+            "name": "GrdFzeroArch3_CMPR_image",
+            "rootOffset": 577152
+        },
+        {
+            "name": "GrdFzeroArch3b_CMPR_image",
+            "rootOffset": 898912
+        },
+        {
+            "name": "GrdFzeroArch3c_CMPR_image",
+            "rootOffset": 903008
+        },
+        {
+            "name": "GrdFzeroArch3d_CMPR_image",
+            "rootOffset": 907104
+        },
+        {
+            "name": "GrdFzeroArch3e_CMPR_image",
+            "rootOffset": 911200
+        },
+        {
+            "name": "GrdFzeroArch4_CMPR_image",
+            "rootOffset": 585344
+        },
+        {
+            "name": "GrdFzeroArch5_CMPR_image",
+            "rootOffset": 581248
+        },
+        {
+            "name": "GrdFzeroArch6_CMPR_image",
+            "rootOffset": 566400
+        },
+        {
+            "name": "GrdFzeroBar1_CMPR_image",
+            "rootOffset": 678208
+        },
+        {
+            "name": "GrdFzeroBuild10_C8_image",
+            "rootOffset": 604320
+        },
+        {
+            "name": "GrdFzeroBuild10_tlut",
+            "rootOffset": 620704
+        },
+        {
+            "name": "GrdFzeroBuild10_tlut_desc",
+            "rootOffset": 621216
+        },
+        {
+            "name": "GrdFzeroBuild11_C8_image",
+            "rootOffset": 728384
+        },
+        {
+            "name": "GrdFzeroBuild11_tlut",
+            "rootOffset": 744768
+        },
+        {
+            "name": "GrdFzeroBuild11_tlut_desc",
+            "rootOffset": 745280
+        },
+        {
+            "name": "GrdFzeroBuild1_CMPR_image",
+            "rootOffset": 703808
+        },
+        {
+            "name": "GrdFzeroBuild2_CMPR_image",
+            "rootOffset": 776032
+        },
+        {
+            "name": "GrdFzeroBuild3_CMPR_image",
+            "rootOffset": 757600
+        },
+        {
+            "name": "GrdFzeroBuild4_CMPR_image",
+            "rootOffset": 773984
+        },
+        {
+            "name": "GrdFzeroBuild5_CMPR_image",
+            "rootOffset": 749408
+        },
+        {
+            "name": "GrdFzeroBuild6_CMPR_image",
+            "rootOffset": 765792
+        },
+        {
+            "name": "GrdFzeroBuild7_CMPR_image",
+            "rootOffset": 716096
+        },
+        {
+            "name": "GrdFzeroBuild8_CMPR_image",
+            "rootOffset": 724288
+        },
+        {
+            "name": "GrdFzeroBuild9_C8_image",
+            "rootOffset": 587392
+        },
+        {
+            "name": "GrdFzeroBuild9_tlut",
+            "rootOffset": 603776
+        },
+        {
+            "name": "GrdFzeroBuild9_tlut_desc",
+            "rootOffset": 604288
+        },
+        {
+            "name": "GrdFzeroCloud1_IA4_image",
+            "rootOffset": 687424
+        },
+        {
+            "name": "GrdFzeroDart1_CMPR_image",
+            "rootOffset": 424192
+        },
+        {
+            "name": "GrdFzeroDart2_CMPR_image",
+            "rootOffset": 420096
+        },
+        {
+            "name": "GrdFzeroDart3_CMPR_image",
+            "rootOffset": 416000
+        },
+        {
+            "name": "GrdFzeroDash1_C8_image",
+            "rootOffset": 449792
+        },
+        {
+            "name": "GrdFzeroDash1_tlut",
+            "rootOffset": 453888
+        },
+        {
+            "name": "GrdFzeroDash1_tlut_desc",
+            "rootOffset": 454144
+        },
+        {
+            "name": "GrdFzeroFloor1_CMPR_image",
+            "rootOffset": 931680
+        },
+        {
+            "name": "GrdFzeroFloor1a_CMPR_image",
+            "rootOffset": 951200
+        },
+        {
+            "name": "GrdFzeroFloor1b_CMPR_image",
+            "rootOffset": 953248
+        },
+        {
+            "name": "GrdFzeroFloor1c_CMPR_image",
+            "rootOffset": 955296
+        },
+        {
+            "name": "GrdFzeroFloor1d_CMPR_image",
+            "rootOffset": 957344
+        },
+        {
+            "name": "GrdFzeroFloor1e_CMPR_image",
+            "rootOffset": 959392
+        },
+        {
+            "name": "GrdFzeroFloor2_CMPR_image",
+            "rootOffset": 933728
+        },
+        {
+            "name": "GrdFzeroFloor3_C8_image",
+            "rootOffset": 942464
+        },
+        {
+            "name": "GrdFzeroFloor3_tlut",
+            "rootOffset": 950656
+        },
+        {
+            "name": "GrdFzeroFloor3_tlut_desc",
+            "rootOffset": 951168
+        },
+        {
+            "name": "GrdFzeroFloor4_C8_image",
+            "rootOffset": 937824
+        },
+        {
+            "name": "GrdFzeroFloor4_tlut",
+            "rootOffset": 941920
+        },
+        {
+            "name": "GrdFzeroFloor4_tlut_desc",
+            "rootOffset": 942432
+        },
+        {
+            "name": "GrdFzeroGrid1_CMPR_image",
+            "rootOffset": 349440
+        },
+        {
+            "name": "GrdFzeroGround1_CMPR_image",
+            "rootOffset": 679232
+        },
+        {
+            "name": "GrdFzeroLoad1_CMPR_image",
+            "rootOffset": 390400
+        },
+        {
+            "name": "GrdFzeroLoad2_CMPR_image",
+            "rootOffset": 341248
+        },
+        {
+            "name": "GrdFzeroLoad3_CMPR_image",
+            "rootOffset": 337152
+        },
+        {
+            "name": "GrdFzeroLoad3a_CMPR_image",
+            "rootOffset": 454176
+        },
+        {
+            "name": "GrdFzeroLoad3b_CMPR_image",
+            "rootOffset": 816992
+        },
+        {
+            "name": "GrdFzeroLoad3c_CMPR_image",
+            "rootOffset": 821088
+        },
+        {
+            "name": "GrdFzeroLoad3d_CMPR_image",
+            "rootOffset": 825184
+        },
+        {
+            "name": "GrdFzeroLoad3e_CMPR_image",
+            "rootOffset": 829280
+        },
+        {
+            "name": "GrdFzeroObj1_CMPR_image",
+            "rootOffset": 745312
+        },
+        {
+            "name": "GrdFzeroObj3_CMPR_image",
+            "rootOffset": 712000
+        },
+        {
+            "name": "GrdFzeroPit1_C8_image",
+            "rootOffset": 524896
+        },
+        {
+            "name": "GrdFzeroPit1_tlut",
+            "rootOffset": 557664
+        },
+        {
+            "name": "GrdFzeroPit1_tlut_desc",
+            "rootOffset": 558176
+        },
+        {
+            "name": "GrdFzeroPit2_C8_image",
+            "rootOffset": 458272
+        },
+        {
+            "name": "GrdFzeroPit2_tlut",
+            "rootOffset": 491040
+        },
+        {
+            "name": "GrdFzeroPit2_tlut_desc",
+            "rootOffset": 491552
+        },
+        {
+            "name": "GrdFzeroPit3_C8_image",
+            "rootOffset": 491584
+        },
+        {
+            "name": "GrdFzeroPit3_tlut",
+            "rootOffset": 524352
+        },
+        {
+            "name": "GrdFzeroPit3_tlut_desc",
+            "rootOffset": 524864
+        },
+        {
+            "name": "GrdFzeroSide1_RGB565_image",
+            "rootOffset": 374016
+        },
+        {
+            "name": "GrdFzeroSide2_CMPR_image",
+            "rootOffset": 324864
+        },
+        {
+            "name": "GrdFzeroSide2d_CMPR_image",
+            "rootOffset": 369920
+        },
+        {
+            "name": "GrdFzeroSide2e_CMPR_image",
+            "rootOffset": 407808
+        },
+        {
+            "name": "GrdFzeroSide2f_CMPR_image",
+            "rootOffset": 361728
+        },
+        {
+            "name": "GrdFzeroSide2g_CMPR_image",
+            "rootOffset": 406784
+        },
+        {
+            "name": "GrdFzeroSide2h_CMPR_image",
+            "rootOffset": 441600
+        },
+        {
+            "name": "GrdFzeroSide2i_CMPR_image",
+            "rootOffset": 357632
+        },
+        {
+            "name": "GrdFzeroSide2j_CMPR_image",
+            "rootOffset": 440576
+        },
+        {
+            "name": "GrdFzeroSide2k1_CMPR_image",
+            "rootOffset": 558208
+        },
+        {
+            "name": "GrdFzeroSide2k2_CMPR_image",
+            "rootOffset": 833376
+        },
+        {
+            "name": "GrdFzeroSide2k3_CMPR_image",
+            "rootOffset": 841568
+        },
+        {
+            "name": "GrdFzeroSide2k4_CMPR_image",
+            "rootOffset": 849760
+        },
+        {
+            "name": "GrdFzeroSide2k5_CMPR_image",
+            "rootOffset": 857952
+        },
+        {
+            "name": "GrdFzeroSide2l1_CMPR_image",
+            "rootOffset": 328960
+        },
+        {
+            "name": "GrdFzeroSide2l2_CMPR_image",
+            "rootOffset": 784224
+        },
+        {
+            "name": "GrdFzeroSide2l3_CMPR_image",
+            "rootOffset": 792416
+        },
+        {
+            "name": "GrdFzeroSide2l4_CMPR_image",
+            "rootOffset": 800608
+        },
+        {
+            "name": "GrdFzeroSide2l5_CMPR_image",
+            "rootOffset": 808800
+        },
+        {
+            "name": "GrdFzeroTnl11a_CMPR_image",
+            "rootOffset": 674112
+        },
+        {
+            "name": "GrdFzeroTnl11b_CMPR_image",
+            "rootOffset": 915296
+        },
+        {
+            "name": "GrdFzeroTnl11c_CMPR_image",
+            "rootOffset": 919392
+        },
+        {
+            "name": "GrdFzeroTnl11d_CMPR_image",
+            "rootOffset": 923488
+        },
+        {
+            "name": "GrdFzeroTnl11e_CMPR_image",
+            "rootOffset": 927584
+        },
+        {
+            "name": "GrdFzeroTnl1_CMPR_image",
+            "rootOffset": 667968
+        },
+        {
+            "name": "GrdFzeroTnl2_CMPR_image",
+            "rootOffset": 670016
+        },
+        {
+            "name": "GrdFzeroTnl3_CMPR_image",
+            "rootOffset": 672064
+        },
+        {
+            "name": "GrdFzeroTnl5_CMPR_image",
+            "rootOffset": 322816
+        },
+        {
+            "name": "GrdFzeroTnl6_CMPR_image",
+            "rootOffset": 663872
+        },
+        {
+            "name": "GrdFzeroTnl7_CMPR_image",
+            "rootOffset": 365824
+        },
+        {
+            "name": "GrdMuteCityBarner1_IA8_image",
+            "rootOffset": 1220384
+        },
+        {
+            "name": "GrdMuteCityBarner2_IA8_image",
+            "rootOffset": 1228576
+        },
+        {
+            "name": "GrdMuteCityCarA2_C4_image",
+            "rootOffset": 1203872
+        },
+        {
+            "name": "GrdMuteCityCarA2_tlut",
+            "rootOffset": 1212064
+        },
+        {
+            "name": "GrdMuteCityCarA2_tlut_desc",
+            "rootOffset": 1212096
+        },
+        {
+            "name": "GrdMuteCityCarB_C4_image",
+            "rootOffset": 1195616
+        },
+        {
+            "name": "GrdMuteCityCarB_tlut",
+            "rootOffset": 1203808
+        },
+        {
+            "name": "GrdMuteCityCarB_tlut_desc",
+            "rootOffset": 1203840
+        },
+        {
+            "name": "GrdMuteCityCarC_C4_image",
+            "rootOffset": 1187360
+        },
+        {
+            "name": "GrdMuteCityCarC_tlut",
+            "rootOffset": 1195552
+        },
+        {
+            "name": "GrdMuteCityCarC_tlut_desc",
+            "rootOffset": 1195584
+        },
+        {
+            "name": "GrdMuteCityCarD_C4_image",
+            "rootOffset": 1168864
+        },
+        {
+            "name": "GrdMuteCityCarD_tlut",
+            "rootOffset": 1177056
+        },
+        {
+            "name": "GrdMuteCityCarD_tlut_desc",
+            "rootOffset": 1177088
+        },
+        {
+            "name": "GrdMuteCityCarE_C4_image",
+            "rootOffset": 1160608
+        },
+        {
+            "name": "GrdMuteCityCarE_tlut",
+            "rootOffset": 1168800
+        },
+        {
+            "name": "GrdMuteCityCarE_tlut_desc",
+            "rootOffset": 1168832
+        },
+        {
+            "name": "GrdMuteCityCarF_C4_image",
+            "rootOffset": 1152352
+        },
+        {
+            "name": "GrdMuteCityCarF_tlut",
+            "rootOffset": 1160544
+        },
+        {
+            "name": "GrdMuteCityCarF_tlut_desc",
+            "rootOffset": 1160576
+        },
+        {
+            "name": "GrdMuteCityCarG_C4_image",
+            "rootOffset": 1144096
+        },
+        {
+            "name": "GrdMuteCityCarG_tlut",
+            "rootOffset": 1152288
+        },
+        {
+            "name": "GrdMuteCityCarG_tlut_desc",
+            "rootOffset": 1152320
+        },
+        {
+            "name": "GrdMuteCityCarH_C4_image",
+            "rootOffset": 1135840
+        },
+        {
+            "name": "GrdMuteCityCarH_tlut",
+            "rootOffset": 1144032
+        },
+        {
+            "name": "GrdMuteCityCarH_tlut_desc",
+            "rootOffset": 1144064
+        },
+        {
+            "name": "GrdMuteCityCarHmark_CMPR_image",
+            "rootOffset": 322304
+        },
+        {
+            "name": "GrdMuteCityCarHzebra_CMPR_image",
+            "rootOffset": 321792
+        },
+        {
+            "name": "GrdMuteCityCarZ2_CMPR_image",
+            "rootOffset": 321024
+        },
+        {
+            "name": "GrdMuteCityCarZ4_CMPR_image",
+            "rootOffset": 322560
+        },
+        {
+            "name": "GrdMuteCityCarZA_C4_image",
+            "rootOffset": 1130656
+        },
+        {
+            "name": "GrdMuteCityCarZA_tlut",
+            "rootOffset": 1135776
+        },
+        {
+            "name": "GrdMuteCityCarZA_tlut_desc",
+            "rootOffset": 1135808
+        },
+        {
+            "name": "GrdMuteCityCarZB_C4_image",
+            "rootOffset": 1122400
+        },
+        {
+            "name": "GrdMuteCityCarZB_tlut",
+            "rootOffset": 1130592
+        },
+        {
+            "name": "GrdMuteCityCarZB_tlut_desc",
+            "rootOffset": 1130624
+        },
+        {
+            "name": "GrdMuteCityCarZC_C4_image",
+            "rootOffset": 1212128
+        },
+        {
+            "name": "GrdMuteCityCarZC_tlut",
+            "rootOffset": 1220320
+        },
+        {
+            "name": "GrdMuteCityCarZC_tlut_desc",
+            "rootOffset": 1220352
+        },
+        {
+            "name": "GrdMuteCityCarZD_C4_image",
+            "rootOffset": 1114144
+        },
+        {
+            "name": "GrdMuteCityCarZD_tlut",
+            "rootOffset": 1122336
+        },
+        {
+            "name": "GrdMuteCityCarZD_tlut_desc",
+            "rootOffset": 1122368
+        },
+        {
+            "name": "GrdMuteCityCarZE_C4_image",
+            "rootOffset": 1105888
+        },
+        {
+            "name": "GrdMuteCityCarZE_tlut",
+            "rootOffset": 1114080
+        },
+        {
+            "name": "GrdMuteCityCarZE_tlut_desc",
+            "rootOffset": 1114112
+        },
+        {
+            "name": "GrdMuteCityCarZF_C4_image",
+            "rootOffset": 1097632
+        },
+        {
+            "name": "GrdMuteCityCarZF_tlut",
+            "rootOffset": 1105824
+        },
+        {
+            "name": "GrdMuteCityCarZF_tlut_desc",
+            "rootOffset": 1105856
+        },
+        {
+            "name": "GrdMuteCityCarZG_C4_image",
+            "rootOffset": 1089376
+        },
+        {
+            "name": "GrdMuteCityCarZG_tlut",
+            "rootOffset": 1097568
+        },
+        {
+            "name": "GrdMuteCityCarZG_tlut_desc",
+            "rootOffset": 1097600
+        },
+        {
+            "name": "GrdMuteCityCarZH_CMPR_image",
+            "rootOffset": 1081184
+        },
+        {
+            "name": "GrdMuteCityCarZI_C4_image",
+            "rootOffset": 1072928
+        },
+        {
+            "name": "GrdMuteCityCarZI_tlut",
+            "rootOffset": 1081120
+        },
+        {
+            "name": "GrdMuteCityCarZI_tlut_desc",
+            "rootOffset": 1081152
+        },
+        {
+            "name": "GrdMuteCityCarZJ_C4_image",
+            "rootOffset": 1064672
+        },
+        {
+            "name": "GrdMuteCityCarZJ_tlut",
+            "rootOffset": 1072864
+        },
+        {
+            "name": "GrdMuteCityCarZJ_tlut_desc",
+            "rootOffset": 1072896
+        },
+        {
+            "name": "GrdMuteCityCarZKZL_C4_image",
+            "rootOffset": 1056416
+        },
+        {
+            "name": "GrdMuteCityCarZKZL_tlut",
+            "rootOffset": 1064608
+        },
+        {
+            "name": "GrdMuteCityCarZKZL_tlut_desc",
+            "rootOffset": 1064640
+        },
+        {
+            "name": "GrdMuteCityCarZMc4_C4_image",
+            "rootOffset": 1048160
+        },
+        {
+            "name": "GrdMuteCityCarZMc4_tlut",
+            "rootOffset": 1056352
+        },
+        {
+            "name": "GrdMuteCityCarZMc4_tlut_desc",
+            "rootOffset": 1056384
+        },
+        {
+            "name": "GrdMuteCityCarZN_C4_image",
+            "rootOffset": 1039904
+        },
+        {
+            "name": "GrdMuteCityCarZN_tlut",
+            "rootOffset": 1048096
+        },
+        {
+            "name": "GrdMuteCityCarZN_tlut_desc",
+            "rootOffset": 1048128
+        },
+        {
+            "name": "GrdMuteCityCarZOc4_C4_image",
+            "rootOffset": 1031648
+        },
+        {
+            "name": "GrdMuteCityCarZOc4_tlut",
+            "rootOffset": 1039840
+        },
+        {
+            "name": "GrdMuteCityCarZOc4_tlut_desc",
+            "rootOffset": 1039872
+        },
+        {
+            "name": "GrdMuteCityCarZP_C4_image",
+            "rootOffset": 1021728
+        },
+        {
+            "name": "GrdMuteCityCarZP_tlut",
+            "rootOffset": 1031584
+        },
+        {
+            "name": "GrdMuteCityCarZP_tlut_desc",
+            "rootOffset": 1031616
+        },
+        {
+            "name": "GrdMuteCityCarZQ_C4_image",
+            "rootOffset": 1011328
+        },
+        {
+            "name": "GrdMuteCityCarZQ_tlut",
+            "rootOffset": 1021664
+        },
+        {
+            "name": "GrdMuteCityCarZQ_tlut_desc",
+            "rootOffset": 1021696
+        },
+        {
+            "name": "GrdMuteCityCarZR_C4_image",
+            "rootOffset": 1003072
+        },
+        {
+            "name": "GrdMuteCityCarZR_tlut",
+            "rootOffset": 1011264
+        },
+        {
+            "name": "GrdMuteCityCarZR_tlut_desc",
+            "rootOffset": 1011296
+        },
+        {
+            "name": "GrdMuteCityCarZS_C4_image",
+            "rootOffset": 994816
+        },
+        {
+            "name": "GrdMuteCityCarZS_tlut",
+            "rootOffset": 1003008
+        },
+        {
+            "name": "GrdMuteCityCarZS_tlut_desc",
+            "rootOffset": 1003040
+        },
+        {
+            "name": "GrdMuteCityCarZT_C8_image",
+            "rootOffset": 977952
+        },
+        {
+            "name": "GrdMuteCityCarZT_tlut",
+            "rootOffset": 994336
+        },
+        {
+            "name": "GrdMuteCityCarZT_tlut_desc",
+            "rootOffset": 994784
+        },
+        {
+            "name": "GrdMuteCityCarZU_C4_image",
+            "rootOffset": 969696
+        },
+        {
+            "name": "GrdMuteCityCarZU_tlut",
+            "rootOffset": 977888
+        },
+        {
+            "name": "GrdMuteCityCarZU_tlut_desc",
+            "rootOffset": 977920
+        },
+        {
+            "name": "GrdMuteCityCarZV_C4_image",
+            "rootOffset": 961440
+        },
+        {
+            "name": "GrdMuteCityCarZV_tlut",
+            "rootOffset": 969632
+        },
+        {
+            "name": "GrdMuteCityCarZV_tlut_desc",
+            "rootOffset": 969664
+        },
+        {
+            "name": "GrdMuteCityCarcatmark_CMPR_image",
+            "rootOffset": 318464
+        },
+        {
+            "name": "GrdMuteCityCarcrash1_CMPR_image",
+            "rootOffset": 1177120
+        },
+        {
+            "name": "GrdMuteCityCarcrash2_CMPR_image",
+            "rootOffset": 1185312
+        },
+        {
+            "name": "GrdMuteCityCarengine_RGB565_image",
+            "rootOffset": 320512
+        },
+        {
+            "name": "GrdMuteCityCarglass1_CMPR_image",
+            "rootOffset": 319872
+        },
+        {
+            "name": "GrdMuteCityCarred_CMPR_image",
+            "rootOffset": 319488
+        },
+        {
+            "name": "GrdMuteCityCarrocket_CMPR_image",
+            "rootOffset": 320000
+        },
+        {
+            "name": "GrdMuteCityCarunderhole_CMPR_image",
+            "rootOffset": 321280
+        },
+        {
+            "name": "GrdMuteCityCarvent_CMPR_image",
+            "rootOffset": 319616
+        },
+        {
+            "name": "GrdMuteCityPit1_I8_image",
+            "rootOffset": 1236768
+        },
+        {
+            "name": "GrdMuteCityPit2_I8_image",
+            "rootOffset": 1253152
+        },
+        {
+            "name": "GrdMuteCityPit3_I8_image",
+            "rootOffset": 1269536
+        },
+        {
+            "name": "GrdMuteCityPit4_I8_image",
+            "rootOffset": 1285920
+        },
+        {
+            "name": "GrdMuteCityPit5_I8_image",
+            "rootOffset": 1302304
+        },
+        {
+            "name": "GrdMuteCityPit6_I8_image",
+            "rootOffset": 1318688
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 315524
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 316468
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 316688
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 2524
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 317144
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 1336040
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 316836
+        },
+        {
+            "name": "GrdMuteCity_CarPath1_ACTION_Mutecity1Lp_animjoint",
+            "rootOffset": 196968
+        },
+        {
+            "name": "GrdMuteCity_CarPath1_ACTION_Mutecity1Lp_matanim_joint",
+            "rootOffset": 219424
+        },
+        {
+            "name": "GrdMuteCity_CarPath2_ACTION_Mutecity1Lp_animjoint",
+            "rootOffset": 197048
+        },
+        {
+            "name": "GrdMuteCity_CarPath2_ACTION_Mutecity1Lp_matanim_joint",
+            "rootOffset": 219472
+        },
+        {
+            "name": "GrdMuteCity_UpPath1_ACTION_Cardummy2Lp_animjoint",
+            "rootOffset": 196992
+        },
+        {
+            "name": "GrdMuteCity_UpPath1_ACTION_Cardummy2Lp_matanim_joint",
+            "rootOffset": 219440
+        },
+        {
+            "name": "GrdMuteCity_UpPath2_ACTION_Cardummy1Lp_animjoint",
+            "rootOffset": 197072
+        },
+        {
+            "name": "GrdMuteCity_UpPath2_ACTION_Cardummy1Lp_matanim_joint",
+            "rootOffset": 219488
+        }
+    ]
+}

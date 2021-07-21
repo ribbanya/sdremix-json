@@ -1,0 +1,313 @@
+{
+    "sourceFile": "GrNZr.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 293584
+        },
+        {
+            "name": "BigGrdZebesRouteTetu8_C8_image",
+            "rootOffset": 414048
+        },
+        {
+            "name": "BigGrdZebesRouteTetu8_tlut",
+            "rootOffset": 479584
+        },
+        {
+            "name": "BigGrdZebesRouteTetu8_tlut_desc",
+            "rootOffset": 480096
+        },
+        {
+            "name": "GrdSamus1Alphab_IA8_image",
+            "rootOffset": 719808
+        },
+        {
+            "name": "GrdSamus1Bio7far_C8_image",
+            "rootOffset": 295232
+        },
+        {
+            "name": "GrdSamus1Bio7far_tlut",
+            "rootOffset": 303424
+        },
+        {
+            "name": "GrdSamus1Bio7far_tlut_desc",
+            "rootOffset": 303936
+        },
+        {
+            "name": "GrdSamus1Flare1_RGBA8_image",
+            "rootOffset": 330176
+        },
+        {
+            "name": "GrdSamus1Floor3_CMPR_image",
+            "rootOffset": 868544
+        },
+        {
+            "name": "GrdSamus1Light1_CMPR_image",
+            "rootOffset": 497056
+        },
+        {
+            "name": "GrdSamus1Wall1_CMPR_image",
+            "rootOffset": 500128
+        },
+        {
+            "name": "GrdZebesRPipe1far_CMPR_image",
+            "rootOffset": 499104
+        },
+        {
+            "name": "GrdZebesRouteBio00_CMPR_image",
+            "rootOffset": 711616
+        },
+        {
+            "name": "GrdZebesRouteBox1_C8_image",
+            "rootOffset": 325536
+        },
+        {
+            "name": "GrdZebesRouteBox1_tlut",
+            "rootOffset": 329632
+        },
+        {
+            "name": "GrdZebesRouteBox1_tlut_desc",
+            "rootOffset": 330144
+        },
+        {
+            "name": "GrdZebesRouteGo_RGBA8_image",
+            "rootOffset": 983904
+        },
+        {
+            "name": "GrdZebesRouteHikari2_C8_image",
+            "rootOffset": 879872
+        },
+        {
+            "name": "GrdZebesRouteHikari2_tlut",
+            "rootOffset": 929024
+        },
+        {
+            "name": "GrdZebesRouteHikari2_tlut_desc",
+            "rootOffset": 929536
+        },
+        {
+            "name": "GrdZebesRouteHikari_C8_image",
+            "rootOffset": 929568
+        },
+        {
+            "name": "GrdZebesRouteHikari_tlut",
+            "rootOffset": 978720
+        },
+        {
+            "name": "GrdZebesRouteHikari_tlut_desc",
+            "rootOffset": 979232
+        },
+        {
+            "name": "GrdZebesRouteIwa2_C8_image",
+            "rootOffset": 786016
+        },
+        {
+            "name": "GrdZebesRouteIwa2_tlut",
+            "rootOffset": 851552
+        },
+        {
+            "name": "GrdZebesRouteIwa2_tlut_desc",
+            "rootOffset": 852064
+        },
+        {
+            "name": "GrdZebesRouteIwa3_C8_image",
+            "rootOffset": 719936
+        },
+        {
+            "name": "GrdZebesRouteIwa3_tlut",
+            "rootOffset": 785472
+        },
+        {
+            "name": "GrdZebesRouteIwa3_tlut_desc",
+            "rootOffset": 785984
+        },
+        {
+            "name": "GrdZebesRouteIwa_C8_image",
+            "rootOffset": 502176
+        },
+        {
+            "name": "GrdZebesRouteIwa_tlut",
+            "rootOffset": 567712
+        },
+        {
+            "name": "GrdZebesRouteIwa_tlut_desc",
+            "rootOffset": 568224
+        },
+        {
+            "name": "GrdZebesRouteKabeR_RGBA8_image",
+            "rootOffset": 633792
+        },
+        {
+            "name": "GrdZebesRoutePipe1_RGBA8_image",
+            "rootOffset": 703424
+        },
+        {
+            "name": "GrdZebesRouteTetu10_C8_image",
+            "rootOffset": 303968
+        },
+        {
+            "name": "GrdZebesRouteTetu10_tlut",
+            "rootOffset": 320352
+        },
+        {
+            "name": "GrdZebesRouteTetu10_tlut_desc",
+            "rootOffset": 320864
+        },
+        {
+            "name": "GrdZebesRouteTetu11_C8_image",
+            "rootOffset": 480128
+        },
+        {
+            "name": "GrdZebesRouteTetu11_tlut",
+            "rootOffset": 496512
+        },
+        {
+            "name": "GrdZebesRouteTetu11_tlut_desc",
+            "rootOffset": 497024
+        },
+        {
+            "name": "GrdZebesRouteTetu2_C8_image",
+            "rootOffset": 877280
+        },
+        {
+            "name": "GrdZebesRouteTetu2_tlut",
+            "rootOffset": 879328
+        },
+        {
+            "name": "GrdZebesRouteTetu2_tlut_desc",
+            "rootOffset": 879840
+        },
+        {
+            "name": "GrdZebesRouteTetu3_C8_image",
+            "rootOffset": 979264
+        },
+        {
+            "name": "GrdZebesRouteTetu3_tlut",
+            "rootOffset": 983360
+        },
+        {
+            "name": "GrdZebesRouteTetu3_tlut_desc",
+            "rootOffset": 983872
+        },
+        {
+            "name": "GrdZebesRouteTetu4_C8_image",
+            "rootOffset": 320896
+        },
+        {
+            "name": "GrdZebesRouteTetu4_tlut",
+            "rootOffset": 324992
+        },
+        {
+            "name": "GrdZebesRouteTetu4_tlut_desc",
+            "rootOffset": 325504
+        },
+        {
+            "name": "GrdZebesRouteTetu5b_C8_image",
+            "rootOffset": 872640
+        },
+        {
+            "name": "GrdZebesRouteTetu5b_tlut",
+            "rootOffset": 876736
+        },
+        {
+            "name": "GrdZebesRouteTetu5b_tlut_desc",
+            "rootOffset": 877248
+        },
+        {
+            "name": "GrdZebesRouteTetu6_RGBA8_image",
+            "rootOffset": 699328
+        },
+        {
+            "name": "GrdZebesRouteTetu7_C8_image",
+            "rootOffset": 397120
+        },
+        {
+            "name": "GrdZebesRouteTetu7_tlut",
+            "rootOffset": 413504
+        },
+        {
+            "name": "GrdZebesRouteTetu7_tlut_desc",
+            "rootOffset": 414016
+        },
+        {
+            "name": "GrdZebesRouteTetu92B_C8_image",
+            "rootOffset": 852096
+        },
+        {
+            "name": "GrdZebesRouteTetu92B_tlut",
+            "rootOffset": 868480
+        },
+        {
+            "name": "GrdZebesRouteTetu92B_tlut_desc",
+            "rootOffset": 868512
+        },
+        {
+            "name": "GrdZebesRouteTetu92_C8_image",
+            "rootOffset": 363488
+        },
+        {
+            "name": "GrdZebesRouteTetu92_tlut",
+            "rootOffset": 379872
+        },
+        {
+            "name": "GrdZebesRouteTetu92_tlut_desc",
+            "rootOffset": 380160
+        },
+        {
+            "name": "GrdZebesRouteTetu9_C8_image",
+            "rootOffset": 380192
+        },
+        {
+            "name": "GrdZebesRouteTetu9_tlut",
+            "rootOffset": 396576
+        },
+        {
+            "name": "GrdZebesRouteTetu9_tlut_desc",
+            "rootOffset": 397088
+        },
+        {
+            "name": "GrdZebesRouteTetuR_RGBA8_image",
+            "rootOffset": 568256
+        },
+        {
+            "name": "GrdZebesRouteTetu_C8_image",
+            "rootOffset": 346560
+        },
+        {
+            "name": "GrdZebesRouteTetu_tlut",
+            "rootOffset": 362944
+        },
+        {
+            "name": "GrdZebesRouteTetu_tlut_desc",
+            "rootOffset": 363456
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 293180
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 293324
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 293544
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 300
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 294312
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 1017640
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 293548
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "sourceFile": "GrTCl.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 58776
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 123552
+        },
+        {
+            "name": "GrdTargetClinkGround0_CMPR_image",
+            "rootOffset": 82048
+        },
+        {
+            "name": "GrdTargetClinkLeaf0_CMPR_image",
+            "rootOffset": 72704
+        },
+        {
+            "name": "GrdTargetClinkWall0_CMPR_image",
+            "rootOffset": 62464
+        },
+        {
+            "name": "GrdTargetClinkWall3_CMPR_image",
+            "rootOffset": 90240
+        },
+        {
+            "name": "GrdTargetClinkWall4_CMPR_image",
+            "rootOffset": 115360
+        },
+        {
+            "name": "GrdTargetClinkWall5_CMPR_image",
+            "rootOffset": 107168
+        },
+        {
+            "name": "GrdTargetClinkWood0_CMPR_image",
+            "rootOffset": 73856
+        },
+        {
+            "name": "GrdTargetClinkWood1_CMPR_image",
+            "rootOffset": 70656
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 58372
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 58516
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 58736
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 380
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 61696
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 126568
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 58744
+        }
+    ]
+}

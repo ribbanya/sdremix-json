@@ -1,0 +1,9 @@
+{
+    "sourceFile": "EfMnData.dat",
+    "nodes": [
+        {
+            "name": "effMenuDataTable",
+            "rootOffset": 0
+        }
+    ]
+}

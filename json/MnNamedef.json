@@ -1,0 +1,29 @@
+{
+    "sourceFile": "MnNamedef.dat",
+    "nodes": [
+        {
+            "name": "mnNameAutoName",
+            "rootOffset": 6984
+        },
+        {
+            "name": "mnNameAutoNameUs",
+            "rootOffset": 9048
+        },
+        {
+            "name": "mnNameDefaultName",
+            "rootOffset": 9044
+        },
+        {
+            "name": "mnNameDefaultNameUs",
+            "rootOffset": 9716
+        },
+        {
+            "name": "mnNameRefuseName",
+            "rootOffset": 8920
+        },
+        {
+            "name": "mnNameRefuseNameUs",
+            "rootOffset": 9632
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlMrGr.dat",
+    "nodes": [
+        {
+            "name": "PlyMario5KGr_Share_joint",
+            "rootOffset": 103424
+        },
+        {
+            "name": "PlyMario5KGr_Share_matanim_joint",
+            "rootOffset": 279952
+        }
+    ]
+}

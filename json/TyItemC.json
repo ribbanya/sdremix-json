@@ -1,0 +1,13 @@
+{
+    "sourceFile": "TyItemC.dat",
+    "nodes": [
+        {
+            "name": "ToyDspItemC_Top_joint",
+            "rootOffset": 392
+        },
+        {
+            "name": "ToyDspItemC_Top_matanim_joint",
+            "rootOffset": 11536
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyFliper.dat",
+    "nodes": [
+        {
+            "name": "ToyFlipperModel_TopN_joint",
+            "rootOffset": 4200
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TySmShip.dat",
+    "nodes": [
+        {
+            "name": "ToySamusshipModel_TopN_joint",
+            "rootOffset": 324872
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "sourceFile": "EfCoData.dat",
+    "nodes": [
+        {
+            "name": "effCommonDataTable",
+            "rootOffset": 0
+        }
+    ]
+}

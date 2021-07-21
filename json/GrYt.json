@@ -1,0 +1,173 @@
+{
+    "sourceFile": "GrYt.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 180908
+        },
+        {
+            "name": "GrdYorsterAppleA_CMPR_image",
+            "rootOffset": 182816
+        },
+        {
+            "name": "GrdYorsterAppleB_CMPR_image",
+            "rootOffset": 215584
+        },
+        {
+            "name": "GrdYorsterAppleC_CMPR_image",
+            "rootOffset": 219680
+        },
+        {
+            "name": "GrdYorsterDokan_C8_image",
+            "rootOffset": 367136
+        },
+        {
+            "name": "GrdYorsterDokan_tlut",
+            "rootOffset": 371232
+        },
+        {
+            "name": "GrdYorsterDokan_tlut_desc",
+            "rootOffset": 371520
+        },
+        {
+            "name": "GrdYorsterGrassA_CMPR_image",
+            "rootOffset": 293408
+        },
+        {
+            "name": "GrdYorsterGrassB_CMPR_image",
+            "rootOffset": 260640
+        },
+        {
+            "name": "GrdYorsterGrassC_CMPR_image",
+            "rootOffset": 371552
+        },
+        {
+            "name": "GrdYorsterGrassD_CMPR_image",
+            "rootOffset": 350752
+        },
+        {
+            "name": "GrdYorsterGrassE_CMPR_image",
+            "rootOffset": 404320
+        },
+        {
+            "name": "GrdYorsterGrassF_CMPR_image",
+            "rootOffset": 358944
+        },
+        {
+            "name": "GrdYorsterGrassG_CMPR_image",
+            "rootOffset": 346656
+        },
+        {
+            "name": "GrdYorsterGroundA_CMPR_image",
+            "rootOffset": 227872
+        },
+        {
+            "name": "GrdYorsterGroundB_CMPR_image",
+            "rootOffset": 252448
+        },
+        {
+            "name": "GrdYorsterGroundD_CMPR_image",
+            "rootOffset": 244256
+        },
+        {
+            "name": "GrdYorsterGroundE_CMPR_image",
+            "rootOffset": 236064
+        },
+        {
+            "name": "GrdYorsterGroundG_CMPR_image",
+            "rootOffset": 344608
+        },
+        {
+            "name": "GrdYorsterGroundH_CMPR_image",
+            "rootOffset": 342560
+        },
+        {
+            "name": "GrdYorsterJA_CMPR_image",
+            "rootOffset": 518240
+        },
+        {
+            "name": "GrdYorsterJB_CMPR_image",
+            "rootOffset": 540000
+        },
+        {
+            "name": "GrdYorsterJCA_CMPR_image",
+            "rootOffset": 514784
+        },
+        {
+            "name": "GrdYorsterJCB_CMPR_image",
+            "rootOffset": 533088
+        },
+        {
+            "name": "GrdYorsterJCC_CMPR_image",
+            "rootOffset": 536544
+        },
+        {
+            "name": "GrdYorsterKumo_CMPR_image",
+            "rootOffset": 437152
+        },
+        {
+            "name": "GrdYorsterKuruBlk_C4_image",
+            "rootOffset": 420704
+        },
+        {
+            "name": "GrdYorsterKuruBlk_tlut",
+            "rootOffset": 437088
+        },
+        {
+            "name": "GrdYorsterKuruBlk_tlut_desc",
+            "rootOffset": 437120
+        },
+        {
+            "name": "GrdYorsterMK_CMPR_image",
+            "rootOffset": 469920
+        },
+        {
+            "name": "GrdYorsterPoleA_CMPR_image",
+            "rootOffset": 506592
+        },
+        {
+            "name": "GrdYorsterPoleB_CMPR_image",
+            "rootOffset": 498400
+        },
+        {
+            "name": "GrdYorsterPoleC_CMPR_image",
+            "rootOffset": 490208
+        },
+        {
+            "name": "GrdYorsterPoleD_CMPR_image",
+            "rootOffset": 482016
+        },
+        {
+            "name": "GrdYorsterWaterA_I8_image",
+            "rootOffset": 326176
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 179976
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 180620
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 180840
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 396
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 181016
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 555816
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 180844
+        }
+    ]
+}

@@ -1,0 +1,293 @@
+{
+    "sourceFile": "GrOp.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 78680
+        },
+        {
+            "name": "GrdOldpupupuBgn1_RGBA8_image",
+            "rootOffset": 109216
+        },
+        {
+            "name": "GrdOldpupupuBront1_RGB5A3_image",
+            "rootOffset": 633504
+        },
+        {
+            "name": "GrdOldpupupuBront2_RGB5A3_image",
+            "rootOffset": 635040
+        },
+        {
+            "name": "GrdOldpupupuBront3_RGB5A3_image",
+            "rootOffset": 636576
+        },
+        {
+            "name": "GrdOldpupupuBuilding3_C4_image",
+            "rootOffset": 639872
+        },
+        {
+            "name": "GrdOldpupupuBuilding3_tlut",
+            "rootOffset": 640384
+        },
+        {
+            "name": "GrdOldpupupuBuilding3_tlut_desc",
+            "rootOffset": 640416
+        },
+        {
+            "name": "GrdOldpupupuBuilding5_RGB5A3_image",
+            "rootOffset": 102048
+        },
+        {
+            "name": "GrdOldpupupuBuildingnew1_C4_image",
+            "rootOffset": 81056
+        },
+        {
+            "name": "GrdOldpupupuBuildingnew1_tlut",
+            "rootOffset": 81568
+        },
+        {
+            "name": "GrdOldpupupuBuildingnew1_tlut_desc",
+            "rootOffset": 81600
+        },
+        {
+            "name": "GrdOldpupupuDedede_C4_image",
+            "rootOffset": 638112
+        },
+        {
+            "name": "GrdOldpupupuDedede_tlut",
+            "rootOffset": 638912
+        },
+        {
+            "name": "GrdOldpupupuDedede_tlut_desc",
+            "rootOffset": 638944
+        },
+        {
+            "name": "GrdOldpupupuScaffold3_C4_image",
+            "rootOffset": 642496
+        },
+        {
+            "name": "GrdOldpupupuScaffold3_tlut",
+            "rootOffset": 642624
+        },
+        {
+            "name": "GrdOldpupupuScaffold3_tlut_desc",
+            "rootOffset": 642656
+        },
+        {
+            "name": "GrdOldpupupuScaffold4_C4_image",
+            "rootOffset": 642688
+        },
+        {
+            "name": "GrdOldpupupuScaffold4_tlut",
+            "rootOffset": 642816
+        },
+        {
+            "name": "GrdOldpupupuScaffold4_tlut_desc",
+            "rootOffset": 642848
+        },
+        {
+            "name": "GrdOldpupupuWcheek1_RGB5A3_image",
+            "rootOffset": 98464
+        },
+        {
+            "name": "GrdOldpupupuWeye1_RGB5A3_image",
+            "rootOffset": 97440
+        },
+        {
+            "name": "GrdOldpupupuWeye2_RGB5A3_image",
+            "rootOffset": 106144
+        },
+        {
+            "name": "GrdOldpupupuWfoliage1_RGB5A3_image",
+            "rootOffset": 88096
+        },
+        {
+            "name": "GrdOldpupupuWfoliage1b_C4_image",
+            "rootOffset": 83744
+        },
+        {
+            "name": "GrdOldpupupuWfoliage1b_tlut",
+            "rootOffset": 85792
+        },
+        {
+            "name": "GrdOldpupupuWfoliage1b_tlut_desc",
+            "rootOffset": 85824
+        },
+        {
+            "name": "GrdOldpupupuWfoliageshadow1_C4_image",
+            "rootOffset": 81632
+        },
+        {
+            "name": "GrdOldpupupuWfoliageshadow1_tlut",
+            "rootOffset": 83680
+        },
+        {
+            "name": "GrdOldpupupuWfoliageshadow1_tlut_desc",
+            "rootOffset": 83712
+        },
+        {
+            "name": "GrdOldpupupuWgrass4_RGB5A3_image",
+            "rootOffset": 100000
+        },
+        {
+            "name": "GrdOldpupupuWload1_C4_image",
+            "rootOffset": 639552
+        },
+        {
+            "name": "GrdOldpupupuWload1_tlut",
+            "rootOffset": 639808
+        },
+        {
+            "name": "GrdOldpupupuWload1_tlut_desc",
+            "rootOffset": 639840
+        },
+        {
+            "name": "GrdOldpupupuWmouth1_RGB5A3_image",
+            "rootOffset": 107168
+        },
+        {
+            "name": "GrdOldpupupuWmouth3_RGB5A3_image",
+            "rootOffset": 108192
+        },
+        {
+            "name": "GrdOldpupupuWnose1_RGB5A3_image",
+            "rootOffset": 99488
+        },
+        {
+            "name": "GrdOldpupupuWpond1_CMPR_image",
+            "rootOffset": 640960
+        },
+        {
+            "name": "GrdOldpupupuWpond2_CMPR_image",
+            "rootOffset": 641472
+        },
+        {
+            "name": "GrdOldpupupuWpond3_CMPR_image",
+            "rootOffset": 641984
+        },
+        {
+            "name": "GrdOldpupupuWwall2_C4_image",
+            "rootOffset": 86432
+        },
+        {
+            "name": "GrdOldpupupuWwall2_tlut",
+            "rootOffset": 87456
+        },
+        {
+            "name": "GrdOldpupupuWwall2_tlut_desc",
+            "rootOffset": 87488
+        },
+        {
+            "name": "GrdOldpupupuWwall2n_C4_image",
+            "rootOffset": 97248
+        },
+        {
+            "name": "GrdOldpupupuWwall2n_tlut",
+            "rootOffset": 97376
+        },
+        {
+            "name": "GrdOldpupupuWwall2n_tlut_desc",
+            "rootOffset": 97408
+        },
+        {
+            "name": "GrdOldpupupuWwall3_C4_image",
+            "rootOffset": 87520
+        },
+        {
+            "name": "GrdOldpupupuWwall3_tlut",
+            "rootOffset": 88032
+        },
+        {
+            "name": "GrdOldpupupuWwall3_tlut_desc",
+            "rootOffset": 88064
+        },
+        {
+            "name": "GrdOldpupupuWwall4_C4_image",
+            "rootOffset": 638976
+        },
+        {
+            "name": "GrdOldpupupuWwall4_tlut",
+            "rootOffset": 639488
+        },
+        {
+            "name": "GrdOldpupupuWwall4_tlut_desc",
+            "rootOffset": 639520
+        },
+        {
+            "name": "GrdOldpupupuWwood2_C4_image",
+            "rootOffset": 97056
+        },
+        {
+            "name": "GrdOldpupupuWwood2_tlut",
+            "rootOffset": 97184
+        },
+        {
+            "name": "GrdOldpupupuWwood2_tlut_desc",
+            "rootOffset": 97216
+        },
+        {
+            "name": "GrdOldpupupuWwood3_C4_image",
+            "rootOffset": 85856
+        },
+        {
+            "name": "GrdOldpupupuWwood3_tlut",
+            "rootOffset": 86368
+        },
+        {
+            "name": "GrdOldpupupuWwood3_tlut_desc",
+            "rootOffset": 86400
+        },
+        {
+            "name": "GrdOldpupupuWwoodball1_RGB5A3_image",
+            "rootOffset": 96544
+        },
+        {
+            "name": "GrdOldpupupuWwoodball2_RGB5A3_image",
+            "rootOffset": 96800
+        },
+        {
+            "name": "GrdOldpupupuWwoodball3_RGB5A3_image",
+            "rootOffset": 96288
+        },
+        {
+            "name": "StgKirbywgrassfloor1_CMPR_image",
+            "rootOffset": 640448
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 75776
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 78376
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 78596
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 836
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 78848
+        },
+        {
+            "name": "map_ptcl",
+            "rootOffset": 75840
+        },
+        {
+            "name": "map_texg",
+            "rootOffset": 76224
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 643848
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 78600
+        }
+    ]
+}

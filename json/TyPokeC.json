@@ -1,0 +1,13 @@
+{
+    "sourceFile": "TyPokeC.dat",
+    "nodes": [
+        {
+            "name": "ToyDspPokemonC_Top_joint",
+            "rootOffset": 392
+        },
+        {
+            "name": "ToyDspPokemonC_Top_matanim_joint",
+            "rootOffset": 11464
+        }
+    ]
+}

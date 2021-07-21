@@ -1,0 +1,89 @@
+{
+    "sourceFile": "GrTZd.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 54656
+        },
+        {
+            "name": "GrdTLinkFloor00_RGBA8_image",
+            "rootOffset": 89152
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 134528
+        },
+        {
+            "name": "GrdTargetZeldaFloor00_CMPR_image",
+            "rootOffset": 62528
+        },
+        {
+            "name": "GrdTargetZeldaFloor01_C8_image",
+            "rootOffset": 130112
+        },
+        {
+            "name": "GrdTargetZeldaFloor01_tlut",
+            "rootOffset": 134208
+        },
+        {
+            "name": "GrdTargetZeldaFloor01_tlut_desc",
+            "rootOffset": 134464
+        },
+        {
+            "name": "GrdTargetZeldaFloor02_CMPR_image",
+            "rootOffset": 134496
+        },
+        {
+            "name": "GrdTargetZeldaRelief01_CMPR_image",
+            "rootOffset": 64576
+        },
+        {
+            "name": "GrdTargetZeldaRelief02_CMPR_image",
+            "rootOffset": 113728
+        },
+        {
+            "name": "GrdTargetZeldaRelief04_CMPR_image",
+            "rootOffset": 121920
+        },
+        {
+            "name": "GrdTargetZeldaRelief05_CMPR_image",
+            "rootOffset": 72768
+        },
+        {
+            "name": "GrdTargetZeldaRelief07_CMPR_image",
+            "rootOffset": 105536
+        },
+        {
+            "name": "GrdTargetZeldaRelief08_CMPR_image",
+            "rootOffset": 58432
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 54252
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 54396
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 54616
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 384
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 57568
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 137544
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 54624
+        }
+    ]
+}

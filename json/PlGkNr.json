@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlGkNr.dat",
+    "nodes": [
+        {
+            "name": "PlyGkoopa5K_Share_joint",
+            "rootOffset": 318216
+        },
+        {
+            "name": "PlyGkoopa5K_Share_matanim_joint",
+            "rootOffset": 470728
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyJugemu.dat",
+    "nodes": [
+        {
+            "name": "ToyJugemuModel_TopN_joint",
+            "rootOffset": 129512
+        }
+    ]
+}

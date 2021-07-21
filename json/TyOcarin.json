@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyOcarin.dat",
+    "nodes": [
+        {
+            "name": "ToyOcarinaModel_TopN_joint",
+            "rootOffset": 32136
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "sourceFile": "TyStandD.dat",
+    "nodes": [
+        {
+            "name": "ToyDspStand_Top_joint",
+            "rootOffset": 1128
+        },
+        {
+            "name": "ToyDspStand_Top_matanim_joint",
+            "rootOffset": 3552
+        }
+    ]
+}

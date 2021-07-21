@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyFox.dat",
+    "nodes": [
+        {
+            "name": "ToyFoxModel_TopN_joint",
+            "rootOffset": 41768
+        }
+    ]
+}

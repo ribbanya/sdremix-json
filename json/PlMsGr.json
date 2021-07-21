@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlMsGr.dat",
+    "nodes": [
+        {
+            "name": "PlyMars5KGr_Share_joint",
+            "rootOffset": 128872
+        },
+        {
+            "name": "PlyMars5KGr_Share_matanim_joint",
+            "rootOffset": 416432
+        }
+    ]
+}

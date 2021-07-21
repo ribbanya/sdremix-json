@@ -1,0 +1,17 @@
+{
+    "sourceFile": "TmBox.dat",
+    "nodes": [
+        {
+            "name": "tournament_box2_array",
+            "rootOffset": 0
+        },
+        {
+            "name": "tournament_box3_array",
+            "rootOffset": 8720
+        },
+        {
+            "name": "tournament_box4_array",
+            "rootOffset": 10360
+        }
+    ]
+}

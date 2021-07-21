@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyRaikou.dat",
+    "nodes": [
+        {
+            "name": "ToyRaikouModel_TopN_joint",
+            "rootOffset": 80200
+        }
+    ]
+}

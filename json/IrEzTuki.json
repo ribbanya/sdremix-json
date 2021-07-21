@@ -1,0 +1,117 @@
+{
+    "sourceFile": "IrEzTuki.dat",
+    "nodes": [
+        {
+            "name": "ScItrAllstar_scene_data",
+            "rootOffset": 108200
+        },
+        {
+            "name": "ftDemoIntroMotionFileCaptain",
+            "rootOffset": 108224
+        },
+        {
+            "name": "ftDemoIntroMotionFileClink",
+            "rootOffset": 269408
+        },
+        {
+            "name": "ftDemoIntroMotionFileDonkey",
+            "rootOffset": 117920
+        },
+        {
+            "name": "ftDemoIntroMotionFileDrmario",
+            "rootOffset": 277792
+        },
+        {
+            "name": "ftDemoIntroMotionFileEmblem",
+            "rootOffset": 304288
+        },
+        {
+            "name": "ftDemoIntroMotionFileFalco",
+            "rootOffset": 262912
+        },
+        {
+            "name": "ftDemoIntroMotionFileFox",
+            "rootOffset": 125120
+        },
+        {
+            "name": "ftDemoIntroMotionFileGamewatch",
+            "rootOffset": 132704
+        },
+        {
+            "name": "ftDemoIntroMotionFileGanon",
+            "rootOffset": 294208
+        },
+        {
+            "name": "ftDemoIntroMotionFileKirby",
+            "rootOffset": 143136
+        },
+        {
+            "name": "ftDemoIntroMotionFileKoopa",
+            "rootOffset": 147360
+        },
+        {
+            "name": "ftDemoIntroMotionFileLink",
+            "rootOffset": 154688
+        },
+        {
+            "name": "ftDemoIntroMotionFileLuigi",
+            "rootOffset": 171200
+        },
+        {
+            "name": "ftDemoIntroMotionFileMario",
+            "rootOffset": 177152
+        },
+        {
+            "name": "ftDemoIntroMotionFileMars",
+            "rootOffset": 184608
+        },
+        {
+            "name": "ftDemoIntroMotionFileMewtwo",
+            "rootOffset": 193600
+        },
+        {
+            "name": "ftDemoIntroMotionFileNana",
+            "rootOffset": 222976
+        },
+        {
+            "name": "ftDemoIntroMotionFileNess",
+            "rootOffset": 200128
+        },
+        {
+            "name": "ftDemoIntroMotionFilePeach",
+            "rootOffset": 205600
+        },
+        {
+            "name": "ftDemoIntroMotionFilePichu",
+            "rootOffset": 288576
+        },
+        {
+            "name": "ftDemoIntroMotionFilePikachu",
+            "rootOffset": 212096
+        },
+        {
+            "name": "ftDemoIntroMotionFilePopo",
+            "rootOffset": 217152
+        },
+        {
+            "name": "ftDemoIntroMotionFilePurin",
+            "rootOffset": 228192
+        },
+        {
+            "name": "ftDemoIntroMotionFileSamus",
+            "rootOffset": 232448
+        },
+        {
+            "name": "ftDemoIntroMotionFileSeak",
+            "rootOffset": 257312
+        },
+        {
+            "name": "ftDemoIntroMotionFileYoshi",
+            "rootOffset": 239360
+        },
+        {
+            "name": "ftDemoIntroMotionFileZelda",
+            "rootOffset": 246688
+        }
+    ]
+}

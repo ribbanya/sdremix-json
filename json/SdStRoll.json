@@ -1,0 +1,9 @@
+{
+    "sourceFile": "SdStRoll.dat",
+    "nodes": [
+        {
+            "name": "SIS_StRollData",
+            "rootOffset": 0
+        }
+    ]
+}

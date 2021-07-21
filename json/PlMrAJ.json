@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlMrAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Wait1",
+            "name": "PlyMario5K_Share_ACTION_Wait1_figatree",
+            "rootOffset": 3688,
+            "data": {
+                "numFrames": 50.0,
+                "boneTableOffset": 3624,
+                "animDataOffset": 2292
+            }
+        }
+    ]
+}

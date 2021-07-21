@@ -1,0 +1,77 @@
+{
+    "sourceFile": "GrTDr.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 154904
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 220064
+        },
+        {
+            "name": "GrdTargetDrmario00_CMPR_image",
+            "rootOffset": 191392
+        },
+        {
+            "name": "GrdTargetDrmario01_CMPR_image",
+            "rootOffset": 199584
+        },
+        {
+            "name": "GrdTargetDrmario02_CMPR_image",
+            "rootOffset": 209824
+        },
+        {
+            "name": "GrdTargetDrmario03_CMPR_image",
+            "rootOffset": 175008
+        },
+        {
+            "name": "GrdTargetDrmario04_CMPR_image",
+            "rootOffset": 183200
+        },
+        {
+            "name": "GrdTargetDrmario05_CMPR_image",
+            "rootOffset": 201632
+        },
+        {
+            "name": "GrdTargetDrmario08_I4_image",
+            "rootOffset": 218016
+        },
+        {
+            "name": "GrdTargetMario06_CMPR_image",
+            "rootOffset": 158624
+        },
+        {
+            "name": "GrdTargetMario07_CMPR_image",
+            "rootOffset": 166816
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 154500
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 154644
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 154864
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 428
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 157824
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 223080
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 154872
+        }
+    ]
+}

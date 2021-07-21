@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlClAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Wait",
+            "name": "PlyClink5K_Share_ACTION_Wait_figatree",
+            "rootOffset": 10912,
+            "data": {
+                "numFrames": 90.0,
+                "boneTableOffset": 10832,
+                "animDataOffset": 8528
+            }
+        }
+    ]
+}

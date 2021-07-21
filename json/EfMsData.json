@@ -1,0 +1,9 @@
+{
+    "sourceFile": "EfMsData.dat",
+    "nodes": [
+        {
+            "name": "effMarsDataTable",
+            "rootOffset": 0
+        }
+    ]
+}

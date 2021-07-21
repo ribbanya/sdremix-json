@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlZdNr.dat",
+    "nodes": [
+        {
+            "name": "PlyZelda5K_Share_joint",
+            "rootOffset": 108784
+        },
+        {
+            "name": "PlyZelda5K_Share_matanim_joint",
+            "rootOffset": 276088
+        }
+    ]
+}

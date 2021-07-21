@@ -1,0 +1,93 @@
+{
+    "sourceFile": "TyMnFigp.dat",
+    "nodes": [
+        {
+            "name": "ScMenFigure_cam_int1_camera",
+            "rootOffset": 212064
+        },
+        {
+            "name": "ScMenFigure_scene_lights",
+            "rootOffset": 212392
+        },
+        {
+            "name": "ToyFigurePonBet_Top_joint",
+            "rootOffset": 211784
+        },
+        {
+            "name": "ToyFigurePonBet_Top_matanim_joint",
+            "rootOffset": 211952
+        },
+        {
+            "name": "ToyFigurePonBg_Top_animjoint",
+            "rootOffset": 210344
+        },
+        {
+            "name": "ToyFigurePonBg_Top_joint",
+            "rootOffset": 201192
+        },
+        {
+            "name": "ToyFigurePonBg_Top_matanim_joint",
+            "rootOffset": 211236
+        },
+        {
+            "name": "ToyFigurePonCoin_Top_animjoint",
+            "rootOffset": 191712
+        },
+        {
+            "name": "ToyFigurePonCoin_Top_joint",
+            "rootOffset": 189352
+        },
+        {
+            "name": "ToyFigurePonLever_Top_animjoint",
+            "rootOffset": 173172
+        },
+        {
+            "name": "ToyFigurePonLever_Top_joint",
+            "rootOffset": 155688
+        },
+        {
+            "name": "ToyFigurePonLever_Top_matanim_joint",
+            "rootOffset": 175160
+        },
+        {
+            "name": "ToyFigurePonNget_Top_animjoint",
+            "rootOffset": 98912
+        },
+        {
+            "name": "ToyFigurePonNget_Top_joint",
+            "rootOffset": 63688
+        },
+        {
+            "name": "ToyFigurePonNm_Top_joint",
+            "rootOffset": 57608
+        },
+        {
+            "name": "ToyFigurePonNm_Top_matanim_joint",
+            "rootOffset": 61544
+        },
+        {
+            "name": "ToyFigurePonPanel_Top_animjoint",
+            "rootOffset": 56016
+        },
+        {
+            "name": "ToyFigurePonPanel_Top_joint",
+            "rootOffset": 8456
+        },
+        {
+            "name": "ToyFigurePonPanel_Top_matanim_joint",
+            "rootOffset": 56932
+        },
+        {
+            "name": "ToyFigurePonPanel_zarrow_matanim_joint",
+            "rootOffset": 57088
+        },
+        {
+            "name": "ToyFigurePonPar_Top_joint",
+            "rootOffset": 392
+        },
+        {
+            "name": "ToyFigurePonPar_Top_matanim_joint",
+            "rootOffset": 992
+        }
+    ]
+}

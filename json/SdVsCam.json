@@ -1,0 +1,9 @@
+{
+    "sourceFile": "SdVsCam.dat",
+    "nodes": [
+        {
+            "name": "SIS_VsCameraData",
+            "rootOffset": 0
+        }
+    ]
+}

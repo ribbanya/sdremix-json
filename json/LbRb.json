@@ -1,0 +1,9 @@
+{
+    "sourceFile": "LbRb.dat",
+    "nodes": [
+        {
+            "name": "lbRumbleData",
+            "rootOffset": 512
+        }
+    ]
+}

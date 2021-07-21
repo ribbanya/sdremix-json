@@ -1,0 +1,117 @@
+{
+    "sourceFile": "GrTIc.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 124552
+        },
+        {
+            "name": "GrdTPopoCondor0_C4_image",
+            "rootOffset": 144608
+        },
+        {
+            "name": "GrdTPopoCondor0_tlut",
+            "rootOffset": 146048
+        },
+        {
+            "name": "GrdTPopoCondor0_tlut_desc",
+            "rootOffset": 146080
+        },
+        {
+            "name": "GrdTPopoCondor1_C4_image",
+            "rootOffset": 207552
+        },
+        {
+            "name": "GrdTPopoCondor1_tlut",
+            "rootOffset": 210432
+        },
+        {
+            "name": "GrdTPopoCondor1_tlut_desc",
+            "rootOffset": 210464
+        },
+        {
+            "name": "GrdTPopoCondor2_C4_image",
+            "rootOffset": 208992
+        },
+        {
+            "name": "GrdTPopoCondor2_tlut",
+            "rootOffset": 210496
+        },
+        {
+            "name": "GrdTPopoCondor2_tlut_desc",
+            "rootOffset": 210528
+        },
+        {
+            "name": "GrdTPopoRock02_RGBA8_image",
+            "rootOffset": 203456
+        },
+        {
+            "name": "GrdTPopoRock03_RGBA8_image",
+            "rootOffset": 140512
+        },
+        {
+            "name": "GrdTPopoRock04_RGBA8_image",
+            "rootOffset": 199360
+        },
+        {
+            "name": "GrdTPopoRock05_RGBA8_image",
+            "rootOffset": 132320
+        },
+        {
+            "name": "GrdTPopoRock06_RGBA8_image",
+            "rootOffset": 146112
+        },
+        {
+            "name": "GrdTPopoRock07_RGBA8_image",
+            "rootOffset": 128224
+        },
+        {
+            "name": "GrdTPopoRock08_RGBA8_image",
+            "rootOffset": 150208
+        },
+        {
+            "name": "GrdTPopoRock09_RGBA8_image",
+            "rootOffset": 136416
+        },
+        {
+            "name": "GrdTPopoRock11_RGBA8_image",
+            "rootOffset": 166592
+        },
+        {
+            "name": "GrdTPopoRock12_RGBA8_image",
+            "rootOffset": 182976
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 210560
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 124148
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 124292
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 124512
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 968
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 127456
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 213576
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 124520
+        }
+    ]
+}

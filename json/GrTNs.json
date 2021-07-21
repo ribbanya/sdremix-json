@@ -1,0 +1,81 @@
+{
+    "sourceFile": "GrTNs.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 149912
+        },
+        {
+            "name": "GrdTNessFloor01_RGBA8_image",
+            "rootOffset": 196640
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 237600
+        },
+        {
+            "name": "GrdTargetNess00_CMPR_image",
+            "rootOffset": 188448
+        },
+        {
+            "name": "GrdTargetNess03_CMPR_image",
+            "rootOffset": 221216
+        },
+        {
+            "name": "GrdTargetNess04_CMPR_image",
+            "rootOffset": 229408
+        },
+        {
+            "name": "GrdTargetNessTypeA00_CMPR_image",
+            "rootOffset": 180256
+        },
+        {
+            "name": "GrdTargetNessTypeA01_CMPR_image",
+            "rootOffset": 161824
+        },
+        {
+            "name": "GrdTargetNessTypeA02_CMPR_image",
+            "rootOffset": 163872
+        },
+        {
+            "name": "GrdTargetNessTypeA03_CMPR_image",
+            "rootOffset": 213024
+        },
+        {
+            "name": "GrdTargetNessTypeA04_CMPR_image",
+            "rootOffset": 153632
+        },
+        {
+            "name": "GrdTargetNessTypeA05_CMPR_image",
+            "rootOffset": 172064
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 149508
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 149652
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 149872
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 448
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 152832
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 240616
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 149880
+        }
+    ]
+}

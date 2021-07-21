@@ -1,0 +1,13 @@
+{
+    "sourceFile": "TyEtcC.dat",
+    "nodes": [
+        {
+            "name": "ToyDspFgetcC_Top_joint",
+            "rootOffset": 392
+        },
+        {
+            "name": "ToyDspFgetcC_Top_matanim_joint",
+            "rootOffset": 11608
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyPeppy.dat",
+    "nodes": [
+        {
+            "name": "ToyPeppyModel_TopN_joint",
+            "rootOffset": 33320
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "sourceFile": "GmKumite.dat",
+    "nodes": [
+        {
+            "name": "gmKumiteSystemTable100man",
+            "rootOffset": 176
+        },
+        {
+            "name": "gmKumiteSystemTable10man",
+            "rootOffset": 0
+        },
+        {
+            "name": "gmKumiteSystemTable10min",
+            "rootOffset": 1792
+        },
+        {
+            "name": "gmKumiteSystemTable60min",
+            "rootOffset": 2128
+        },
+        {
+            "name": "gmKumiteSystemTableEndless",
+            "rootOffset": 2560
+        },
+        {
+            "name": "gmKumiteSystemTableMercilessly",
+            "rootOffset": 2896
+        }
+    ]
+}

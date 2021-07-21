@@ -1,0 +1,9 @@
+{
+    "sourceFile": "GmEvent.dat",
+    "nodes": [
+        {
+            "name": "sqEventInitDataLevelTbl",
+            "rootOffset": 9420
+        }
+    ]
+}

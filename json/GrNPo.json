@@ -1,0 +1,185 @@
+{
+    "sourceFile": "GrNPo.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 394480
+        },
+        {
+            "name": "GrdPushonBlue_RGB565_image",
+            "rootOffset": 448448
+        },
+        {
+            "name": "GrdPushonBord1_C4_image",
+            "rootOffset": 617696
+        },
+        {
+            "name": "GrdPushonBord1_tlut",
+            "rootOffset": 618208
+        },
+        {
+            "name": "GrdPushonBord1_tlut_desc",
+            "rootOffset": 618240
+        },
+        {
+            "name": "GrdPushonGridA_RGB565_image",
+            "rootOffset": 576192
+        },
+        {
+            "name": "GrdPushonGridAa_CMPR_image",
+            "rootOffset": 497728
+        },
+        {
+            "name": "GrdPushonGridAa_MIPMAP_CMPR_image",
+            "rootOffset": 505920
+        },
+        {
+            "name": "GrdPushonGridC_RGB565_image",
+            "rootOffset": 517504
+        },
+        {
+            "name": "GrdPushonHariB_C8_image",
+            "rootOffset": 618272
+        },
+        {
+            "name": "GrdPushonHariB_tlut",
+            "rootOffset": 634656
+        },
+        {
+            "name": "GrdPushonHariB_tlut_desc",
+            "rootOffset": 634848
+        },
+        {
+            "name": "GrdPushonHari_C8_image",
+            "rootOffset": 431520
+        },
+        {
+            "name": "GrdPushonHari_tlut",
+            "rootOffset": 447904
+        },
+        {
+            "name": "GrdPushonHari_tlut_desc",
+            "rootOffset": 448416
+        },
+        {
+            "name": "GrdPushonKoushi_C8_image",
+            "rootOffset": 533888
+        },
+        {
+            "name": "GrdPushonKoushi_tlut",
+            "rootOffset": 550272
+        },
+        {
+            "name": "GrdPushonKoushi_tlut_desc",
+            "rootOffset": 550592
+        },
+        {
+            "name": "GrdPushonLighiR_C8_image",
+            "rootOffset": 608960
+        },
+        {
+            "name": "GrdPushonLighiR_tlut",
+            "rootOffset": 617152
+        },
+        {
+            "name": "GrdPushonLighiR_tlut_desc",
+            "rootOffset": 617664
+        },
+        {
+            "name": "GrdPushonLightB_I8_image",
+            "rootOffset": 497600
+        },
+        {
+            "name": "GrdPushonLightO_C4_image",
+            "rootOffset": 516928
+        },
+        {
+            "name": "GrdPushonLightO_tlut",
+            "rootOffset": 517440
+        },
+        {
+            "name": "GrdPushonLightO_tlut_desc",
+            "rootOffset": 517472
+        },
+        {
+            "name": "GrdPushonLine1_C8_image",
+            "rootOffset": 558816
+        },
+        {
+            "name": "GrdPushonLine1_tlut",
+            "rootOffset": 558944
+        },
+        {
+            "name": "GrdPushonLine1_tlut_desc",
+            "rootOffset": 559040
+        },
+        {
+            "name": "GrdPushonLine2_C8_image",
+            "rootOffset": 576000
+        },
+        {
+            "name": "GrdPushonLine2_tlut",
+            "rootOffset": 576128
+        },
+        {
+            "name": "GrdPushonLine2_tlut_desc",
+            "rootOffset": 576160
+        },
+        {
+            "name": "GrdPushonNeon1_C8_image",
+            "rootOffset": 559072
+        },
+        {
+            "name": "GrdPushonNeon1_tlut",
+            "rootOffset": 575456
+        },
+        {
+            "name": "GrdPushonNeon1_tlut_desc",
+            "rootOffset": 575968
+        },
+        {
+            "name": "GrdPushonNoizi1_I8_image",
+            "rootOffset": 481216
+        },
+        {
+            "name": "GrdPushonT047_RGB565_image",
+            "rootOffset": 398752
+        },
+        {
+            "name": "GrdPushonYerrowB_RGB565_image",
+            "rootOffset": 550624
+        },
+        {
+            "name": "GrdPushonYerrow_RGB565_image",
+            "rootOffset": 525696
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 393336
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 393480
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 393700
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 408
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 395588
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 635848
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 393920
+        }
+    ]
+}

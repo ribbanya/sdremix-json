@@ -1,0 +1,61 @@
+{
+    "sourceFile": "GrTe.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 13600
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 13160
+        },
+        {
+            "name": "cv01_CMPR_image",
+            "rootOffset": 447360
+        },
+        {
+            "name": "cv03_CMPR_image",
+            "rootOffset": 480128
+        },
+        {
+            "name": "cv04_CMPR_image",
+            "rootOffset": 512896
+        },
+        {
+            "name": "cv05_CMPR_image",
+            "rootOffset": 545664
+        },
+        {
+            "name": "cv06_CMPR_image",
+            "rootOffset": 578432
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 13304
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 13524
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 336
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 446340
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 612168
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 13568
+        },
+        {
+            "name": "GrdStoryHeiho_TopN_shapeanim_joint",
+            "rootOffset": 443268
+        }
+    ]
+}

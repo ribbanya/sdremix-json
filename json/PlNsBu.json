@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlNsBu.dat",
+    "nodes": [
+        {
+            "name": "PlyNess5KBu_Share_joint",
+            "rootOffset": 112648
+        },
+        {
+            "name": "PlyNess5KBu_Share_matanim_joint",
+            "rootOffset": 335832
+        }
+    ]
+}

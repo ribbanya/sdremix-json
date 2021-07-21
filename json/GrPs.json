@@ -1,0 +1,693 @@
+{
+    "sourceFile": "GrPs.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 252888
+        },
+        {
+            "name": "GrdPSNormalBaseA_CMPR_image",
+            "rootOffset": 254848
+        },
+        {
+            "name": "GrdPSNormalBaseB_CMPR_image",
+            "rootOffset": 256896
+        },
+        {
+            "name": "GrdPSNormalBaseC_I8_image",
+            "rootOffset": 289664
+        },
+        {
+            "name": "GrdPStadiumBG_OVDummy_mat6962_GrdPStadiumDummy_0_image_desc",
+            "rootOffset": 35276
+        },
+        {
+            "name": "GrdPStadiumBldB_C8_image",
+            "rootOffset": 955168
+        },
+        {
+            "name": "GrdPStadiumBldB_tlut",
+            "rootOffset": 1028896
+        },
+        {
+            "name": "GrdPStadiumBldB_tlut_desc",
+            "rootOffset": 1029408
+        },
+        {
+            "name": "GrdPStadiumBldC_C8_image",
+            "rootOffset": 835232
+        },
+        {
+            "name": "GrdPStadiumBldC_tlut",
+            "rootOffset": 851616
+        },
+        {
+            "name": "GrdPStadiumBldC_tlut_desc",
+            "rootOffset": 852128
+        },
+        {
+            "name": "GrdPStadiumBldD_C8_image",
+            "rootOffset": 852160
+        },
+        {
+            "name": "GrdPStadiumBldD_tlut",
+            "rootOffset": 898240
+        },
+        {
+            "name": "GrdPStadiumBldD_tlut_desc",
+            "rootOffset": 898752
+        },
+        {
+            "name": "GrdPStadiumBldG_C8_image",
+            "rootOffset": 938240
+        },
+        {
+            "name": "GrdPStadiumBldG_tlut",
+            "rootOffset": 954624
+        },
+        {
+            "name": "GrdPStadiumBldG_tlut_desc",
+            "rootOffset": 955136
+        },
+        {
+            "name": "GrdPStadiumBldH_C8_image",
+            "rootOffset": 898784
+        },
+        {
+            "name": "GrdPStadiumBldH_tlut",
+            "rootOffset": 937696
+        },
+        {
+            "name": "GrdPStadiumBldH_tlut_desc",
+            "rootOffset": 938208
+        },
+        {
+            "name": "GrdPStadiumBldI_C8_image",
+            "rootOffset": 809088
+        },
+        {
+            "name": "GrdPStadiumBldI_tlut",
+            "rootOffset": 834688
+        },
+        {
+            "name": "GrdPStadiumBldI_tlut_desc",
+            "rootOffset": 835200
+        },
+        {
+            "name": "GrdPStadiumBldJ_C8_image",
+            "rootOffset": 791264
+        },
+        {
+            "name": "GrdPStadiumBldJ_tlut",
+            "rootOffset": 808672
+        },
+        {
+            "name": "GrdPStadiumBldJ_tlut_desc",
+            "rootOffset": 809056
+        },
+        {
+            "name": "GrdPStadiumBldK_I4_image",
+            "rootOffset": 788768
+        },
+        {
+            "name": "GrdPStadiumCloud_I8_image",
+            "rootOffset": 1029440
+        },
+        {
+            "name": "GrdPStadiumDummy_I4_image",
+            "rootOffset": 293760
+        },
+        {
+            "name": "GrdPStadiumFenceB_I4_image",
+            "rootOffset": 1294976
+        },
+        {
+            "name": "GrdPStadiumFenceB_MIPMAP_I4_image",
+            "rootOffset": 1292096
+        },
+        {
+            "name": "GrdPStadiumFloorA_I4_image",
+            "rootOffset": 1218496
+        },
+        {
+            "name": "GrdPStadiumFloorB_I8_image",
+            "rootOffset": 1190176
+        },
+        {
+            "name": "GrdPStadiumLSteel_I4_image",
+            "rootOffset": 1253184
+        },
+        {
+            "name": "GrdPStadiumL_IA8_image",
+            "rootOffset": 1257280
+        },
+        {
+            "name": "GrdPStadiumLight_CMPR_image",
+            "rootOffset": 1290048
+        },
+        {
+            "name": "GrdPStadiumNetA_I4_image",
+            "rootOffset": 1166624
+        },
+        {
+            "name": "GrdPStadiumNoiseA_IA4_image",
+            "rootOffset": 1070528
+        },
+        {
+            "name": "GrdPStadiumNoiseB_IA4_image",
+            "rootOffset": 1085696
+        },
+        {
+            "name": "GrdPStadiumNoiseC_IA4_image",
+            "rootOffset": 1089792
+        },
+        {
+            "name": "GrdPStadiumOVBase_C8_image",
+            "rootOffset": 359968
+        },
+        {
+            "name": "GrdPStadiumOVBase_tlut",
+            "rootOffset": 425504
+        },
+        {
+            "name": "GrdPStadiumOVBase_tlut_desc",
+            "rootOffset": 425568
+        },
+        {
+            "name": "GrdPStadiumOVF_C8_image",
+            "rootOffset": 293888
+        },
+        {
+            "name": "GrdPStadiumOVF_tlut",
+            "rootOffset": 359424
+        },
+        {
+            "name": "GrdPStadiumOVF_tlut_desc",
+            "rootOffset": 359936
+        },
+        {
+            "name": "GrdPStadiumOVG_C8_image",
+            "rootOffset": 425600
+        },
+        {
+            "name": "GrdPStadiumOVG_tlut",
+            "rootOffset": 491136
+        },
+        {
+            "name": "GrdPStadiumOVG_tlut_desc",
+            "rootOffset": 491648
+        },
+        {
+            "name": "GrdPStadiumOVHTP_C8_image",
+            "rootOffset": 491680
+        },
+        {
+            "name": "GrdPStadiumOVHTP_tlut",
+            "rootOffset": 557216
+        },
+        {
+            "name": "GrdPStadiumOVHTP_tlut_desc",
+            "rootOffset": 557728
+        },
+        {
+            "name": "GrdPStadiumOVN_C8_image",
+            "rootOffset": 557760
+        },
+        {
+            "name": "GrdPStadiumOVN_tlut",
+            "rootOffset": 623296
+        },
+        {
+            "name": "GrdPStadiumOVN_tlut_desc",
+            "rootOffset": 623808
+        },
+        {
+            "name": "GrdPStadiumOVR_C8_image",
+            "rootOffset": 623840
+        },
+        {
+            "name": "GrdPStadiumOVR_tlut",
+            "rootOffset": 689376
+        },
+        {
+            "name": "GrdPStadiumOVR_tlut_desc",
+            "rootOffset": 689888
+        },
+        {
+            "name": "GrdPStadiumOVTest_CMPR_image",
+            "rootOffset": 689920
+        },
+        {
+            "name": "GrdPStadiumOVW_C8_image",
+            "rootOffset": 722688
+        },
+        {
+            "name": "GrdPStadiumOVW_tlut",
+            "rootOffset": 788224
+        },
+        {
+            "name": "GrdPStadiumOVW_tlut_desc",
+            "rootOffset": 788736
+        },
+        {
+            "name": "GrdPStadiumScrewA_I4_image",
+            "rootOffset": 1218240
+        },
+        {
+            "name": "GrdPStadiumSeatA_CMPR_image",
+            "rootOffset": 1238976
+        },
+        {
+            "name": "GrdPStadiumStairs_I4_image",
+            "rootOffset": 1252800
+        },
+        {
+            "name": "GrdPStadiumSteelA_I8_image",
+            "rootOffset": 1154336
+        },
+        {
+            "name": "GrdPStadiumSteelA_MIPMAP_I8_image",
+            "rootOffset": 1110528
+        },
+        {
+            "name": "GrdPStadiumSteelB_I4_image",
+            "rootOffset": 1121568
+        },
+        {
+            "name": "GrdPStadiumSteelC_I8_image",
+            "rootOffset": 1074624
+        },
+        {
+            "name": "GrdPStadiumSteelE_I4_image",
+            "rootOffset": 1216192
+        },
+        {
+            "name": "GrdPStadiumSteelE_MIPMAP_I4_image",
+            "rootOffset": 1082816
+        },
+        {
+            "name": "GrdPStadiumSteelF_I4_image",
+            "rootOffset": 1102080
+        },
+        {
+            "name": "GrdPStadiumSteelI_I8_image",
+            "rootOffset": 1162528
+        },
+        {
+            "name": "GrdPStadiumSteelJ_I8_image",
+            "rootOffset": 1172768
+        },
+        {
+            "name": "GrdPStadiumSteelJ_MIPMAP_I8_image",
+            "rootOffset": 1194272
+        },
+        {
+            "name": "GrdPStadiumSteelK_I8_image",
+            "rootOffset": 1168672
+        },
+        {
+            "name": "GrdPStadiumStellD_I8_image",
+            "rootOffset": 1102336
+        },
+        {
+            "name": "GrdPStadiumTileD_I4_image",
+            "rootOffset": 1189152
+        },
+        {
+            "name": "GrdPStadiumWallA_I8_image",
+            "rootOffset": 1226688
+        },
+        {
+            "name": "GrdPStadiumWallC_CMPR_image",
+            "rootOffset": 1093888
+        },
+        {
+            "name": "GrdPStadiumWallD_CMPR_image",
+            "rootOffset": 1234880
+        },
+        {
+            "name": "GrdPStadiumYakeiA_C4_image",
+            "rootOffset": 1062272
+        },
+        {
+            "name": "GrdPStadiumYakeiA_tlut",
+            "rootOffset": 1070464
+        },
+        {
+            "name": "GrdPStadiumYakeiA_tlut_desc",
+            "rootOffset": 1070496
+        },
+        {
+            "name": "GrdPStadiumYakeiB_C4_image",
+            "rootOffset": 1054016
+        },
+        {
+            "name": "GrdPStadiumYakeiB_tlut",
+            "rootOffset": 1062208
+        },
+        {
+            "name": "GrdPStadiumYakeiB_tlut_desc",
+            "rootOffset": 1062240
+        },
+        {
+            "name": "SIS_GrPStadiumData",
+            "rootOffset": 1297024
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 142480
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 252552
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 252772
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 1024
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 253056
+        },
+        {
+            "name": "map_ptcl",
+            "rootOffset": 142528
+        },
+        {
+            "name": "map_texg",
+            "rootOffset": 146304
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 1454312
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 252776
+        },
+        {
+            "name": "GrdPStadiumFire_ATree_FShadowmat3_mobjdesc",
+            "rootOffset": 856
+        },
+        {
+            "name": "GrdPStadiumFire_ATree_FShadowmat4_mobjdesc",
+            "rootOffset": 860
+        },
+        {
+            "name": "GrdPStadiumFire_ATree_FShadowmat5_mobjdesc",
+            "rootOffset": 864
+        },
+        {
+            "name": "GrdPStadiumFire_CTerrace_FShadowmat6_mobjdesc",
+            "rootOffset": 868
+        },
+        {
+            "name": "GrdPStadiumFire_CTerrace_FShadowmat7_mobjdesc",
+            "rootOffset": 872
+        },
+        {
+            "name": "GrdPStadiumFire_TopN_joint",
+            "rootOffset": 292
+        },
+        {
+            "name": "GrdPStadiumFire_TopN_matanim_joint_list",
+            "rootOffset": 300
+        },
+        {
+            "name": "GrdPStadiumFire_ZGround_FShadowmat1_mobjdesc",
+            "rootOffset": 876
+        },
+        {
+            "name": "GrdPStadiumFire_ZGround_FShadowmat2_mobjdesc",
+            "rootOffset": 880
+        },
+        {
+            "name": "GrdPStadiumGrass_SYaguraB_GShadowmat10_mobjdesc",
+            "rootOffset": 884
+        },
+        {
+            "name": "GrdPStadiumGrass_SyaguraA_GShadowmat11_mobjdesc",
+            "rootOffset": 888
+        },
+        {
+            "name": "GrdPStadiumGrass_TopN_joint",
+            "rootOffset": 344
+        },
+        {
+            "name": "GrdPStadiumGrass_TopN_matanim_joint_list",
+            "rootOffset": 352
+        },
+        {
+            "name": "GrdPStadiumGrass_TreeB_GShadowmat8_mobjdesc",
+            "rootOffset": 892
+        },
+        {
+            "name": "GrdPStadiumGrass_TreeB_GShadowmat9_mobjdesc",
+            "rootOffset": 896
+        },
+        {
+            "name": "GrdPStadiumGrass_UGround_GShadowmat12_mobjdesc",
+            "rootOffset": 900
+        },
+        {
+            "name": "GrdPStadiumGrass_UGround_GShadowmat13_mobjdesc",
+            "rootOffset": 904
+        },
+        {
+            "name": "GrdPStadiumGrass_UGround_GShadowmat14_mobjdesc",
+            "rootOffset": 908
+        },
+        {
+            "name": "GrdPStadiumGrass_UGround_GShadowmat15_mobjdesc",
+            "rootOffset": 912
+        },
+        {
+            "name": "GrdPStadiumGrass_UGround_GShadowmat16_mobjdesc",
+            "rootOffset": 916
+        },
+        {
+            "name": "GrdPStadiumRock_BStandA_RShadowmat2_mobjdesc",
+            "rootOffset": 944
+        },
+        {
+            "name": "GrdPStadiumRock_BStandB_RShadowmat6_mobjdesc",
+            "rootOffset": 948
+        },
+        {
+            "name": "GrdPStadiumRock_BStandB_RShadowmat7_mobjdesc",
+            "rootOffset": 952
+        },
+        {
+            "name": "GrdPStadiumRock_TopN_animjoint_list",
+            "rootOffset": 452
+        },
+        {
+            "name": "GrdPStadiumRock_TopN_joint",
+            "rootOffset": 448
+        },
+        {
+            "name": "GrdPStadiumRock_YRock_RShadowmat3_mobjdesc",
+            "rootOffset": 956
+        },
+        {
+            "name": "GrdPStadiumRock_ZGround_RShadowmat4_mobjdesc",
+            "rootOffset": 960
+        },
+        {
+            "name": "GrdPStadiumRock_ZGround_RShadowmat5_mobjdesc",
+            "rootOffset": 964
+        },
+        {
+            "name": "GrdPStadiumRock_ZGround_shadowmat1_mobjdesc",
+            "rootOffset": 968
+        },
+        {
+            "name": "GrdPStadiumWaterFunsuiA_TopN_animjoint_list",
+            "rootOffset": 504
+        },
+        {
+            "name": "GrdPStadiumWaterFunsuiA_TopN_joint",
+            "rootOffset": 500
+        },
+        {
+            "name": "GrdPStadiumWaterFunsuiA_TopN_matanim_joint_list",
+            "rootOffset": 508
+        },
+        {
+            "name": "GrdPStadiumWaterFunsuiB_TopN_animjoint_list",
+            "rootOffset": 556
+        },
+        {
+            "name": "GrdPStadiumWaterFunsuiB_TopN_joint",
+            "rootOffset": 552
+        },
+        {
+            "name": "GrdPStadiumWaterFunsuiB_TopN_matanim_joint_list",
+            "rootOffset": 560
+        },
+        {
+            "name": "GrdPStadiumWater_ABox_WShadowmat14_mobjdesc",
+            "rootOffset": 972
+        },
+        {
+            "name": "GrdPStadiumWater_BBox_WShadowmat15_mobjdesc",
+            "rootOffset": 976
+        },
+        {
+            "name": "GrdPStadiumWater_BStand_WShadowmat10_mobjdesc",
+            "rootOffset": 980
+        },
+        {
+            "name": "GrdPStadiumWater_BStand_WShadowmat8_mobjdesc",
+            "rootOffset": 984
+        },
+        {
+            "name": "GrdPStadiumWater_BStand_WShadowmat9_mobjdesc",
+            "rootOffset": 988
+        },
+        {
+            "name": "GrdPStadiumWater_CWing_WShadowmat3_mobjdesc",
+            "rootOffset": 992
+        },
+        {
+            "name": "GrdPStadiumWater_CWing_WShadowmat4_mobjdesc",
+            "rootOffset": 996
+        },
+        {
+            "name": "GrdPStadiumWater_CWing_WShadowmat5_mobjdesc",
+            "rootOffset": 1000
+        },
+        {
+            "name": "GrdPStadiumWater_CWing_WShadowmat6_mobjdesc",
+            "rootOffset": 1004
+        },
+        {
+            "name": "GrdPStadiumWater_CWing_WShadowmat7_mobjdesc",
+            "rootOffset": 1008
+        },
+        {
+            "name": "GrdPStadiumWater_TopN_joint",
+            "rootOffset": 604
+        },
+        {
+            "name": "GrdPStadiumWater_TopN_matanim_joint_list",
+            "rootOffset": 612
+        },
+        {
+            "name": "GrdPStadiumWater_YGround_WShadowmat11_mobjdesc",
+            "rootOffset": 1012
+        },
+        {
+            "name": "GrdPStadiumWater_YGround_WShadowmat12_mobjdesc",
+            "rootOffset": 1016
+        },
+        {
+            "name": "GrdPStadiumWater_YGround_WShadowmat13_mobjdesc",
+            "rootOffset": 1020
+        },
+        {
+            "name": "GrdPStadium_Fire_SEDUNIQUEfire_ambient_light",
+            "rootOffset": 656
+        },
+        {
+            "name": "GrdPStadium_Fire_SEDUNIQUEfire_cam_int1_camera",
+            "rootOffset": 308
+        },
+        {
+            "name": "GrdPStadium_Fire_SEDUNIQUEfire_scene_lights",
+            "rootOffset": 316
+        },
+        {
+            "name": "GrdPStadium_Fire_inf_SEDUNIQUEfire_light1_light",
+            "rootOffset": 664
+        },
+        {
+            "name": "GrdPStadium_Grass_SEDUNIQUEgrass_ambient_light",
+            "rootOffset": 672
+        },
+        {
+            "name": "GrdPStadium_Grass_SEDUNIQUEgrass_cam_int1_camera",
+            "rootOffset": 360
+        },
+        {
+            "name": "GrdPStadium_Grass_SEDUNIQUEgrass_scene_lights",
+            "rootOffset": 368
+        },
+        {
+            "name": "GrdPStadium_Grass_inf_SEDUNIQUEgrass_light1_light",
+            "rootOffset": 680
+        },
+        {
+            "name": "GrdPStadium_Grass_inf_SEDUNIQUEgrass_light2_light",
+            "rootOffset": 688
+        },
+        {
+            "name": "GrdPStadium_Rock_SEDUNIQUErock_ambient_light",
+            "rootOffset": 760
+        },
+        {
+            "name": "GrdPStadium_Rock_SEDUNIQUErock_cam_int1_camera",
+            "rootOffset": 464
+        },
+        {
+            "name": "GrdPStadium_Rock_SEDUNIQUErock_scene_lights",
+            "rootOffset": 472
+        },
+        {
+            "name": "GrdPStadium_Rock_default_diffuse_SEDUNIQUErock_light",
+            "rootOffset": 768
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEfunsui_a_ambient_light",
+            "rootOffset": 776
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEfunsui_a_cam_int1_camera",
+            "rootOffset": 516
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEfunsui_a_scene_lights",
+            "rootOffset": 524
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEfunsui_b_ambient_light",
+            "rootOffset": 784
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEfunsui_b_cam_int1_camera",
+            "rootOffset": 568
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEfunsui_b_scene_lights",
+            "rootOffset": 576
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEwater_ambient_light",
+            "rootOffset": 792
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEwater_cam_int1_camera",
+            "rootOffset": 620
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEwater_scene_lights",
+            "rootOffset": 628
+        },
+        {
+            "name": "GrdPStadium_Water_default_diffuse_SEDUNIQUEfunsui_a_light",
+            "rootOffset": 800
+        },
+        {
+            "name": "GrdPStadium_Water_default_diffuse_SEDUNIQUEfunsui_b_light",
+            "rootOffset": 808
+        },
+        {
+            "name": "GrdPStadium_Water_default_diffuse_SEDUNIQUEwater_light",
+            "rootOffset": 816
+        }
+    ]
+}

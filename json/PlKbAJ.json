@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlKbAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Wait1",
+            "name": "PlyKirby5K_Share_ACTION_Wait1_figatree",
+            "rootOffset": 6940,
+            "data": {
+                "numFrames": 110.0,
+                "boneTableOffset": 6892,
+                "animDataOffset": 5812
+            }
+        }
+    ]
+}

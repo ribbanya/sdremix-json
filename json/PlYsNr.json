@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlYsNr.dat",
+    "nodes": [
+        {
+            "name": "PlyYoshi5K_Share_joint",
+            "rootOffset": 139944
+        },
+        {
+            "name": "PlyYoshi5K_Share_matanim_joint",
+            "rootOffset": 270536
+        }
+    ]
+}

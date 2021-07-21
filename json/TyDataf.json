@@ -1,0 +1,13 @@
+{
+    "sourceFile": "TyDataf.dat",
+    "nodes": [
+        {
+            "name": "tyModelFileTbl",
+            "rootOffset": 0
+        },
+        {
+            "name": "tyModelFileUsTbl",
+            "rootOffset": 24612
+        }
+    ]
+}

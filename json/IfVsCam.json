@@ -1,0 +1,13 @@
+{
+    "sourceFile": "IfVsCam.dat",
+    "nodes": [
+        {
+            "name": "IfCameraInfo_Top_model_set",
+            "rootOffset": 71280
+        },
+        {
+            "name": "IfCamera_Top_model_set",
+            "rootOffset": 39912
+        }
+    ]
+}

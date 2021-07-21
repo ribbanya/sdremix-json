@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyBox.dat",
+    "nodes": [
+        {
+            "name": "ToyBoxModel_TopN_joint",
+            "rootOffset": 3240
+        }
+    ]
+}

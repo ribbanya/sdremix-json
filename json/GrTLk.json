@@ -1,0 +1,69 @@
+{
+    "sourceFile": "GrTLk.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 54712
+        },
+        {
+            "name": "GrdTLinkFloor00_RGBA8_image",
+            "rootOffset": 91200
+        },
+        {
+            "name": "GrdTLinkRelief01_RGBA8_image",
+            "rootOffset": 107584
+        },
+        {
+            "name": "GrdTLinkRelief02_RGBA8_image",
+            "rootOffset": 435264
+        },
+        {
+            "name": "GrdTLinkRelief04_RGBA8_image",
+            "rootOffset": 173120
+        },
+        {
+            "name": "GrdTLinkRelief05_RGBA8_image",
+            "rootOffset": 238656
+        },
+        {
+            "name": "GrdTLinkRelief07_RGBA8_image",
+            "rootOffset": 369728
+        },
+        {
+            "name": "GrdTLinkRelief08_RGBA8_image",
+            "rootOffset": 58432
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 500800
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 54308
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 54452
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 54672
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 380
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 57632
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 503816
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 54680
+        }
+    ]
+}

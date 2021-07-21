@@ -1,0 +1,9 @@
+{
+    "sourceFile": "SdTou.dat",
+    "nodes": [
+        {
+            "name": "SIS_TournamentData",
+            "rootOffset": 0
+        }
+    ]
+}

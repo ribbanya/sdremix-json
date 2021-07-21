@@ -1,0 +1,93 @@
+{
+    "sourceFile": "GrTYs.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 64712
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 138944
+        },
+        {
+            "name": "GrdTargetYoshiGroundA_CMPR_image",
+            "rootOffset": 120512
+        },
+        {
+            "name": "GrdTargetYoshiGroundB_C8_image",
+            "rootOffset": 76640
+        },
+        {
+            "name": "GrdTargetYoshiGroundB_tlut",
+            "rootOffset": 78688
+        },
+        {
+            "name": "GrdTargetYoshiGroundB_tlut_desc",
+            "rootOffset": 79200
+        },
+        {
+            "name": "GrdTargetYoshiGroundC_CMPR_image",
+            "rootOffset": 68448
+        },
+        {
+            "name": "GrdTargetYoshiGroundD_C8_image",
+            "rootOffset": 87424
+        },
+        {
+            "name": "GrdTargetYoshiGroundD_tlut",
+            "rootOffset": 103808
+        },
+        {
+            "name": "GrdTargetYoshiGroundD_tlut_desc",
+            "rootOffset": 104096
+        },
+        {
+            "name": "GrdTargetYoshiGroundE_CMPR_image",
+            "rootOffset": 79232
+        },
+        {
+            "name": "GrdTargetYoshiGroundF_CMPR_image",
+            "rootOffset": 112320
+        },
+        {
+            "name": "GrdTargetYoshiGroundH_CMPR_image",
+            "rootOffset": 104128
+        },
+        {
+            "name": "GrdTargetYoshiTreeA_CMPR_image",
+            "rootOffset": 128704
+        },
+        {
+            "name": "GrdTargetYoshiTreeB_CMPR_image",
+            "rootOffset": 130752
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 64308
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 64452
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 64672
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 356
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 67616
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 141960
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 64680
+        }
+    ]
+}

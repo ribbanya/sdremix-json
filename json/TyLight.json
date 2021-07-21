@@ -1,0 +1,33 @@
+{
+    "sourceFile": "TyLight.dat",
+    "nodes": [
+        {
+            "name": "ScToyLightMaster0_scene_lights",
+            "rootOffset": 5688
+        },
+        {
+            "name": "ScToyLightMaster1_scene_lights",
+            "rootOffset": 13816
+        },
+        {
+            "name": "ScToyLightMaster2_scene_lights",
+            "rootOffset": 20708
+        },
+        {
+            "name": "ScToyLightMaster3_scene_lights",
+            "rootOffset": 27192
+        },
+        {
+            "name": "ScToyLightMaster4_scene_lights",
+            "rootOffset": 33840
+        },
+        {
+            "name": "ScToyLightMaster5_scene_lights",
+            "rootOffset": 34204
+        },
+        {
+            "name": "ScToyLightMaster6_scene_lights",
+            "rootOffset": 36224
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlFeBu.dat",
+    "nodes": [
+        {
+            "name": "PlyEmblem5KBu_Share_joint",
+            "rootOffset": 130216
+        },
+        {
+            "name": "PlyEmblem5KBu_Share_matanim_joint",
+            "rootOffset": 509368
+        }
+    ]
+}

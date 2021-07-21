@@ -1,0 +1,117 @@
+{
+    "sourceFile": "GrTGn.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 62812
+        },
+        {
+            "name": "GrdTGanonAsiba0_C8_image",
+            "rootOffset": 121920
+        },
+        {
+            "name": "GrdTGanonAsiba0_tlut",
+            "rootOffset": 130112
+        },
+        {
+            "name": "GrdTGanonAsiba0_tlut_desc",
+            "rootOffset": 130624
+        },
+        {
+            "name": "GrdTGanonAsiba1_CMPR_image",
+            "rootOffset": 117824
+        },
+        {
+            "name": "GrdTGanonBlock0_C8_image",
+            "rootOffset": 75232
+        },
+        {
+            "name": "GrdTGanonBlock0_tlut",
+            "rootOffset": 91616
+        },
+        {
+            "name": "GrdTGanonBlock0_tlut_desc",
+            "rootOffset": 92128
+        },
+        {
+            "name": "GrdTGanonLattice_CMPR_image",
+            "rootOffset": 130656
+        },
+        {
+            "name": "GrdTGanonMoveasiba0_C8_image",
+            "rootOffset": 66496
+        },
+        {
+            "name": "GrdTGanonMoveasiba0_tlut",
+            "rootOffset": 74688
+        },
+        {
+            "name": "GrdTGanonMoveasiba0_tlut_desc",
+            "rootOffset": 75200
+        },
+        {
+            "name": "GrdTGanonNeedle_CMPR_image",
+            "rootOffset": 134752
+        },
+        {
+            "name": "GrdTGanonWall0_C8_image",
+            "rootOffset": 92160
+        },
+        {
+            "name": "GrdTGanonWall0_tlut",
+            "rootOffset": 100352
+        },
+        {
+            "name": "GrdTGanonWall0_tlut_desc",
+            "rootOffset": 100864
+        },
+        {
+            "name": "GrdTGanonWall1_C8_image",
+            "rootOffset": 109088
+        },
+        {
+            "name": "GrdTGanonWall1_tlut",
+            "rootOffset": 117280
+        },
+        {
+            "name": "GrdTGanonWall1_tlut_desc",
+            "rootOffset": 117792
+        },
+        {
+            "name": "GrdTGanonWall2_CMPR_image",
+            "rootOffset": 100896
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 136800
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 62292
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 62436
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 62656
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 392
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 65728
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 139816
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 62772
+        }
+    ]
+}

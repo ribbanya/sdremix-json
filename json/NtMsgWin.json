@@ -1,0 +1,9 @@
+{
+    "sourceFile": "NtMsgWin.dat",
+    "nodes": [
+        {
+            "name": "ScNtcCommon_scene_data",
+            "rootOffset": 11140
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlNsAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Wait",
+            "name": "PlyNess5K_Share_ACTION_Wait_figatree",
+            "rootOffset": 9564,
+            "data": {
+                "numFrames": 560.0,
+                "boneTableOffset": 9500,
+                "animDataOffset": 8216
+            }
+        }
+    ]
+}

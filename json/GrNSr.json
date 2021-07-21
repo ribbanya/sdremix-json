@@ -1,0 +1,373 @@
+{
+    "sourceFile": "GrNSr.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 495040
+        },
+        {
+            "name": "GrdCastleWater1_C8_image",
+            "rootOffset": 539840
+        },
+        {
+            "name": "GrdCastleWater1_tlut",
+            "rootOffset": 556224
+        },
+        {
+            "name": "GrdCastleWater1_tlut_desc",
+            "rootOffset": 556704
+        },
+        {
+            "name": "GrdKinokoRWood3_CMPR_image",
+            "rootOffset": 649984
+        },
+        {
+            "name": "GrdKinokoRouteWoodB_C8_image",
+            "rootOffset": 970528
+        },
+        {
+            "name": "GrdKinokoRouteWoodB_tlut",
+            "rootOffset": 978720
+        },
+        {
+            "name": "GrdKinokoRouteWoodB_tlut_desc",
+            "rootOffset": 979232
+        },
+        {
+            "name": "GrdNSrGrad1_I8_image",
+            "rootOffset": 1567168
+        },
+        {
+            "name": "GrdNSrVanishEff_IA4_image",
+            "rootOffset": 1604032
+        },
+        {
+            "name": "GrdNSrWater_RGB5A3_image",
+            "rootOffset": 1571264
+        },
+        {
+            "name": "GrdShrineKage1_C8_image",
+            "rootOffset": 1416512
+        },
+        {
+            "name": "GrdShrineKage1_tlut",
+            "rootOffset": 1424704
+        },
+        {
+            "name": "GrdShrineKage1_tlut_desc",
+            "rootOffset": 1424736
+        },
+        {
+            "name": "GrdShrineMizu_CMPR_image",
+            "rootOffset": 556736
+        },
+        {
+            "name": "GrdShrineRouteDai_RGBA8_image",
+            "rootOffset": 1609664
+        },
+        {
+            "name": "GrdShrineRouteDoor3_C8_image",
+            "rootOffset": 1424768
+        },
+        {
+            "name": "GrdShrineRouteDoor3_tlut",
+            "rootOffset": 1432960
+        },
+        {
+            "name": "GrdShrineRouteDoor3_tlut_desc",
+            "rootOffset": 1433472
+        },
+        {
+            "name": "GrdShrineRouteDoor_C8_image",
+            "rootOffset": 1030400
+        },
+        {
+            "name": "GrdShrineRouteDoor_tlut",
+            "rootOffset": 1046784
+        },
+        {
+            "name": "GrdShrineRouteDoor_tlut_desc",
+            "rootOffset": 1047296
+        },
+        {
+            "name": "GrdShrineRouteGold_CMPR_image",
+            "rootOffset": 1626304
+        },
+        {
+            "name": "GrdShrineRouteIseki2_C8_image",
+            "rootOffset": 844992
+        },
+        {
+            "name": "GrdShrineRouteIseki2_tlut",
+            "rootOffset": 877760
+        },
+        {
+            "name": "GrdShrineRouteIseki2_tlut_desc",
+            "rootOffset": 878272
+        },
+        {
+            "name": "GrdShrineRouteIseki_C8_image",
+            "rootOffset": 778912
+        },
+        {
+            "name": "GrdShrineRouteIseki_tlut",
+            "rootOffset": 844448
+        },
+        {
+            "name": "GrdShrineRouteIseki_tlut_desc",
+            "rootOffset": 844960
+        },
+        {
+            "name": "GrdShrineRouteIshi10_CMPR_image",
+            "rootOffset": 1531808
+        },
+        {
+            "name": "GrdShrineRouteIshi11_C8_image",
+            "rootOffset": 878304
+        },
+        {
+            "name": "GrdShrineRouteIshi11_tlut",
+            "rootOffset": 903904
+        },
+        {
+            "name": "GrdShrineRouteIshi11_tlut_desc",
+            "rootOffset": 904416
+        },
+        {
+            "name": "GrdShrineRouteIshi12_CMPR_image",
+            "rootOffset": 617216
+        },
+        {
+            "name": "GrdShrineRouteIshi2_CMPR_image",
+            "rootOffset": 979264
+        },
+        {
+            "name": "GrdShrineRouteIshi3_C8_image",
+            "rootOffset": 606432
+        },
+        {
+            "name": "GrdShrineRouteIshi3_tlut",
+            "rootOffset": 608480
+        },
+        {
+            "name": "GrdShrineRouteIshi3_tlut_desc",
+            "rootOffset": 608992
+        },
+        {
+            "name": "GrdShrineRouteIshi4_C8_image",
+            "rootOffset": 589504
+        },
+        {
+            "name": "GrdShrineRouteIshi4_tlut",
+            "rootOffset": 605888
+        },
+        {
+            "name": "GrdShrineRouteIshi4_tlut_desc",
+            "rootOffset": 606400
+        },
+        {
+            "name": "GrdShrineRouteIshi5_CMPR_image",
+            "rootOffset": 1383744
+        },
+        {
+            "name": "GrdShrineRouteIshi6_C8_image",
+            "rootOffset": 904448
+        },
+        {
+            "name": "GrdShrineRouteIshi6_tlut",
+            "rootOffset": 969984
+        },
+        {
+            "name": "GrdShrineRouteIshi6_tlut_desc",
+            "rootOffset": 970496
+        },
+        {
+            "name": "GrdShrineRouteIshi72_CMPR_image",
+            "rootOffset": 1080096
+        },
+        {
+            "name": "GrdShrineRouteIshi73_CMPR_image",
+            "rootOffset": 1047328
+        },
+        {
+            "name": "GrdShrineRouteIshi9_CMPR_image",
+            "rootOffset": 609024
+        },
+        {
+            "name": "GrdShrineRouteKabe4_CMPR_image",
+            "rootOffset": 1433504
+        },
+        {
+            "name": "GrdShrineRouteKabeeA_C8_image",
+            "rootOffset": 1112864
+        },
+        {
+            "name": "GrdShrineRouteKabeeA_tlut",
+            "rootOffset": 1375008
+        },
+        {
+            "name": "GrdShrineRouteKabeeA_tlut_desc",
+            "rootOffset": 1375520
+        },
+        {
+            "name": "GrdShrineRouteKagi_C8_image",
+            "rootOffset": 775584
+        },
+        {
+            "name": "GrdShrineRouteKagi_tlut",
+            "rootOffset": 778656
+        },
+        {
+            "name": "GrdShrineRouteKagi_tlut_desc",
+            "rootOffset": 778880
+        },
+        {
+            "name": "GrdShrineRouteKen0_CMPR_image",
+            "rootOffset": 1605056
+        },
+        {
+            "name": "GrdShrineRouteKenEdge0_CMPR_image",
+            "rootOffset": 1626048
+        },
+        {
+            "name": "GrdShrineRouteKusari_C8_image",
+            "rootOffset": 1564576
+        },
+        {
+            "name": "GrdShrineRouteKusari_tlut",
+            "rootOffset": 1566624
+        },
+        {
+            "name": "GrdShrineRouteKusari_tlut_desc",
+            "rootOffset": 1567136
+        },
+        {
+            "name": "GrdShrineRouteMiti2_CMPR_image",
+            "rootOffset": 1499040
+        },
+        {
+            "name": "GrdShrineRouteMiti_CMPR_image",
+            "rootOffset": 1466272
+        },
+        {
+            "name": "GrdShrineRouteSaku_C8_image",
+            "rootOffset": 1012032
+        },
+        {
+            "name": "GrdShrineRouteSaku_tlut",
+            "rootOffset": 1030336
+        },
+        {
+            "name": "GrdShrineRouteSaku_tlut_desc",
+            "rootOffset": 1030368
+        },
+        {
+            "name": "GrdShrineRouteStone_CMPR_image",
+            "rootOffset": 1375552
+        },
+        {
+            "name": "GrdShrineRouteTetu2_C8_image",
+            "rootOffset": 658176
+        },
+        {
+            "name": "GrdShrineRouteTetu2_tlut",
+            "rootOffset": 674560
+        },
+        {
+            "name": "GrdShrineRouteTetu2_tlut_desc",
+            "rootOffset": 675072
+        },
+        {
+            "name": "GrdShrineRouteTetu3_C8_image",
+            "rootOffset": 766848
+        },
+        {
+            "name": "GrdShrineRouteTetu3_tlut",
+            "rootOffset": 775040
+        },
+        {
+            "name": "GrdShrineRouteTetu3_tlut_desc",
+            "rootOffset": 775552
+        },
+        {
+            "name": "GrdShrineRouteTetu4_C8_image",
+            "rootOffset": 758112
+        },
+        {
+            "name": "GrdShrineRouteTetu4_tlut",
+            "rootOffset": 766304
+        },
+        {
+            "name": "GrdShrineRouteTetu4_tlut_desc",
+            "rootOffset": 766816
+        },
+        {
+            "name": "GrdShrineRouteTetu5_C8_image",
+            "rootOffset": 675104
+        },
+        {
+            "name": "GrdShrineRouteTetu5_tlut",
+            "rootOffset": 707872
+        },
+        {
+            "name": "GrdShrineRouteTetu5_tlut_desc",
+            "rootOffset": 708384
+        },
+        {
+            "name": "GrdShrineRouteTetu_C8_image",
+            "rootOffset": 708416
+        },
+        {
+            "name": "GrdShrineRouteTetu_tlut",
+            "rootOffset": 724800
+        },
+        {
+            "name": "GrdShrineRouteTetu_tlut_desc",
+            "rootOffset": 725312
+        },
+        {
+            "name": "GrdShrineRouteTuka0_CMPR_image",
+            "rootOffset": 1605568
+        },
+        {
+            "name": "GrdVenomRiver1_CMPR_image",
+            "rootOffset": 725344
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 453056
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 494340
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 494560
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 1008
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 534900
+        },
+        {
+            "name": "map_ptcl",
+            "rootOffset": 453120
+        },
+        {
+            "name": "map_texg",
+            "rootOffset": 455072
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 1630472
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 494716
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyMario.dat",
+    "nodes": [
+        {
+            "name": "ToyMarioModel_TopN_joint",
+            "rootOffset": 66536
+        }
+    ]
+}

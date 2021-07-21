@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlSbNr.dat",
+    "nodes": [
+        {
+            "name": "PlySandbag_Share_joint",
+            "rootOffset": 5908
+        },
+        {
+            "name": "PlySandbag_Share_matanim_joint",
+            "rootOffset": 45392
+        }
+    ]
+}

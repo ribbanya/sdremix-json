@@ -1,0 +1,213 @@
+{
+    "sourceFile": "GrGr.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 364608
+        },
+        {
+            "name": "GrdGreenBBlockA_CMPR_image",
+            "rootOffset": 568928
+        },
+        {
+            "name": "GrdGreenBBlockB_CMPR_image",
+            "rootOffset": 570976
+        },
+        {
+            "name": "GrdGreenSBlock_CMPR_image",
+            "rootOffset": 566880
+        },
+        {
+            "name": "GrdGreensB_CMPR_image",
+            "rootOffset": 384672
+        },
+        {
+            "name": "GrdGreensCloudA_IA8_image",
+            "rootOffset": 727232
+        },
+        {
+            "name": "GrdGreensCloudB_IA8_image",
+            "rootOffset": 760000
+        },
+        {
+            "name": "GrdGreensCloudC_IA8_image",
+            "rootOffset": 573024
+        },
+        {
+            "name": "GrdGreensCloudD_IA8_image",
+            "rootOffset": 768192
+        },
+        {
+            "name": "GrdGreensFenceA_CMPR_image",
+            "rootOffset": 393120
+        },
+        {
+            "name": "GrdGreensFenceC_CMPR_image",
+            "rootOffset": 395168
+        },
+        {
+            "name": "GrdGreensFlowerA_I4_image",
+            "rootOffset": 416672
+        },
+        {
+            "name": "GrdGreensFlowerB_CMPR_image",
+            "rootOffset": 408480
+        },
+        {
+            "name": "GrdGreensFlowerC_CMPR_image",
+            "rootOffset": 400288
+        },
+        {
+            "name": "GrdGreensGrassA_CMPR_image",
+            "rootOffset": 499744
+        },
+        {
+            "name": "GrdGreensGrassB_CMPR_image",
+            "rootOffset": 372384
+        },
+        {
+            "name": "GrdGreensGroundA_CMPR_image",
+            "rootOffset": 424864
+        },
+        {
+            "name": "GrdGreensGroundB_CMPR_image",
+            "rootOffset": 477088
+        },
+        {
+            "name": "GrdGreensGroundC_CMPR_image",
+            "rootOffset": 468896
+        },
+        {
+            "name": "GrdGreensGroundD_CMPR_image",
+            "rootOffset": 466848
+        },
+        {
+            "name": "GrdGreensGroundE_CMPR_image",
+            "rootOffset": 457632
+        },
+        {
+            "name": "GrdGreensGroundF_CMPR_image",
+            "rootOffset": 465824
+        },
+        {
+            "name": "GrdGreensGroundG_CMPR_image",
+            "rootOffset": 371360
+        },
+        {
+            "name": "GrdGreensGroundH_CMPR_image",
+            "rootOffset": 491552
+        },
+        {
+            "name": "GrdGreensIslandB_MIPMAP_CMPR_image",
+            "rootOffset": 705216
+        },
+        {
+            "name": "GrdGreensIslandC_MIPMAP_CMPR_image",
+            "rootOffset": 694144
+        },
+        {
+            "name": "GrdGreensMt_MIPMAP_CMPR_image",
+            "rootOffset": 716224
+        },
+        {
+            "name": "GrdGreensPatternA_CMPR_image",
+            "rootOffset": 489376
+        },
+        {
+            "name": "GrdGreensRwbB_CMPR_image",
+            "rootOffset": 638560
+        },
+        {
+            "name": "GrdGreensSkyCA_MIPMAP_I8_image",
+            "rootOffset": 638816
+        },
+        {
+            "name": "GrdGreensSkyC_IA8_image",
+            "rootOffset": 800960
+        },
+        {
+            "name": "GrdGreensStarAS_I4_image",
+            "rootOffset": 485280
+        },
+        {
+            "name": "GrdGreensStarA_CMPR_image",
+            "rootOffset": 487328
+        },
+        {
+            "name": "GrdGreensStripeA_CMPR_image",
+            "rootOffset": 491424
+        },
+        {
+            "name": "GrdGreensTreeA_CMPR_image",
+            "rootOffset": 396192
+        },
+        {
+            "name": "GrdGreensTreeC_CMPR_image",
+            "rootOffset": 395680
+        },
+        {
+            "name": "GrdGreensWGrassA_CMPR_image",
+            "rootOffset": 514592
+        },
+        {
+            "name": "GrdGreensWGrassB_CMPR_image",
+            "rootOffset": 506400
+        },
+        {
+            "name": "GrdGreensWTreeA_CMPR_image",
+            "rootOffset": 533024
+        },
+        {
+            "name": "GrdGreensWaterA_IA8_image",
+            "rootOffset": 661376
+        },
+        {
+            "name": "GrdGreensWpEye_C4_image",
+            "rootOffset": 565792
+        },
+        {
+            "name": "GrdGreensWpEye_tlut",
+            "rootOffset": 566816
+        },
+        {
+            "name": "GrdGreensWpEye_tlut_desc",
+            "rootOffset": 566848
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 357388
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 364196
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 364416
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 908
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 369588
+        },
+        {
+            "name": "map_ptcl",
+            "rootOffset": 357440
+        },
+        {
+            "name": "map_texg",
+            "rootOffset": 358016
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 834696
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 364428
+        }
+    ]
+}

@@ -1,0 +1,537 @@
+{
+    "sourceFile": "GrOy.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 76060
+        },
+        {
+            "name": "GrdOldyoshHeyhoA_C4_image",
+            "rootOffset": 100608
+        },
+        {
+            "name": "GrdOldyoshHeyhoA_tlut",
+            "rootOffset": 101248
+        },
+        {
+            "name": "GrdOldyoshHeyhoA_tlut_desc",
+            "rootOffset": 101280
+        },
+        {
+            "name": "GrdOldyoshiAhodoriA_C4_image",
+            "rootOffset": 98816
+        },
+        {
+            "name": "GrdOldyoshiAhodoriA_tlut",
+            "rootOffset": 99840
+        },
+        {
+            "name": "GrdOldyoshiAhodoriA_tlut_desc",
+            "rootOffset": 99872
+        },
+        {
+            "name": "GrdOldyoshiAhodoriB_C4_image",
+            "rootOffset": 102720
+        },
+        {
+            "name": "GrdOldyoshiAhodoriB_tlut",
+            "rootOffset": 107840
+        },
+        {
+            "name": "GrdOldyoshiAhodoriB_tlut_desc",
+            "rootOffset": 107872
+        },
+        {
+            "name": "GrdOldyoshiAhodoriC_C4_image",
+            "rootOffset": 103744
+        },
+        {
+            "name": "GrdOldyoshiAhodoriC_tlut",
+            "rootOffset": 107904
+        },
+        {
+            "name": "GrdOldyoshiAhodoriC_tlut_desc",
+            "rootOffset": 107936
+        },
+        {
+            "name": "GrdOldyoshiAhodoriD_C4_image",
+            "rootOffset": 104768
+        },
+        {
+            "name": "GrdOldyoshiAhodoriD_tlut",
+            "rootOffset": 107968
+        },
+        {
+            "name": "GrdOldyoshiAhodoriD_tlut_desc",
+            "rootOffset": 108000
+        },
+        {
+            "name": "GrdOldyoshiAhodoriE_C4_image",
+            "rootOffset": 105792
+        },
+        {
+            "name": "GrdOldyoshiAhodoriE_tlut",
+            "rootOffset": 108032
+        },
+        {
+            "name": "GrdOldyoshiAhodoriE_tlut_desc",
+            "rootOffset": 108064
+        },
+        {
+            "name": "GrdOldyoshiAhodoriF_C4_image",
+            "rootOffset": 106816
+        },
+        {
+            "name": "GrdOldyoshiAhodoriF_tlut",
+            "rootOffset": 108096
+        },
+        {
+            "name": "GrdOldyoshiAhodoriF_tlut_desc",
+            "rootOffset": 108128
+        },
+        {
+            "name": "GrdOldyoshiBGA_CMPR_image",
+            "rootOffset": 201952
+        },
+        {
+            "name": "GrdOldyoshiBGB_C8_image",
+            "rootOffset": 113792
+        },
+        {
+            "name": "GrdOldyoshiBGB_tlut",
+            "rootOffset": 146560
+        },
+        {
+            "name": "GrdOldyoshiBGB_tlut_desc",
+            "rootOffset": 147040
+        },
+        {
+            "name": "GrdOldyoshiBGC_C8_image",
+            "rootOffset": 176160
+        },
+        {
+            "name": "GrdOldyoshiBGC_tlut",
+            "rootOffset": 184992
+        },
+        {
+            "name": "GrdOldyoshiBGC_tlut_desc",
+            "rootOffset": 185376
+        },
+        {
+            "name": "GrdOldyoshiBGD_C8_image",
+            "rootOffset": 147072
+        },
+        {
+            "name": "GrdOldyoshiBGD_tlut",
+            "rootOffset": 151104
+        },
+        {
+            "name": "GrdOldyoshiBGD_tlut_desc",
+            "rootOffset": 151360
+        },
+        {
+            "name": "GrdOldyoshiBGE_C8_image",
+            "rootOffset": 173024
+        },
+        {
+            "name": "GrdOldyoshiBGE_tlut",
+            "rootOffset": 175840
+        },
+        {
+            "name": "GrdOldyoshiBGE_tlut_desc",
+            "rootOffset": 176128
+        },
+        {
+            "name": "GrdOldyoshiBGF_C8_image",
+            "rootOffset": 185408
+        },
+        {
+            "name": "GrdOldyoshiBGF_tlut",
+            "rootOffset": 190528
+        },
+        {
+            "name": "GrdOldyoshiBGF_tlut_desc",
+            "rootOffset": 190784
+        },
+        {
+            "name": "GrdOldyoshiBGG_C8_image",
+            "rootOffset": 151392
+        },
+        {
+            "name": "GrdOldyoshiBGG_tlut",
+            "rootOffset": 159072
+        },
+        {
+            "name": "GrdOldyoshiBGG_tlut_desc",
+            "rootOffset": 159360
+        },
+        {
+            "name": "GrdOldyoshiBGH_C8_image",
+            "rootOffset": 159392
+        },
+        {
+            "name": "GrdOldyoshiBGH_tlut",
+            "rootOffset": 172704
+        },
+        {
+            "name": "GrdOldyoshiBGH_tlut_desc",
+            "rootOffset": 172992
+        },
+        {
+            "name": "GrdOldyoshiBGI_C8_image",
+            "rootOffset": 190816
+        },
+        {
+            "name": "GrdOldyoshiBGI_tlut",
+            "rootOffset": 201568
+        },
+        {
+            "name": "GrdOldyoshiBGI_tlut_desc",
+            "rootOffset": 201920
+        },
+        {
+            "name": "GrdOldyoshiCloudA_IA8_image",
+            "rootOffset": 82112
+        },
+        {
+            "name": "GrdOldyoshiCloudB_C8_image",
+            "rootOffset": 94368
+        },
+        {
+            "name": "GrdOldyoshiCloudB_tlut",
+            "rootOffset": 98464
+        },
+        {
+            "name": "GrdOldyoshiCloudB_tlut_desc",
+            "rootOffset": 98784
+        },
+        {
+            "name": "GrdOldyoshiDanbSide_C4_image",
+            "rootOffset": 78272
+        },
+        {
+            "name": "GrdOldyoshiDanbSide_tlut",
+            "rootOffset": 78336
+        },
+        {
+            "name": "GrdOldyoshiDanbSide_tlut_desc",
+            "rootOffset": 78368
+        },
+        {
+            "name": "GrdOldyoshiDanb_I4_image",
+            "rootOffset": 78400
+        },
+        {
+            "name": "GrdOldyoshiGrassA_C4_image",
+            "rootOffset": 77824
+        },
+        {
+            "name": "GrdOldyoshiGrassA_tlut",
+            "rootOffset": 78208
+        },
+        {
+            "name": "GrdOldyoshiGrassA_tlut_desc",
+            "rootOffset": 78240
+        },
+        {
+            "name": "GrdOldyoshiGrassB_C4_image",
+            "rootOffset": 79296
+        },
+        {
+            "name": "GrdOldyoshiGrassB_tlut",
+            "rootOffset": 80064
+        },
+        {
+            "name": "GrdOldyoshiGrassB_tlut_desc",
+            "rootOffset": 80096
+        },
+        {
+            "name": "GrdOldyoshiHeartA_C4_image",
+            "rootOffset": 93408
+        },
+        {
+            "name": "GrdOldyoshiHeartA_tlut",
+            "rootOffset": 94176
+        },
+        {
+            "name": "GrdOldyoshiHeartA_tlut_desc",
+            "rootOffset": 94208
+        },
+        {
+            "name": "GrdOldyoshiHeartB_IA4_image",
+            "rootOffset": 94240
+        },
+        {
+            "name": "GrdOldyoshiHeyhoB_C4_image",
+            "rootOffset": 109568
+        },
+        {
+            "name": "GrdOldyoshiHeyhoB_tlut",
+            "rootOffset": 110848
+        },
+        {
+            "name": "GrdOldyoshiHeyhoB_tlut_desc",
+            "rootOffset": 110880
+        },
+        {
+            "name": "GrdOldyoshiHeyhoC_C4_image",
+            "rootOffset": 110208
+        },
+        {
+            "name": "GrdOldyoshiHeyhoC_tlut",
+            "rootOffset": 110912
+        },
+        {
+            "name": "GrdOldyoshiHeyhoC_tlut_desc",
+            "rootOffset": 110944
+        },
+        {
+            "name": "GrdOldyoshiHeyhoD_C4_image",
+            "rootOffset": 101312
+        },
+        {
+            "name": "GrdOldyoshiHeyhoD_tlut",
+            "rootOffset": 101952
+        },
+        {
+            "name": "GrdOldyoshiHeyhoD_tlut_desc",
+            "rootOffset": 101984
+        },
+        {
+            "name": "GrdOldyoshiHeyhoE_C4_image",
+            "rootOffset": 110976
+        },
+        {
+            "name": "GrdOldyoshiHeyhoE_tlut",
+            "rootOffset": 112256
+        },
+        {
+            "name": "GrdOldyoshiHeyhoE_tlut_desc",
+            "rootOffset": 112288
+        },
+        {
+            "name": "GrdOldyoshiHeyhoF_C4_image",
+            "rootOffset": 111616
+        },
+        {
+            "name": "GrdOldyoshiHeyhoF_tlut",
+            "rootOffset": 112320
+        },
+        {
+            "name": "GrdOldyoshiHeyhoF_tlut_desc",
+            "rootOffset": 112352
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVA_C4_image",
+            "rootOffset": 102016
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVA_tlut",
+            "rootOffset": 102656
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVA_tlut_desc",
+            "rootOffset": 102688
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVB_C4_image",
+            "rootOffset": 112384
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVB_tlut",
+            "rootOffset": 113664
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVB_tlut_desc",
+            "rootOffset": 113696
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVC_C4_image",
+            "rootOffset": 113024
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVC_tlut",
+            "rootOffset": 113728
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVC_tlut_desc",
+            "rootOffset": 113760
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVD_C4_image",
+            "rootOffset": 99904
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVD_tlut",
+            "rootOffset": 100544
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVD_tlut_desc",
+            "rootOffset": 100576
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVE_C4_image",
+            "rootOffset": 108160
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVE_tlut",
+            "rootOffset": 109440
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVE_tlut_desc",
+            "rootOffset": 109472
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVF_C4_image",
+            "rootOffset": 108800
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVF_tlut",
+            "rootOffset": 109504
+        },
+        {
+            "name": "GrdOldyoshiHeyhoVF_tlut_desc",
+            "rootOffset": 109536
+        },
+        {
+            "name": "GrdOldyoshiKazariA_C4_image",
+            "rootOffset": 80448
+        },
+        {
+            "name": "GrdOldyoshiKazariA_tlut",
+            "rootOffset": 80832
+        },
+        {
+            "name": "GrdOldyoshiKazariA_tlut_desc",
+            "rootOffset": 80864
+        },
+        {
+            "name": "GrdOldyoshiKazariB_C4_image",
+            "rootOffset": 80128
+        },
+        {
+            "name": "GrdOldyoshiKazariB_tlut",
+            "rootOffset": 80384
+        },
+        {
+            "name": "GrdOldyoshiKazariB_tlut_desc",
+            "rootOffset": 80416
+        },
+        {
+            "name": "GrdOldyoshiMBlockA_C4_image",
+            "rootOffset": 78720
+        },
+        {
+            "name": "GrdOldyoshiMBlockA_tlut",
+            "rootOffset": 79232
+        },
+        {
+            "name": "GrdOldyoshiMBlockA_tlut_desc",
+            "rootOffset": 79264
+        },
+        {
+            "name": "GrdOldyoshiMBlockB_C4_image",
+            "rootOffset": 81536
+        },
+        {
+            "name": "GrdOldyoshiMBlockB_tlut",
+            "rootOffset": 82048
+        },
+        {
+            "name": "GrdOldyoshiMBlockB_tlut_desc",
+            "rootOffset": 82080
+        },
+        {
+            "name": "GrdOldyoshiTree_C8_image",
+            "rootOffset": 88256
+        },
+        {
+            "name": "GrdOldyoshiTree_tlut",
+            "rootOffset": 92864
+        },
+        {
+            "name": "GrdOldyoshiTree_tlut_desc",
+            "rootOffset": 93376
+        },
+        {
+            "name": "GrdOldyoshiWakuA_C4_image",
+            "rootOffset": 81216
+        },
+        {
+            "name": "GrdOldyoshiWakuA_tlut",
+            "rootOffset": 81280
+        },
+        {
+            "name": "GrdOldyoshiWakuA_tlut_desc",
+            "rootOffset": 81312
+        },
+        {
+            "name": "GrdOldyoshiWoodA_C4_image",
+            "rootOffset": 81344
+        },
+        {
+            "name": "GrdOldyoshiWoodA_tlut",
+            "rootOffset": 81472
+        },
+        {
+            "name": "GrdOldyoshiWoodA_tlut_desc",
+            "rootOffset": 81504
+        },
+        {
+            "name": "GrdOldyoshiWoodB_C4_image",
+            "rootOffset": 80896
+        },
+        {
+            "name": "GrdOldyoshiWoodB_tlut",
+            "rootOffset": 81152
+        },
+        {
+            "name": "GrdOldyoshiWoodB_tlut_desc",
+            "rootOffset": 81184
+        },
+        {
+            "name": "StgYoshiDanbSide_CMPR_image",
+            "rootOffset": 78656
+        },
+        {
+            "name": "StgYoshiDanb_CMPR_image",
+            "rootOffset": 78528
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 74416
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 75780
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 76000
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 600
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 76168
+        },
+        {
+            "name": "map_ptcl",
+            "rootOffset": 74464
+        },
+        {
+            "name": "map_texg",
+            "rootOffset": 74592
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 235688
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 76004
+        }
+    ]
+}

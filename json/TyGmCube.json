@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyGmCube.dat",
+    "nodes": [
+        {
+            "name": "ToyGamecubeModel_TopN_joint",
+            "rootOffset": 82952
+        }
+    ]
+}

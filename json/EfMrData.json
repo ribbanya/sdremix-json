@@ -1,0 +1,9 @@
+{
+    "sourceFile": "EfMrData.dat",
+    "nodes": [
+        {
+            "name": "effMarioDataTable",
+            "rootOffset": 0
+        }
+    ]
+}

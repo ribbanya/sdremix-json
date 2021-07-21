@@ -1,0 +1,13 @@
+{
+    "sourceFile": "GmRst.dat",
+    "nodes": [
+        {
+            "name": "flmsce",
+            "rootOffset": 457068
+        },
+        {
+            "name": "pnlsce",
+            "rootOffset": 416316
+        }
+    ]
+}

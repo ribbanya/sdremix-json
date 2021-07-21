@@ -1,0 +1,13 @@
+{
+    "sourceFile": "TyMapE.dat",
+    "nodes": [
+        {
+            "name": "ToyDspMapE_Top_joint",
+            "rootOffset": 392
+        },
+        {
+            "name": "ToyDspMapE_Top_matanim_joint",
+            "rootOffset": 16200
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlKbReCpPr.dat",
+    "nodes": [
+        {
+            "name": "PlyKirbyPrRe_Share_joint",
+            "rootOffset": 77332
+        },
+        {
+            "name": "PlyKirbyPrRe_Share_matanim_joint",
+            "rootOffset": 112208
+        }
+    ]
+}

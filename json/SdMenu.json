@@ -1,0 +1,9 @@
+{
+    "sourceFile": "SdMenu.dat",
+    "nodes": [
+        {
+            "name": "SIS_MenuData",
+            "rootOffset": 0
+        }
+    ]
+}

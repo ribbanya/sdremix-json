@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlGwAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Wait1",
+            "name": "PlyGamewatch5K_Share_ACTION_Wait1_figatree",
+            "rootOffset": 4532,
+            "data": {
+                "numFrames": 60.0,
+                "boneTableOffset": 4476,
+                "animDataOffset": 1992
+            }
+        }
+    ]
+}

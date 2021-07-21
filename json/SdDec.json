@@ -1,0 +1,9 @@
+{
+    "sourceFile": "SdDec.dat",
+    "nodes": [
+        {
+            "name": "SIS_DecisionData",
+            "rootOffset": 0
+        }
+    ]
+}

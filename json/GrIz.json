@@ -1,0 +1,361 @@
+{
+    "sourceFile": "GrIz.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 1099928
+        },
+        {
+            "name": "GrdEffIzumFunsui_RGB5A3_image",
+            "rootOffset": 639360
+        },
+        {
+            "name": "GrdIzumiAsiba1_CMPR_image",
+            "rootOffset": 512
+        },
+        {
+            "name": "GrdIzumiAsiba2_CMPR_image",
+            "rootOffset": 0
+        },
+        {
+            "name": "GrdIzumiAsiba2b_CMPR_image",
+            "rootOffset": 256
+        },
+        {
+            "name": "GrdIzumiBetapink2_CMPR_image",
+            "rootOffset": 170528
+        },
+        {
+            "name": "GrdIzumiBulbon1_C8_image",
+            "rootOffset": 605760
+        },
+        {
+            "name": "GrdIzumiBulbon1_tlut",
+            "rootOffset": 622144
+        },
+        {
+            "name": "GrdIzumiBulbon1_tlut_desc",
+            "rootOffset": 622400
+        },
+        {
+            "name": "GrdIzumiBulbon2_C8_image",
+            "rootOffset": 622432
+        },
+        {
+            "name": "GrdIzumiBulbon2_tlut",
+            "rootOffset": 638816
+        },
+        {
+            "name": "GrdIzumiBulbon2_tlut_desc",
+            "rootOffset": 639328
+        },
+        {
+            "name": "GrdIzumiBulbon3_C8_image",
+            "rootOffset": 539136
+        },
+        {
+            "name": "GrdIzumiBulbon3_tlut",
+            "rootOffset": 571904
+        },
+        {
+            "name": "GrdIzumiBulbon3_tlut_desc",
+            "rootOffset": 572416
+        },
+        {
+            "name": "GrdIzumiBulbon4_C8_image",
+            "rootOffset": 572448
+        },
+        {
+            "name": "GrdIzumiBulbon4_tlut",
+            "rootOffset": 605216
+        },
+        {
+            "name": "GrdIzumiBulbon4_tlut_desc",
+            "rootOffset": 605728
+        },
+        {
+            "name": "GrdIzumiBump10_CMPR_image",
+            "rootOffset": 162336
+        },
+        {
+            "name": "GrdIzumiDummy1_I4_image",
+            "rootOffset": 140288
+        },
+        {
+            "name": "GrdIzumiFoun10_CMPR_image",
+            "rootOffset": 17408
+        },
+        {
+            "name": "GrdIzumiFoun1_CMPR_image",
+            "rootOffset": 238912
+        },
+        {
+            "name": "GrdIzumiFoun2_CMPR_image",
+            "rootOffset": 249152
+        },
+        {
+            "name": "GrdIzumiFoun4_CMPR_image",
+            "rootOffset": 240960
+        },
+        {
+            "name": "GrdIzumiFoun5_CMPR_image",
+            "rootOffset": 245056
+        },
+        {
+            "name": "GrdIzumiFoun7_CMPR_image",
+            "rootOffset": 170784
+        },
+        {
+            "name": "GrdIzumiFoun8_CMPR_image",
+            "rootOffset": 243008
+        },
+        {
+            "name": "GrdIzumiGrass1_CMPR_image",
+            "rootOffset": 46080
+        },
+        {
+            "name": "GrdIzumiGrass2_CMPR_image",
+            "rootOffset": 29696
+        },
+        {
+            "name": "GrdIzumiGrass3_CMPR_image",
+            "rootOffset": 25600
+        },
+        {
+            "name": "GrdIzumiKyoumen1_CMPR_image",
+            "rootOffset": 643456
+        },
+        {
+            "name": "GrdIzumiMoon1_CMPR_image",
+            "rootOffset": 160288
+        },
+        {
+            "name": "GrdIzumiNwatera_CMPR_image",
+            "rootOffset": 107520
+        },
+        {
+            "name": "GrdIzumiNwaterfs1_CMPR_image",
+            "rootOffset": 268128
+        },
+        {
+            "name": "GrdIzumiNwaterfs1b_CMPR_image",
+            "rootOffset": 270176
+        },
+        {
+            "name": "GrdIzumiNwaterling1_C8_image",
+            "rootOffset": 251200
+        },
+        {
+            "name": "GrdIzumiNwaterling1_tlut",
+            "rootOffset": 267584
+        },
+        {
+            "name": "GrdIzumiNwaterling1_tlut_desc",
+            "rootOffset": 268096
+        },
+        {
+            "name": "GrdIzumiNwatern_C8_image",
+            "rootOffset": 172832
+        },
+        {
+            "name": "GrdIzumiNwatern_tlut",
+            "rootOffset": 238368
+        },
+        {
+            "name": "GrdIzumiNwatern_tlut_desc",
+            "rootOffset": 238880
+        },
+        {
+            "name": "GrdIzumiPdptn1_CMPR_image",
+            "rootOffset": 9216
+        },
+        {
+            "name": "GrdIzumiPond2_CMPR_image",
+            "rootOffset": 89088
+        },
+        {
+            "name": "GrdIzumiPond3_CMPR_image",
+            "rootOffset": 91136
+        },
+        {
+            "name": "GrdIzumiPond4_CMPR_image",
+            "rootOffset": 1024
+        },
+        {
+            "name": "GrdIzumiPond5n_CMPR_image",
+            "rootOffset": 87040
+        },
+        {
+            "name": "GrdIzumiPond6_CMPR_image",
+            "rootOffset": 78848
+        },
+        {
+            "name": "GrdIzumiProp2_CMPR_image",
+            "rootOffset": 170656
+        },
+        {
+            "name": "GrdIzumiRbw3_RGBA8_image",
+            "rootOffset": 354144
+        },
+        {
+            "name": "GrdIzumiShrine1_CMPR_image",
+            "rootOffset": 143904
+        },
+        {
+            "name": "GrdIzumiShrine2_CMPR_image",
+            "rootOffset": 142880
+        },
+        {
+            "name": "GrdIzumiShrine3_CMPR_image",
+            "rootOffset": 152096
+        },
+        {
+            "name": "GrdIzumiShrine4_CMPR_image",
+            "rootOffset": 140320
+        },
+        {
+            "name": "GrdIzumiShrine5_CMPR_image",
+            "rootOffset": 142368
+        },
+        {
+            "name": "GrdIzumiShrine6_CMPR_image",
+            "rootOffset": 153120
+        },
+        {
+            "name": "GrdIzumiShrine6bp_CMPR_image",
+            "rootOffset": 154144
+        },
+        {
+            "name": "GrdIzumiShrine7_I8_image",
+            "rootOffset": 503232
+        },
+        {
+            "name": "GrdIzumiShrine8_I8_image",
+            "rootOffset": 504256
+        },
+        {
+            "name": "GrdIzumiSky1_I8_image",
+            "rootOffset": 272224
+        },
+        {
+            "name": "GrdIzumiStar1_CMPR_image",
+            "rootOffset": 158240
+        },
+        {
+            "name": "GrdIzumiStar_TopN_joint",
+            "rootOffset": 865800
+        },
+        {
+            "name": "GrdIzumiSun1_CMPR_image",
+            "rootOffset": 156192
+        },
+        {
+            "name": "GrdIzumiWd2_C8_image",
+            "rootOffset": 452992
+        },
+        {
+            "name": "GrdIzumiWd2_tlut",
+            "rootOffset": 477568
+        },
+        {
+            "name": "GrdIzumiWd2_tlut_desc",
+            "rootOffset": 478080
+        },
+        {
+            "name": "GrdIzumiWd2b_C8_image",
+            "rootOffset": 478112
+        },
+        {
+            "name": "GrdIzumiWd2b_tlut",
+            "rootOffset": 502688
+        },
+        {
+            "name": "GrdIzumiWd2b_tlut_desc",
+            "rootOffset": 503200
+        },
+        {
+            "name": "GrdIzumiWd2c_C8_image",
+            "rootOffset": 419680
+        },
+        {
+            "name": "GrdIzumiWd2c_tlut",
+            "rootOffset": 444256
+        },
+        {
+            "name": "GrdIzumiWd2c_tlut_desc",
+            "rootOffset": 444768
+        },
+        {
+            "name": "GrdIzumiWd3_C8_image",
+            "rootOffset": 505280
+        },
+        {
+            "name": "GrdIzumiWd3_tlut",
+            "rootOffset": 521664
+        },
+        {
+            "name": "GrdIzumiWd3_tlut_desc",
+            "rootOffset": 522176
+        },
+        {
+            "name": "GrdIzumiWd3b_C8_image",
+            "rootOffset": 522208
+        },
+        {
+            "name": "GrdIzumiWd3b_tlut",
+            "rootOffset": 538592
+        },
+        {
+            "name": "GrdIzumiWd3b_tlut_desc",
+            "rootOffset": 539104
+        },
+        {
+            "name": "GrdIzumiWd4n_CMPR_image",
+            "rootOffset": 444800
+        },
+        {
+            "name": "GrdIzumi_cd_wt_GrdIzumiDummy1_1_image_desc",
+            "rootOffset": 923588
+        },
+        {
+            "name": "GrdKirbyAurora3_RGBA8_image",
+            "rootOffset": 288608
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 1084880
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 1099592
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 1099812
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 866424
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 1100312
+        },
+        {
+            "name": "map_ptcl",
+            "rootOffset": 1084928
+        },
+        {
+            "name": "map_texg",
+            "rootOffset": 1086592
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 660808
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 1099816
+        }
+    ]
+}

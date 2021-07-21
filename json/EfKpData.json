@@ -1,0 +1,9 @@
+{
+    "sourceFile": "EfKpData.dat",
+    "nodes": [
+        {
+            "name": "effKoopaDataTable",
+            "rootOffset": 0
+        }
+    ]
+}

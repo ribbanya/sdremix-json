@@ -1,0 +1,13 @@
+{
+    "sourceFile": "Vi0401.dat",
+    "nodes": [
+        {
+            "name": "visual0401InfoScene",
+            "rootOffset": 41420
+        },
+        {
+            "name": "visual0401Scene",
+            "rootOffset": 38712
+        }
+    ]
+}

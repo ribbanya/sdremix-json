@@ -1,0 +1,93 @@
+{
+    "sourceFile": "GrTGw.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 78576
+        },
+        {
+            "name": "GrdTGamewatchAclmark_IA4_image",
+            "rootOffset": 207712
+        },
+        {
+            "name": "GrdTGamewatchAlarmmark_IA4_image",
+            "rootOffset": 209248
+        },
+        {
+            "name": "GrdTGamewatchGameamark_IA4_image",
+            "rootOffset": 210400
+        },
+        {
+            "name": "GrdTGamewatchGamebmark_IA4_image",
+            "rootOffset": 214496
+        },
+        {
+            "name": "GrdTGamewatchGamewatchmark_C8_image",
+            "rootOffset": 236768
+        },
+        {
+            "name": "GrdTGamewatchGamewatchmark_tlut",
+            "rootOffset": 250592
+        },
+        {
+            "name": "GrdTGamewatchGamewatchmark_tlut_desc",
+            "rootOffset": 250784
+        },
+        {
+            "name": "GrdTGamewatchLeftmark_IA4_image",
+            "rootOffset": 196960
+        },
+        {
+            "name": "GrdTGamewatchMetal0_CMPR_image",
+            "rootOffset": 98656
+        },
+        {
+            "name": "GrdTGamewatchRightmark_IA4_image",
+            "rootOffset": 202336
+        },
+        {
+            "name": "GrdTGamewatchSbmark_IA4_image",
+            "rootOffset": 219488
+        },
+        {
+            "name": "GrdTGamewatchScreen_CMPR_image",
+            "rootOffset": 82272
+        },
+        {
+            "name": "GrdTGamewatchTimemark_IA4_image",
+            "rootOffset": 218592
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 250816
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 78172
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 78316
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 78536
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 328
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 81472
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 253832
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 78544
+        }
+    ]
+}

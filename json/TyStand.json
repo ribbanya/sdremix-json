@@ -1,0 +1,25 @@
+{
+    "sourceFile": "TyStand.dat",
+    "nodes": [
+        {
+            "name": "ToyStandModel_TopN_ACTION_action1_animjoint",
+            "rootOffset": 82932
+        },
+        {
+            "name": "ToyStandModel_TopN_ACTION_action1_matanim_joint",
+            "rootOffset": 83092
+        },
+        {
+            "name": "ToyStandModel_TopN_ACTION_action2_animjoint",
+            "rootOffset": 83252
+        },
+        {
+            "name": "ToyStandModel_TopN_ACTION_action2_matanim_joint",
+            "rootOffset": 83412
+        },
+        {
+            "name": "ToyStandModel_TopN_joint",
+            "rootOffset": 32808
+        }
+    ]
+}

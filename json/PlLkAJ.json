@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlLkAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Wait",
+            "name": "PlyLink5K_Share_ACTION_Wait_figatree",
+            "rootOffset": 5412,
+            "data": {
+                "numFrames": 120.0,
+                "boneTableOffset": 5336,
+                "animDataOffset": 3428
+            }
+        }
+    ]
+}

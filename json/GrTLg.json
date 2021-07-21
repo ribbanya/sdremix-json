@@ -1,0 +1,125 @@
+{
+    "sourceFile": "GrTLg.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 229424
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 352288
+        },
+        {
+            "name": "GrdTargetLuigi00_CMPR_image",
+            "rootOffset": 233088
+        },
+        {
+            "name": "GrdTargetLuigi01_CMPR_image",
+            "rootOffset": 342048
+        },
+        {
+            "name": "GrdTargetLuigi02_CMPR_image",
+            "rootOffset": 344096
+        },
+        {
+            "name": "GrdTargetLuigi05_CMPR_image",
+            "rootOffset": 333856
+        },
+        {
+            "name": "GrdTargetLuigiGCBase_CMPR_image",
+            "rootOffset": 303840
+        },
+        {
+            "name": "GrdTargetLuigiGCLogo1_C8_image",
+            "rootOffset": 241792
+        },
+        {
+            "name": "GrdTargetLuigiGCLogo1_tlut",
+            "rootOffset": 303744
+        },
+        {
+            "name": "GrdTargetLuigiGCLogo1_tlut_desc",
+            "rootOffset": 303808
+        },
+        {
+            "name": "GrdTargetLuigiGCLogo2_C4_image",
+            "rootOffset": 329696
+        },
+        {
+            "name": "GrdTargetLuigiGCLogo2_tlut",
+            "rootOffset": 333792
+        },
+        {
+            "name": "GrdTargetLuigiGCLogo2_tlut_desc",
+            "rootOffset": 333824
+        },
+        {
+            "name": "GrdTargetLuigiGCLogo4_C8_image",
+            "rootOffset": 312832
+        },
+        {
+            "name": "GrdTargetLuigiGCLogo4_tlut",
+            "rootOffset": 321024
+        },
+        {
+            "name": "GrdTargetLuigiGCLogo4_tlut_desc",
+            "rootOffset": 321216
+        },
+        {
+            "name": "GrdTargetLuigiGCLogo5_C8_image",
+            "rootOffset": 304352
+        },
+        {
+            "name": "GrdTargetLuigiGCLogo5_tlut",
+            "rootOffset": 312544
+        },
+        {
+            "name": "GrdTargetLuigiGCLogo5_tlut_desc",
+            "rootOffset": 312800
+        },
+        {
+            "name": "GrdTargetLuigiGCNet_CMPR_image",
+            "rootOffset": 241280
+        },
+        {
+            "name": "GrdTargetLuigiGClogo3_C8_image",
+            "rootOffset": 321248
+        },
+        {
+            "name": "GrdTargetLuigiGClogo3_tlut",
+            "rootOffset": 329440
+        },
+        {
+            "name": "GrdTargetLuigiGClogo3_tlut_desc",
+            "rootOffset": 329664
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 229020
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 229164
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 229384
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 372
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 232320
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 355304
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 229392
+        }
+    ]
+}

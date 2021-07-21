@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlSkRe.dat",
+    "nodes": [
+        {
+            "name": "PlySeak5KRe_Share_joint",
+            "rootOffset": 110024
+        },
+        {
+            "name": "PlySeak5KRe_Share_matanim_joint",
+            "rootOffset": 276112
+        }
+    ]
+}

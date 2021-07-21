@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlLgAq.dat",
+    "nodes": [
+        {
+            "name": "PlyLuigi5KAq_Share_joint",
+            "rootOffset": 104752
+        },
+        {
+            "name": "PlyLuigi5KAq_Share_matanim_joint",
+            "rootOffset": 274680
+        }
+    ]
+}

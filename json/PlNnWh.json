@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlNnWh.dat",
+    "nodes": [
+        {
+            "name": "PlyNana5KWh_Share_joint",
+            "rootOffset": 62312
+        },
+        {
+            "name": "PlyNana5KWh_Share_matanim_joint",
+            "rootOffset": 248000
+        }
+    ]
+}

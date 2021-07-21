@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlNnAJ.dat",
+    "nodes": [
+        {
+            "shortName": "SpecialAirS2",
+            "name": "PlyNana5K_Share_ACTION_SpecialAirS2_figatree",
+            "rootOffset": 8024,
+            "data": {
+                "numFrames": 70.0,
+                "boneTableOffset": 7972,
+                "animDataOffset": 6664
+            }
+        }
+    ]
+}

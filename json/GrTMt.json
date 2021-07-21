@@ -1,0 +1,65 @@
+{
+    "sourceFile": "GrTMt.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 61268
+        },
+        {
+            "name": "GrdTMewtwoFloor01_CMPR_image",
+            "rootOffset": 90048
+        },
+        {
+            "name": "GrdTMewtwoFloor02_CMPR_image",
+            "rootOffset": 81856
+        },
+        {
+            "name": "GrdTMewtwoFloor03_CMPR_image",
+            "rootOffset": 98240
+        },
+        {
+            "name": "GrdTMewtwoWall00_CMPR_image",
+            "rootOffset": 65472
+        },
+        {
+            "name": "GrdTMewtwoWall01_CMPR_image",
+            "rootOffset": 73664
+        },
+        {
+            "name": "GrdTMewtwoWall02_CMPR_image",
+            "rootOffset": 64960
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 99264
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 60548
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 60692
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 60912
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 384
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 64192
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 102280
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 61208
+        }
+    ]
+}

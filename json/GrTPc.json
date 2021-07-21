@@ -1,0 +1,61 @@
+{
+    "sourceFile": "GrTPc.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 67944
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 195040
+        },
+        {
+            "name": "GrdTargetPichuFloorA_I8_image",
+            "rootOffset": 104416
+        },
+        {
+            "name": "GrdTargetPichuFloorB_CMPR_image",
+            "rootOffset": 71648
+        },
+        {
+            "name": "GrdTargetPichuMBall_CMPR_image",
+            "rootOffset": 186336
+        },
+        {
+            "name": "GrdTargetPichuScrewA_I8_image",
+            "rootOffset": 194528
+        },
+        {
+            "name": "GrdTargetPichuSteelC_I8_image",
+            "rootOffset": 169952
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 67540
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 67684
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 67904
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 416
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 70848
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 198056
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 67912
+        }
+    ]
+}

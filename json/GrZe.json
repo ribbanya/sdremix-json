@@ -1,0 +1,341 @@
+{
+    "sourceFile": "GrZe.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 392428
+        },
+        {
+            "name": "GrdSamus1Alphab_IA8_image",
+            "rootOffset": 645312
+        },
+        {
+            "name": "GrdSamus1Bio00_CMPR_image",
+            "rootOffset": 680032
+        },
+        {
+            "name": "GrdSamus1Bio0_CMPR_image",
+            "rootOffset": 637120
+        },
+        {
+            "name": "GrdSamus1Bio0s_CMPR_image",
+            "rootOffset": 688224
+        },
+        {
+            "name": "GrdSamus1Bio1_C8_image",
+            "rootOffset": 429344
+        },
+        {
+            "name": "GrdSamus1Bio1_tlut",
+            "rootOffset": 433440
+        },
+        {
+            "name": "GrdSamus1Bio1_tlut_desc",
+            "rootOffset": 433952
+        },
+        {
+            "name": "GrdSamus1Bio1far_C8_image",
+            "rootOffset": 755808
+        },
+        {
+            "name": "GrdSamus1Bio1far_tlut",
+            "rootOffset": 772192
+        },
+        {
+            "name": "GrdSamus1Bio1far_tlut_desc",
+            "rootOffset": 772640
+        },
+        {
+            "name": "GrdSamus1Bio2_C8_image",
+            "rootOffset": 661056
+        },
+        {
+            "name": "GrdSamus1Bio2_tlut",
+            "rootOffset": 669248
+        },
+        {
+            "name": "GrdSamus1Bio2_tlut_desc",
+            "rootOffset": 669760
+        },
+        {
+            "name": "GrdSamus1Bio4_RGB5A3_image",
+            "rootOffset": 412960
+        },
+        {
+            "name": "GrdSamus1Bio5_CMPR_image",
+            "rootOffset": 525440
+        },
+        {
+            "name": "GrdSamus1Bio6_C8_image",
+            "rootOffset": 560256
+        },
+        {
+            "name": "GrdSamus1Bio6_tlut",
+            "rootOffset": 576640
+        },
+        {
+            "name": "GrdSamus1Bio6_tlut_desc",
+            "rootOffset": 577152
+        },
+        {
+            "name": "GrdSamus1Bio6far_C8_image",
+            "rootOffset": 772672
+        },
+        {
+            "name": "GrdSamus1Bio6far_tlut",
+            "rootOffset": 789056
+        },
+        {
+            "name": "GrdSamus1Bio6far_tlut_desc",
+            "rootOffset": 789568
+        },
+        {
+            "name": "GrdSamus1Bio7far_C8_image",
+            "rootOffset": 802912
+        },
+        {
+            "name": "GrdSamus1Bio7far_tlut",
+            "rootOffset": 811104
+        },
+        {
+            "name": "GrdSamus1Bio7far_tlut_desc",
+            "rootOffset": 811616
+        },
+        {
+            "name": "GrdSamus1Bio8_C8_image",
+            "rootOffset": 520800
+        },
+        {
+            "name": "GrdSamus1Bio8_tlut",
+            "rootOffset": 524896
+        },
+        {
+            "name": "GrdSamus1Bio8_tlut_desc",
+            "rootOffset": 525408
+        },
+        {
+            "name": "GrdSamus1Bio9_RGB5A3_image",
+            "rootOffset": 527488
+        },
+        {
+            "name": "GrdSamus1BioEye_CMPR_image",
+            "rootOffset": 789600
+        },
+        {
+            "name": "GrdSamus1Brain1_RGBA8_image",
+            "rootOffset": 690272
+        },
+        {
+            "name": "GrdSamus1Face1_I8_image",
+            "rootOffset": 656960
+        },
+        {
+            "name": "GrdSamus1Face2_I8_image",
+            "rootOffset": 652864
+        },
+        {
+            "name": "GrdSamus1Face3_I8_image",
+            "rootOffset": 648768
+        },
+        {
+            "name": "GrdSamus1Flare1_RGBA8_image",
+            "rootOffset": 433984
+        },
+        {
+            "name": "GrdSamus1Floor1_CMPR_image",
+            "rootOffset": 585376
+        },
+        {
+            "name": "GrdSamus1Floor2_CMPR_image",
+            "rootOffset": 556160
+        },
+        {
+            "name": "GrdSamus1Floor3_CMPR_image",
+            "rootOffset": 672352
+        },
+        {
+            "name": "GrdSamus1Floorside1_CMPR_image",
+            "rootOffset": 577184
+        },
+        {
+            "name": "GrdSamus1Floorside33_RGB5A3_image",
+            "rootOffset": 535680
+        },
+        {
+            "name": "GrdSamus1Floorside34_RGB5A3_image",
+            "rootOffset": 545920
+        },
+        {
+            "name": "GrdSamus1Floorside4_C8_image",
+            "rootOffset": 404224
+        },
+        {
+            "name": "GrdSamus1Floorside4_tlut",
+            "rootOffset": 412416
+        },
+        {
+            "name": "GrdSamus1Floorside4_tlut_desc",
+            "rootOffset": 412928
+        },
+        {
+            "name": "GrdSamus1Floorside6_CMPR_image",
+            "rootOffset": 581280
+        },
+        {
+            "name": "GrdSamus1Floorside7_CMPR_image",
+            "rootOffset": 669792
+        },
+        {
+            "name": "GrdSamus1Floorside7a_CMPR_image",
+            "rootOffset": 676448
+        },
+        {
+            "name": "GrdSamus1Light1_CMPR_image",
+            "rootOffset": 677984
+        },
+        {
+            "name": "GrdSamus1Obj1_CMPR_image",
+            "rootOffset": 645952
+        },
+        {
+            "name": "GrdSamus1Obj2_CMPR_image",
+            "rootOffset": 645440
+        },
+        {
+            "name": "GrdSamus1Pipe1far_CMPR_image",
+            "rootOffset": 801888
+        },
+        {
+            "name": "GrdSamus1Pipe2far_CMPR_image",
+            "rootOffset": 811648
+        },
+        {
+            "name": "GrdSamus1Rock2_CMPR_image",
+            "rootOffset": 458560
+        },
+        {
+            "name": "GrdSamus1Rock2under_CMPR_image",
+            "rootOffset": 450368
+        },
+        {
+            "name": "GrdSamus1Tower1_C8_image",
+            "rootOffset": 395840
+        },
+        {
+            "name": "GrdSamus1Tower1_tlut",
+            "rootOffset": 404032
+        },
+        {
+            "name": "GrdSamus1Tower1_tlut_desc",
+            "rootOffset": 404192
+        },
+        {
+            "name": "GrdSamus1Tower3_CMPR_image",
+            "rootOffset": 516448
+        },
+        {
+            "name": "GrdSamus1Tower4_CMPR_image",
+            "rootOffset": 516704
+        },
+        {
+            "name": "GrdSamus1Tower5_CMPR_image",
+            "rootOffset": 635072
+        },
+        {
+            "name": "GrdSamus1Wall1_CMPR_image",
+            "rootOffset": 799840
+        },
+        {
+            "name": "GrdSamus1Water_CMPR_image",
+            "rootOffset": 393792
+        },
+        {
+            "name": "GrdSamus1Zou1_CMPR_image",
+            "rootOffset": 812672
+        },
+        {
+            "name": "GrdSamus1antenna1_RGBA8_image",
+            "rootOffset": 512352
+        },
+        {
+            "name": "GrdSamus1antenna2_C8_image",
+            "rootOffset": 499520
+        },
+        {
+            "name": "GrdSamus1antenna2_tlut",
+            "rootOffset": 507712
+        },
+        {
+            "name": "GrdSamus1antenna2_tlut_desc",
+            "rootOffset": 508224
+        },
+        {
+            "name": "GrdSamus1backRock1_CMPR_image",
+            "rootOffset": 466752
+        },
+        {
+            "name": "GrdSamus1backRock3_CMPR_image",
+            "rootOffset": 791648
+        },
+        {
+            "name": "GrdSamus1under1_CMPR_image",
+            "rootOffset": 510304
+        },
+        {
+            "name": "GrdSamus1under2_CMPR_image",
+            "rootOffset": 508256
+        },
+        {
+            "name": "GrdSamus1under3_RGB5A3_image",
+            "rootOffset": 602304
+        },
+        {
+            "name": "GrdSamus1under4_C8_image",
+            "rootOffset": 593568
+        },
+        {
+            "name": "GrdSamus1under4_tlut",
+            "rootOffset": 601760
+        },
+        {
+            "name": "GrdSamus1under4_tlut_desc",
+            "rootOffset": 602272
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 380084
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 391740
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 391960
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 788
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 392596
+        },
+        {
+            "name": "map_ptcl",
+            "rootOffset": 380128
+        },
+        {
+            "name": "map_texg",
+            "rootOffset": 380704
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 821832
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 392000
+        }
+    ]
+}

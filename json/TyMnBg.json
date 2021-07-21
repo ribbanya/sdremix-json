@@ -1,0 +1,17 @@
+{
+    "sourceFile": "TyMnBg.dat",
+    "nodes": [
+        {
+            "name": "ToyFigureBg3_sobjdesc",
+            "rootOffset": 307224
+        },
+        {
+            "name": "ToyFigureBg5_sobjdesc",
+            "rootOffset": 614456
+        },
+        {
+            "name": "ToyFigureBg6_sobjdesc",
+            "rootOffset": 921688
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyPichuR.dat",
+    "nodes": [
+        {
+            "name": "ToyPichuRModel_TopN_joint",
+            "rootOffset": 50024
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "sourceFile": "GrTPe.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 62640
+        },
+        {
+            "name": "GrdTPeachFloor00_RGBA8_image",
+            "rootOffset": 66304
+        },
+        {
+            "name": "GrdTPeachFloor00b_RGBA8_image",
+            "rootOffset": 180992
+        },
+        {
+            "name": "GrdTPeachRelief01b_RGBA8_image",
+            "rootOffset": 328448
+        },
+        {
+            "name": "GrdTPeachRelief02b_RGBA8_image",
+            "rootOffset": 459520
+        },
+        {
+            "name": "GrdTPeachRelief02c_RGBA8_image",
+            "rootOffset": 115456
+        },
+        {
+            "name": "GrdTPeachRelief04b_RGBA8_image",
+            "rootOffset": 197376
+        },
+        {
+            "name": "GrdTPeachRelief05b_RGBA8_image",
+            "rootOffset": 295680
+        },
+        {
+            "name": "GrdTPeachRelief05c_RGBA8_image",
+            "rootOffset": 82688
+        },
+        {
+            "name": "GrdTPeachRelief07b_RGBA8_image",
+            "rootOffset": 393984
+        },
+        {
+            "name": "GrdTPeachRelief08b_RGBA8_image",
+            "rootOffset": 262912
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 525056
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 62236
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 62380
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 62600
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 408
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 65536
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 528072
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 62608
+        }
+    ]
+}

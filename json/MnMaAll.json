@@ -1,0 +1,953 @@
+{
+    "sourceFile": "MnMaAll.dat",
+    "nodes": [
+        {
+            "name": "MenMainBack_Top_animjoint",
+            "rootOffset": 76892
+        },
+        {
+            "name": "MenMainBack_Top_joint",
+            "rootOffset": 26664
+        },
+        {
+            "name": "MenMainBack_Top_matanim_joint",
+            "rootOffset": 83380
+        },
+        {
+            "name": "MenMainBack_Top_shapeanim_joint",
+            "rootOffset": 108592
+        },
+        {
+            "name": "MenMainBaseEtNw_Top_animjoint",
+            "rootOffset": 1293632
+        },
+        {
+            "name": "MenMainBaseEtNw_Top_joint",
+            "rootOffset": 1292456
+        },
+        {
+            "name": "MenMainBaseEtNw_Top_matanim_joint",
+            "rootOffset": 1293812
+        },
+        {
+            "name": "MenMainBaseEtNw_Top_shapeanim_joint",
+            "rootOffset": 1294888
+        },
+        {
+            "name": "MenMainBaseNmTp_Top_animjoint",
+            "rootOffset": 1243264
+        },
+        {
+            "name": "MenMainBaseNmTp_Top_joint",
+            "rootOffset": 1242600
+        },
+        {
+            "name": "MenMainBaseNmTp_Top_matanim_joint",
+            "rootOffset": 1243540
+        },
+        {
+            "name": "MenMainBaseNmTp_Top_shapeanim_joint",
+            "rootOffset": 1243572
+        },
+        {
+            "name": "MenMainConB1_Top_animjoint",
+            "rootOffset": 1480564
+        },
+        {
+            "name": "MenMainConB1_Top_joint",
+            "rootOffset": 1302312
+        },
+        {
+            "name": "MenMainConB1_Top_matanim_joint",
+            "rootOffset": 1481144
+        },
+        {
+            "name": "MenMainConB1_Top_shapeanim_joint",
+            "rootOffset": 1481364
+        },
+        {
+            "name": "MenMainConB2_Top_animjoint",
+            "rootOffset": 1617620
+        },
+        {
+            "name": "MenMainConB2_Top_joint",
+            "rootOffset": 1566760
+        },
+        {
+            "name": "MenMainConB2_Top_matanim_joint",
+            "rootOffset": 1618240
+        },
+        {
+            "name": "MenMainConB2_Top_shapeanim_joint",
+            "rootOffset": 1618484
+        },
+        {
+            "name": "MenMainConB3_Top_animjoint",
+            "rootOffset": 1648304
+        },
+        {
+            "name": "MenMainConB3_Top_joint",
+            "rootOffset": 1622984
+        },
+        {
+            "name": "MenMainConB3_Top_matanim_joint",
+            "rootOffset": 1648760
+        },
+        {
+            "name": "MenMainConB3_Top_shapeanim_joint",
+            "rootOffset": 1648960
+        },
+        {
+            "name": "MenMainConBo_Top_animjoint",
+            "rootOffset": 2001480
+        },
+        {
+            "name": "MenMainConBo_Top_joint",
+            "rootOffset": 2001288
+        },
+        {
+            "name": "MenMainConBo_Top_matanim_joint",
+            "rootOffset": 2001668
+        },
+        {
+            "name": "MenMainConBo_Top_shapeanim_joint",
+            "rootOffset": 2001720
+        },
+        {
+            "name": "MenMainConCo_Top_animjoint",
+            "rootOffset": 2002312
+        },
+        {
+            "name": "MenMainConCo_Top_joint",
+            "rootOffset": 2002120
+        },
+        {
+            "name": "MenMainConCo_Top_matanim_joint",
+            "rootOffset": 2002500
+        },
+        {
+            "name": "MenMainConCo_Top_shapeanim_joint",
+            "rootOffset": 2002552
+        },
+        {
+            "name": "MenMainConDf_Top_animjoint",
+            "rootOffset": 1812156
+        },
+        {
+            "name": "MenMainConDf_Top_joint",
+            "rootOffset": 1751540
+        },
+        {
+            "name": "MenMainConDf_Top_matanim_joint",
+            "rootOffset": 1812680
+        },
+        {
+            "name": "MenMainConDf_Top_shapeanim_joint",
+            "rootOffset": 1814392
+        },
+        {
+            "name": "MenMainConDl_Top_animjoint",
+            "rootOffset": 1983520
+        },
+        {
+            "name": "MenMainConDl_Top_joint",
+            "rootOffset": 1982592
+        },
+        {
+            "name": "MenMainConDl_Top_matanim_joint",
+            "rootOffset": 1983680
+        },
+        {
+            "name": "MenMainConDl_Top_shapeanim_joint",
+            "rootOffset": 1983776
+        },
+        {
+            "name": "MenMainConEtNw_Top_animjoint",
+            "rootOffset": 1278768
+        },
+        {
+            "name": "MenMainConEtNw_Top_joint",
+            "rootOffset": 1249832
+        },
+        {
+            "name": "MenMainConEtNw_Top_matanim_joint",
+            "rootOffset": 1281144
+        },
+        {
+            "name": "MenMainConEtNw_Top_shapeanim_joint",
+            "rootOffset": 1291808
+        },
+        {
+            "name": "MenMainConEv_Top_animjoint",
+            "rootOffset": 1958780
+        },
+        {
+            "name": "MenMainConEv_Top_joint",
+            "rootOffset": 1953128
+        },
+        {
+            "name": "MenMainConEv_Top_matanim_joint",
+            "rootOffset": 1960220
+        },
+        {
+            "name": "MenMainConEv_Top_shapeanim_joint",
+            "rootOffset": 1980152
+        },
+        {
+            "name": "MenMainConGa_Top_animjoint",
+            "rootOffset": 2080084
+        },
+        {
+            "name": "MenMainConGa_Top_joint",
+            "rootOffset": 2079776
+        },
+        {
+            "name": "MenMainConGa_Top_matanim_joint",
+            "rootOffset": 2080144
+        },
+        {
+            "name": "MenMainConGa_Top_shapeanim_joint",
+            "rootOffset": 2080180
+        },
+        {
+            "name": "MenMainConIs_Top_animjoint",
+            "rootOffset": 1124844
+        },
+        {
+            "name": "MenMainConIs_Top_joint",
+            "rootOffset": 1119720
+        },
+        {
+            "name": "MenMainConIs_Top_matanim_joint",
+            "rootOffset": 1125344
+        },
+        {
+            "name": "MenMainConIs_Top_shapeanim_joint",
+            "rootOffset": 1148504
+        },
+        {
+            "name": "MenMainConKm_Top_animjoint",
+            "rootOffset": 1948532
+        },
+        {
+            "name": "MenMainConKm_Top_joint",
+            "rootOffset": 1914536
+        },
+        {
+            "name": "MenMainConKm_Top_matanim_joint",
+            "rootOffset": 1950480
+        },
+        {
+            "name": "MenMainConKm_Top_shapeanim_joint",
+            "rootOffset": 1950672
+        },
+        {
+            "name": "MenMainConLa_Top_animjoint",
+            "rootOffset": 1910164
+        },
+        {
+            "name": "MenMainConLa_Top_joint",
+            "rootOffset": 1903112
+        },
+        {
+            "name": "MenMainConLa_Top_matanim_joint",
+            "rootOffset": 1910984
+        },
+        {
+            "name": "MenMainConLa_Top_shapeanim_joint",
+            "rootOffset": 1911080
+        },
+        {
+            "name": "MenMainConNmTp_Top_animjoint",
+            "rootOffset": 1240648
+        },
+        {
+            "name": "MenMainConNmTp_Top_joint",
+            "rootOffset": 1234504
+        },
+        {
+            "name": "MenMainConNmTp_Top_matanim_joint",
+            "rootOffset": 1241772
+        },
+        {
+            "name": "MenMainConNmTp_Top_shapeanim_joint",
+            "rootOffset": 1242024
+        },
+        {
+            "name": "MenMainConRl_Top_animjoint",
+            "rootOffset": 1061600
+        },
+        {
+            "name": "MenMainConRl_Top_joint",
+            "rootOffset": 1060320
+        },
+        {
+            "name": "MenMainConRl_Top_matanim_joint",
+            "rootOffset": 1061800
+        },
+        {
+            "name": "MenMainConRl_Top_shapeanim_joint",
+            "rootOffset": 1061920
+        },
+        {
+            "name": "MenMainConSn_Top_animjoint",
+            "rootOffset": 2018960
+        },
+        {
+            "name": "MenMainConSn_Top_joint",
+            "rootOffset": 2010184
+        },
+        {
+            "name": "MenMainConSn_Top_matanim_joint",
+            "rootOffset": 2020160
+        },
+        {
+            "name": "MenMainConSn_Top_shapeanim_joint",
+            "rootOffset": 2020512
+        },
+        {
+            "name": "MenMainConSo_Top_animjoint",
+            "rootOffset": 1745152
+        },
+        {
+            "name": "MenMainConSo_Top_joint",
+            "rootOffset": 1693960
+        },
+        {
+            "name": "MenMainConSo_Top_matanim_joint",
+            "rootOffset": 1746772
+        },
+        {
+            "name": "MenMainConSo_Top_shapeanim_joint",
+            "rootOffset": 1747120
+        },
+        {
+            "name": "MenMainConSs_Top_animjoint",
+            "rootOffset": 1225716
+        },
+        {
+            "name": "MenMainConSs_Top_joint",
+            "rootOffset": 1225288
+        },
+        {
+            "name": "MenMainConSs_Top_matanim_joint",
+            "rootOffset": 1225852
+        },
+        {
+            "name": "MenMainConSs_Top_shapeanim_joint",
+            "rootOffset": 1225932
+        },
+        {
+            "name": "MenMainConTop_Top_animjoint",
+            "rootOffset": 518904
+        },
+        {
+            "name": "MenMainConTop_Top_joint",
+            "rootOffset": 435944
+        },
+        {
+            "name": "MenMainConTop_Top_matanim_joint",
+            "rootOffset": 526880
+        },
+        {
+            "name": "MenMainConTop_Top_shapeanim_joint",
+            "rootOffset": 751680
+        },
+        {
+            "name": "MenMainConTs_Top_animjoint",
+            "rootOffset": 1842048
+        },
+        {
+            "name": "MenMainConTs_Top_joint",
+            "rootOffset": 1822696
+        },
+        {
+            "name": "MenMainConTs_Top_matanim_joint",
+            "rootOffset": 1845992
+        },
+        {
+            "name": "MenMainConTs_Top_shapeanim_joint",
+            "rootOffset": 1899368
+        },
+        {
+            "name": "MenMainConVi_Top_animjoint",
+            "rootOffset": 1666192
+        },
+        {
+            "name": "MenMainConVi_Top_joint",
+            "rootOffset": 1653128
+        },
+        {
+            "name": "MenMainConVi_Top_matanim_joint",
+            "rootOffset": 1666836
+        },
+        {
+            "name": "MenMainConVi_Top_shapeanim_joint",
+            "rootOffset": 1667208
+        },
+        {
+            "name": "MenMainCtlVi_Top_animjoint",
+            "rootOffset": 1680936
+        },
+        {
+            "name": "MenMainCtlVi_Top_joint",
+            "rootOffset": 1669288
+        },
+        {
+            "name": "MenMainCtlVi_Top_matanim_joint",
+            "rootOffset": 1681812
+        },
+        {
+            "name": "MenMainCtlVi_Top_shapeanim_joint",
+            "rootOffset": 1685648
+        },
+        {
+            "name": "MenMainCursorB1_Top_animjoint",
+            "rootOffset": 1483044
+        },
+        {
+            "name": "MenMainCursorB1_Top_joint",
+            "rootOffset": 1482580
+        },
+        {
+            "name": "MenMainCursorB1_Top_matanim_joint",
+            "rootOffset": 1483224
+        },
+        {
+            "name": "MenMainCursorB1_Top_shapeanim_joint",
+            "rootOffset": 1483324
+        },
+        {
+            "name": "MenMainCursorB3_Top_animjoint",
+            "rootOffset": 1649512
+        },
+        {
+            "name": "MenMainCursorB3_Top_joint",
+            "rootOffset": 1649384
+        },
+        {
+            "name": "MenMainCursorB3_Top_matanim_joint",
+            "rootOffset": 1649568
+        },
+        {
+            "name": "MenMainCursorB3_Top_shapeanim_joint",
+            "rootOffset": 1649600
+        },
+        {
+            "name": "MenMainCursorDl_Top_animjoint",
+            "rootOffset": 1989328
+        },
+        {
+            "name": "MenMainCursorDl_Top_joint",
+            "rootOffset": 1985160
+        },
+        {
+            "name": "MenMainCursorDl_Top_matanim_joint",
+            "rootOffset": 1990156
+        },
+        {
+            "name": "MenMainCursorDl_Top_shapeanim_joint",
+            "rootOffset": 2000856
+        },
+        {
+            "name": "MenMainCursorGa_Top_animjoint",
+            "rootOffset": 2084192
+        },
+        {
+            "name": "MenMainCursorGa_Top_joint",
+            "rootOffset": 2080968
+        },
+        {
+            "name": "MenMainCursorGa_Top_matanim_joint",
+            "rootOffset": 2084596
+        },
+        {
+            "name": "MenMainCursorGa_Top_shapeanim_joint",
+            "rootOffset": 2086192
+        },
+        {
+            "name": "MenMainCursorIs_Top_animjoint",
+            "rootOffset": 1155156
+        },
+        {
+            "name": "MenMainCursorIs_Top_joint",
+            "rootOffset": 1150056
+        },
+        {
+            "name": "MenMainCursorIs_Top_matanim_joint",
+            "rootOffset": 1156648
+        },
+        {
+            "name": "MenMainCursorIs_Top_shapeanim_joint",
+            "rootOffset": 1224960
+        },
+        {
+            "name": "MenMainCursorRl01_Top_animjoint",
+            "rootOffset": 1092640
+        },
+        {
+            "name": "MenMainCursorRl01_Top_joint",
+            "rootOffset": 1090440
+        },
+        {
+            "name": "MenMainCursorRl01_Top_matanim_joint",
+            "rootOffset": 1092796
+        },
+        {
+            "name": "MenMainCursorRl01_Top_shapeanim_joint",
+            "rootOffset": 1092828
+        },
+        {
+            "name": "MenMainCursorRl02_Top_animjoint",
+            "rootOffset": 1093992
+        },
+        {
+            "name": "MenMainCursorRl02_Top_joint",
+            "rootOffset": 1093256
+        },
+        {
+            "name": "MenMainCursorRl02_Top_matanim_joint",
+            "rootOffset": 1094316
+        },
+        {
+            "name": "MenMainCursorRl02_Top_shapeanim_joint",
+            "rootOffset": 1094696
+        },
+        {
+            "name": "MenMainCursorRl03_Top_animjoint",
+            "rootOffset": 1098592
+        },
+        {
+            "name": "MenMainCursorRl03_Top_joint",
+            "rootOffset": 1095368
+        },
+        {
+            "name": "MenMainCursorRl03_Top_matanim_joint",
+            "rootOffset": 1098740
+        },
+        {
+            "name": "MenMainCursorRl03_Top_shapeanim_joint",
+            "rootOffset": 1098772
+        },
+        {
+            "name": "MenMainCursorRl04_Top_animjoint",
+            "rootOffset": 1099936
+        },
+        {
+            "name": "MenMainCursorRl04_Top_joint",
+            "rootOffset": 1099464
+        },
+        {
+            "name": "MenMainCursorRl04_Top_matanim_joint",
+            "rootOffset": 1100048
+        },
+        {
+            "name": "MenMainCursorRl04_Top_shapeanim_joint",
+            "rootOffset": 1100112
+        },
+        {
+            "name": "MenMainCursorRl05_Top_animjoint",
+            "rootOffset": 1106496
+        },
+        {
+            "name": "MenMainCursorRl05_Top_joint",
+            "rootOffset": 1100712
+        },
+        {
+            "name": "MenMainCursorRl05_Top_matanim_joint",
+            "rootOffset": 1106720
+        },
+        {
+            "name": "MenMainCursorRl05_Top_shapeanim_joint",
+            "rootOffset": 1106752
+        },
+        {
+            "name": "MenMainCursorRl_Top_animjoint",
+            "rootOffset": 1071308
+        },
+        {
+            "name": "MenMainCursorRl_Top_joint",
+            "rootOffset": 1064840
+        },
+        {
+            "name": "MenMainCursorRl_Top_matanim_joint",
+            "rootOffset": 1072932
+        },
+        {
+            "name": "MenMainCursorRl_Top_shapeanim_joint",
+            "rootOffset": 1087360
+        },
+        {
+            "name": "MenMainCursorSs_Top_animjoint",
+            "rootOffset": 1228768
+        },
+        {
+            "name": "MenMainCursorSs_Top_joint",
+            "rootOffset": 1226696
+        },
+        {
+            "name": "MenMainCursorSs_Top_matanim_joint",
+            "rootOffset": 1229040
+        },
+        {
+            "name": "MenMainCursorSs_Top_shapeanim_joint",
+            "rootOffset": 1229664
+        },
+        {
+            "name": "MenMainCursorTr01_Top_animjoint",
+            "rootOffset": 1107756
+        },
+        {
+            "name": "MenMainCursorTr01_Top_joint",
+            "rootOffset": 1107176
+        },
+        {
+            "name": "MenMainCursorTr01_Top_matanim_joint",
+            "rootOffset": 1108040
+        },
+        {
+            "name": "MenMainCursorTr01_Top_shapeanim_joint",
+            "rootOffset": 1108392
+        },
+        {
+            "name": "MenMainCursorTr02_Top_animjoint",
+            "rootOffset": 1112704
+        },
+        {
+            "name": "MenMainCursorTr02_Top_joint",
+            "rootOffset": 1109032
+        },
+        {
+            "name": "MenMainCursorTr02_Top_matanim_joint",
+            "rootOffset": 1112876
+        },
+        {
+            "name": "MenMainCursorTr02_Top_shapeanim_joint",
+            "rootOffset": 1112908
+        },
+        {
+            "name": "MenMainCursorTr03_Top_animjoint",
+            "rootOffset": 1114688
+        },
+        {
+            "name": "MenMainCursorTr03_Top_joint",
+            "rootOffset": 1113512
+        },
+        {
+            "name": "MenMainCursorTr03_Top_matanim_joint",
+            "rootOffset": 1114860
+        },
+        {
+            "name": "MenMainCursorTr03_Top_shapeanim_joint",
+            "rootOffset": 1114892
+        },
+        {
+            "name": "MenMainCursorTr04_Top_animjoint",
+            "rootOffset": 1118720
+        },
+        {
+            "name": "MenMainCursorTr04_Top_joint",
+            "rootOffset": 1115496
+        },
+        {
+            "name": "MenMainCursorTr04_Top_matanim_joint",
+            "rootOffset": 1118868
+        },
+        {
+            "name": "MenMainCursorTr04_Top_shapeanim_joint",
+            "rootOffset": 1118900
+        },
+        {
+            "name": "MenMainCursorVi_Top_animjoint",
+            "rootOffset": 1687688
+        },
+        {
+            "name": "MenMainCursorVi_Top_joint",
+            "rootOffset": 1687624
+        },
+        {
+            "name": "MenMainCursorVi_Top_matanim_joint",
+            "rootOffset": 1687724
+        },
+        {
+            "name": "MenMainCursorVi_Top_shapeanim_joint",
+            "rootOffset": 1687744
+        },
+        {
+            "name": "MenMainCursor_Top_animjoint",
+            "rootOffset": 776500
+        },
+        {
+            "name": "MenMainCursor_Top_joint",
+            "rootOffset": 756884
+        },
+        {
+            "name": "MenMainCursor_Top_matanim_joint",
+            "rootOffset": 779528
+        },
+        {
+            "name": "MenMainCursor_Top_shapeanim_joint",
+            "rootOffset": 1042288
+        },
+        {
+            "name": "MenMainFaceB_Top_animjoint",
+            "rootOffset": 1486684
+        },
+        {
+            "name": "MenMainFaceB_Top_joint",
+            "rootOffset": 1483784
+        },
+        {
+            "name": "MenMainFaceB_Top_matanim_joint",
+            "rootOffset": 1487752
+        },
+        {
+            "name": "MenMainFaceB_Top_shapeanim_joint",
+            "rootOffset": 1549400
+        },
+        {
+            "name": "MenMainLoadSn_Top_animjoint",
+            "rootOffset": 2078176
+        },
+        {
+            "name": "MenMainLoadSn_Top_joint",
+            "rootOffset": 2074824
+        },
+        {
+            "name": "MenMainLoadSn_Top_matanim_joint",
+            "rootOffset": 2079580
+        },
+        {
+            "name": "MenMainLoadSn_Top_shapeanim_joint",
+            "rootOffset": 2079704
+        },
+        {
+            "name": "MenMainMarkEv_Top_animjoint",
+            "rootOffset": 1982392
+        },
+        {
+            "name": "MenMainMarkEv_Top_joint",
+            "rootOffset": 1982216
+        },
+        {
+            "name": "MenMainMarkEv_Top_matanim_joint",
+            "rootOffset": 1982512
+        },
+        {
+            "name": "MenMainMarkEv_Top_shapeanim_joint",
+            "rootOffset": 1982552
+        },
+        {
+            "name": "MenMainNmB_Top_animjoint",
+            "rootOffset": 1550176
+        },
+        {
+            "name": "MenMainNmB_Top_joint",
+            "rootOffset": 1549832
+        },
+        {
+            "name": "MenMainNmB_Top_matanim_joint",
+            "rootOffset": 1550576
+        },
+        {
+            "name": "MenMainNmB_Top_shapeanim_joint",
+            "rootOffset": 1552904
+        },
+        {
+            "name": "MenMainNmRl_Top_animjoint",
+            "rootOffset": 1088256
+        },
+        {
+            "name": "MenMainNmRl_Top_joint",
+            "rootOffset": 1087976
+        },
+        {
+            "name": "MenMainNmRl_Top_matanim_joint",
+            "rootOffset": 1088676
+        },
+        {
+            "name": "MenMainNmRl_Top_shapeanim_joint",
+            "rootOffset": 1089864
+        },
+        {
+            "name": "MenMainOnoffVi_Top_animjoint",
+            "rootOffset": 1686672
+        },
+        {
+            "name": "MenMainOnoffVi_Top_joint",
+            "rootOffset": 1686088
+        },
+        {
+            "name": "MenMainOnoffVi_Top_matanim_joint",
+            "rootOffset": 1686868
+        },
+        {
+            "name": "MenMainOnoffVi_Top_shapeanim_joint",
+            "rootOffset": 1687384
+        },
+        {
+            "name": "MenMainPanel_Top_animjoint",
+            "rootOffset": 350292
+        },
+        {
+            "name": "MenMainPanel_Top_joint",
+            "rootOffset": 140584
+        },
+        {
+            "name": "MenMainPanel_Top_matanim_joint",
+            "rootOffset": 354560
+        },
+        {
+            "name": "MenMainPanel_Top_shapeanim_joint",
+            "rootOffset": 426336
+        },
+        {
+            "name": "MenMainPhotoSn_Top_animjoint",
+            "rootOffset": 2021440
+        },
+        {
+            "name": "MenMainPhotoSn_Top_joint",
+            "rootOffset": 2021320
+        },
+        {
+            "name": "MenMainPhotoSn_Top_matanim_joint",
+            "rootOffset": 2021540
+        },
+        {
+            "name": "MenMainPhotoSn_Top_shapeanim_joint",
+            "rootOffset": 2021592
+        },
+        {
+            "name": "MenMainSbaseEtNw_Top_animjoint",
+            "rootOffset": 1299040
+        },
+        {
+            "name": "MenMainSbaseEtNw_Top_joint",
+            "rootOffset": 1297864
+        },
+        {
+            "name": "MenMainSbaseEtNw_Top_matanim_joint",
+            "rootOffset": 1299220
+        },
+        {
+            "name": "MenMainSbaseEtNw_Top_shapeanim_joint",
+            "rootOffset": 1300296
+        },
+        {
+            "name": "MenMainSubB1_Top_animjoint",
+            "rootOffset": 1563456
+        },
+        {
+            "name": "MenMainSubB1_Top_joint",
+            "rootOffset": 1555304
+        },
+        {
+            "name": "MenMainSubB1_Top_matanim_joint",
+            "rootOffset": 1563848
+        },
+        {
+            "name": "MenMainSubB1_Top_shapeanim_joint",
+            "rootOffset": 1564072
+        },
+        {
+            "name": "MenMainSubCsrSn_Top_animjoint",
+            "rootOffset": 2045252
+        },
+        {
+            "name": "MenMainSubCsrSn_Top_joint",
+            "rootOffset": 2040392
+        },
+        {
+            "name": "MenMainSubCsrSn_Top_matanim_joint",
+            "rootOffset": 2046276
+        },
+        {
+            "name": "MenMainSubCsrSn_Top_shapeanim_joint",
+            "rootOffset": 2059960
+        },
+        {
+            "name": "MenMainSubEtNw_Top_animjoint",
+            "rootOffset": 1297140
+        },
+        {
+            "name": "MenMainSubEtNw_Top_joint",
+            "rootOffset": 1295508
+        },
+        {
+            "name": "MenMainSubEtNw_Top_matanim_joint",
+            "rootOffset": 1297296
+        },
+        {
+            "name": "MenMainSubEtNw_Top_shapeanim_joint",
+            "rootOffset": 1297388
+        },
+        {
+            "name": "MenMainSubSn_Top_animjoint",
+            "rootOffset": 2033604
+        },
+        {
+            "name": "MenMainSubSn_Top_joint",
+            "rootOffset": 2023208
+        },
+        {
+            "name": "MenMainSubSn_Top_matanim_joint",
+            "rootOffset": 2034128
+        },
+        {
+            "name": "MenMainSubSn_Top_shapeanim_joint",
+            "rootOffset": 2038880
+        },
+        {
+            "name": "MenMainWarCmn_Top_animjoint",
+            "rootOffset": 1059232
+        },
+        {
+            "name": "MenMainWarCmn_Top_joint",
+            "rootOffset": 1046676
+        },
+        {
+            "name": "MenMainWarCmn_Top_matanim_joint",
+            "rootOffset": 1059880
+        },
+        {
+            "name": "MenMainWarCmn_Top_shapeanim_joint",
+            "rootOffset": 1060128
+        },
+        {
+            "name": "ScMenMain_cam_int1_camera",
+            "rootOffset": 109856
+        },
+        {
+            "name": "ScMenMain_fog",
+            "rootOffset": 110172
+        },
+        {
+            "name": "ScMenMain_scene_lights",
+            "rootOffset": 110156
+        },
+        {
+            "name": "mnNameAutoName",
+            "rootOffset": 2093224
+        },
+        {
+            "name": "mnNameAutoNameUs",
+            "rootOffset": 2095288
+        },
+        {
+            "name": "mnNameDefaultName",
+            "rootOffset": 2095284
+        },
+        {
+            "name": "mnNameDefaultNameUs",
+            "rootOffset": 2095956
+        },
+        {
+            "name": "mnNameRefuseName",
+            "rootOffset": 2095160
+        },
+        {
+            "name": "mnNameRefuseNameUs",
+            "rootOffset": 2095872
+        }
+    ]
+}

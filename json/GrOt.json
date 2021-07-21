@@ -1,0 +1,513 @@
+{
+    "sourceFile": "GrOt.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 318612
+        },
+        {
+            "name": "GrdOnettBicycleA_CMPR_image",
+            "rootOffset": 320576
+        },
+        {
+            "name": "GrdOnettBldLight_CMPR_image",
+            "rootOffset": 559552
+        },
+        {
+            "name": "GrdOnettBlueCarA_C8_image",
+            "rootOffset": 820640
+        },
+        {
+            "name": "GrdOnettBlueCarA_tlut",
+            "rootOffset": 837024
+        },
+        {
+            "name": "GrdOnettBlueCarA_tlut_desc",
+            "rootOffset": 837536
+        },
+        {
+            "name": "GrdOnettBlueCarSdw_I8_image",
+            "rootOffset": 837568
+        },
+        {
+            "name": "GrdOnettBusA_C8_image",
+            "rootOffset": 920576
+        },
+        {
+            "name": "GrdOnettBusA_tlut",
+            "rootOffset": 936960
+        },
+        {
+            "name": "GrdOnettBusA_tlut_desc",
+            "rootOffset": 937152
+        },
+        {
+            "name": "GrdOnettBusJ_C8_image",
+            "rootOffset": 937184
+        },
+        {
+            "name": "GrdOnettBusJ_tlut",
+            "rootOffset": 953568
+        },
+        {
+            "name": "GrdOnettBusJ_tlut_desc",
+            "rootOffset": 953760
+        },
+        {
+            "name": "GrdOnettCarTyreSdw_IA8_image",
+            "rootOffset": 796064
+        },
+        {
+            "name": "GrdOnettCarTyre_IA4_image",
+            "rootOffset": 783776
+        },
+        {
+            "name": "GrdOnettCloth_CMPR_image",
+            "rootOffset": 769568
+        },
+        {
+            "name": "GrdOnettCloud_IA8_image",
+            "rootOffset": 996320
+        },
+        {
+            "name": "GrdOnettDoorA_CMPR_image",
+            "rootOffset": 576448
+        },
+        {
+            "name": "GrdOnettDoorB_CMPR_image",
+            "rootOffset": 532928
+        },
+        {
+            "name": "GrdOnettDoorC_CMPR_image",
+            "rootOffset": 521664
+        },
+        {
+            "name": "GrdOnettDoorD_CMPR_image",
+            "rootOffset": 763936
+        },
+        {
+            "name": "GrdOnettDragStoreB_CMPR_image",
+            "rootOffset": 982496
+        },
+        {
+            "name": "GrdOnettDragStore_C8_image",
+            "rootOffset": 954304
+        },
+        {
+            "name": "GrdOnettDragStore_tlut",
+            "rootOffset": 981952
+        },
+        {
+            "name": "GrdOnettDragStore_tlut_desc",
+            "rootOffset": 982464
+        },
+        {
+            "name": "GrdOnettDustBox_CMPR_image",
+            "rootOffset": 589248
+        },
+        {
+            "name": "GrdOnettEPoleA_CMPR_image",
+            "rootOffset": 741024
+        },
+        {
+            "name": "GrdOnettEPoleB_CMPR_image",
+            "rootOffset": 743072
+        },
+        {
+            "name": "GrdOnettEPoleE_CMPR_image",
+            "rootOffset": 740896
+        },
+        {
+            "name": "GrdOnettEPoleF_CMPR_image",
+            "rootOffset": 736800
+        },
+        {
+            "name": "GrdOnettFireHydrant_CMPR_image",
+            "rootOffset": 765472
+        },
+        {
+            "name": "GrdOnettFlowers_CMPR_image",
+            "rootOffset": 757280
+        },
+        {
+            "name": "GrdOnettGrassA_CMPR_image",
+            "rootOffset": 451744
+        },
+        {
+            "name": "GrdOnettGrassB_CMPR_image",
+            "rootOffset": 761888
+        },
+        {
+            "name": "GrdOnettGrassC_CMPR_image",
+            "rootOffset": 767520
+        },
+        {
+            "name": "GrdOnettGrdA_CMPR_image",
+            "rootOffset": 773536
+        },
+        {
+            "name": "GrdOnettGrdB_CMPR_image",
+            "rootOffset": 633280
+        },
+        {
+            "name": "GrdOnettGrdB_MIPMAP_CMPR_image",
+            "rootOffset": 346368
+        },
+        {
+            "name": "GrdOnettGrdC_CMPR_image",
+            "rootOffset": 441504
+        },
+        {
+            "name": "GrdOnettGroundA_CMPR_image",
+            "rootOffset": 781728
+        },
+        {
+            "name": "GrdOnettHKanban_C8_image",
+            "rootOffset": 691552
+        },
+        {
+            "name": "GrdOnettHKanban_tlut",
+            "rootOffset": 705888
+        },
+        {
+            "name": "GrdOnettHKanban_tlut_desc",
+            "rootOffset": 706400
+        },
+        {
+            "name": "GrdOnettHoroA_CMPR_image",
+            "rootOffset": 953792
+        },
+        {
+            "name": "GrdOnettHoroB_IA4_image",
+            "rootOffset": 770080
+        },
+        {
+            "name": "GrdOnettHospital_CMPR_image",
+            "rootOffset": 378880
+        },
+        {
+            "name": "GrdOnettHotel_CMPR_image",
+            "rootOffset": 376832
+        },
+        {
+            "name": "GrdOnettHouses_CMPR_image",
+            "rootOffset": 385024
+        },
+        {
+            "name": "GrdOnettInseki_RGB5A3_image",
+            "rootOffset": 453792
+        },
+        {
+            "name": "GrdOnettIronA_CMPR_image",
+            "rootOffset": 506176
+        },
+        {
+            "name": "GrdOnettKazamidori_CMPR_image",
+            "rootOffset": 588736
+        },
+        {
+            "name": "GrdOnettLadder_CMPR_image",
+            "rootOffset": 567744
+        },
+        {
+            "name": "GrdOnettManhole_IA4_image",
+            "rootOffset": 743200
+        },
+        {
+            "name": "GrdOnettMtHouses_CMPR_image",
+            "rootOffset": 470176
+        },
+        {
+            "name": "GrdOnettMtTree_CMPR_image",
+            "rootOffset": 382976
+        },
+        {
+            "name": "GrdOnettNetA_CMPR_image",
+            "rootOffset": 592320
+        },
+        {
+            "name": "GrdOnettOnigiri_CMPR_image",
+            "rootOffset": 641472
+        },
+        {
+            "name": "GrdOnettPinkCarA_C8_image",
+            "rootOffset": 853952
+        },
+        {
+            "name": "GrdOnettPinkCarA_tlut",
+            "rootOffset": 870336
+        },
+        {
+            "name": "GrdOnettPinkCarA_tlut_desc",
+            "rootOffset": 870848
+        },
+        {
+            "name": "GrdOnettPinkCarSdw_I8_image",
+            "rootOffset": 870880
+        },
+        {
+            "name": "GrdOnettPipeA_CMPR_image",
+            "rootOffset": 508736
+        },
+        {
+            "name": "GrdOnettPipe_CMPR_image",
+            "rootOffset": 508224
+        },
+        {
+            "name": "GrdOnettPostA_CMPR_image",
+            "rootOffset": 736288
+        },
+        {
+            "name": "GrdOnettRTree_CMPR_image",
+            "rootOffset": 722816
+        },
+        {
+            "name": "GrdOnettReafA_CMPR_image",
+            "rootOffset": 437408
+        },
+        {
+            "name": "GrdOnettReafB_CMPR_image",
+            "rootOffset": 439456
+        },
+        {
+            "name": "GrdOnettReafC_CMPR_image",
+            "rootOffset": 590272
+        },
+        {
+            "name": "GrdOnettRengaA_CMPR_image",
+            "rootOffset": 551360
+        },
+        {
+            "name": "GrdOnettRengaB_CMPR_image",
+            "rootOffset": 519104
+        },
+        {
+            "name": "GrdOnettRengaB_MIPMAP_CMPR_image",
+            "rootOffset": 754464
+        },
+        {
+            "name": "GrdOnettRoadA_CMPR_image",
+            "rootOffset": 344320
+        },
+        {
+            "name": "GrdOnettRoadB_CMPR_image",
+            "rootOffset": 342272
+        },
+        {
+            "name": "GrdOnettRoadC_CMPR_image",
+            "rootOffset": 631232
+        },
+        {
+            "name": "GrdOnettRoadD_CMPR_image",
+            "rootOffset": 594368
+        },
+        {
+            "name": "GrdOnettRoadD_MIPMAP_CMPR_image",
+            "rootOffset": 336704
+        },
+        {
+            "name": "GrdOnettRoadE_CMPR_image",
+            "rootOffset": 357376
+        },
+        {
+            "name": "GrdOnettRoadF_CMPR_image",
+            "rootOffset": 614848
+        },
+        {
+            "name": "GrdOnettRoadG_CMPR_image",
+            "rootOffset": 598464
+        },
+        {
+            "name": "GrdOnettRockA_CMPR_image",
+            "rootOffset": 443552
+        },
+        {
+            "name": "GrdOnettRoofA_CMPR_image",
+            "rootOffset": 587200
+        },
+        {
+            "name": "GrdOnettRoofB_CMPR_image",
+            "rootOffset": 587712
+        },
+        {
+            "name": "GrdOnettRoofC_CMPR_image",
+            "rootOffset": 588224
+        },
+        {
+            "name": "GrdOnettRoofD_CMPR_image",
+            "rootOffset": 593856
+        },
+        {
+            "name": "GrdOnettRope_CMPR_image",
+            "rootOffset": 747296
+        },
+        {
+            "name": "GrdOnettSakuAS_MIPMAP_IA4_image",
+            "rootOffset": 643264
+        },
+        {
+            "name": "GrdOnettSakuA_CMPR_image",
+            "rootOffset": 421024
+        },
+        {
+            "name": "GrdOnettSakuA_MIPMAP_CMPR_image",
+            "rootOffset": 669536
+        },
+        {
+            "name": "GrdOnettSakuB_CMPR_image",
+            "rootOffset": 429216
+        },
+        {
+            "name": "GrdOnettSakuB_MIPMAP_CMPR_image",
+            "rootOffset": 680544
+        },
+        {
+            "name": "GrdOnettSignalBodyA_CMPR_image",
+            "rootOffset": 731008
+        },
+        {
+            "name": "GrdOnettSignalBodyB_CMPR_image",
+            "rootOffset": 731136
+        },
+        {
+            "name": "GrdOnettSignalLight_C8_image",
+            "rootOffset": 731648
+        },
+        {
+            "name": "GrdOnettSignalLight_tlut",
+            "rootOffset": 735744
+        },
+        {
+            "name": "GrdOnettSignalLight_tlut_desc",
+            "rootOffset": 736256
+        },
+        {
+            "name": "GrdOnettStoneA_CMPR_image",
+            "rootOffset": 575936
+        },
+        {
+            "name": "GrdOnettStopEtc_CMPR_image",
+            "rootOffset": 665184
+        },
+        {
+            "name": "GrdOnettStop_C8_image",
+            "rootOffset": 771232
+        },
+        {
+            "name": "GrdOnettStop_tlut",
+            "rootOffset": 773280
+        },
+        {
+            "name": "GrdOnettStop_tlut_desc",
+            "rootOffset": 773504
+        },
+        {
+            "name": "GrdOnettTaxiA_C8_image",
+            "rootOffset": 887264
+        },
+        {
+            "name": "GrdOnettTaxiA_tlut",
+            "rootOffset": 903648
+        },
+        {
+            "name": "GrdOnettTaxiA_tlut_desc",
+            "rootOffset": 904160
+        },
+        {
+            "name": "GrdOnettTaxiSdw_I8_image",
+            "rootOffset": 904192
+        },
+        {
+            "name": "GrdOnettTileA_CMPR_image",
+            "rootOffset": 518976
+        },
+        {
+            "name": "GrdOnettTileB_CMPR_image",
+            "rootOffset": 764960
+        },
+        {
+            "name": "GrdOnettTileC_CMPR_image",
+            "rootOffset": 521152
+        },
+        {
+            "name": "GrdOnettTreeA_CMPR_image",
+            "rootOffset": 516928
+        },
+        {
+            "name": "GrdOnettTreeShadow_IA4_image",
+            "rootOffset": 706432
+        },
+        {
+            "name": "GrdOnettTsubo_I4_image",
+            "rootOffset": 771104
+        },
+        {
+            "name": "GrdOnettWRoof_I4_image",
+            "rootOffset": 668256
+        },
+        {
+            "name": "GrdOnettWRoof_MIPMAP_I4_image",
+            "rootOffset": 668768
+        },
+        {
+            "name": "GrdOnettWallA_CMPR_image",
+            "rootOffset": 586688
+        },
+        {
+            "name": "GrdOnettWallB_CMPR_image",
+            "rootOffset": 593344
+        },
+        {
+            "name": "GrdOnettWindowA_CMPR_image",
+            "rootOffset": 529856
+        },
+        {
+            "name": "GrdOnettWindowB_CMPR_image",
+            "rootOffset": 666208
+        },
+        {
+            "name": "GrdOnettWindowC_CMPR_image",
+            "rootOffset": 748320
+        },
+        {
+            "name": "GrdOnettYunbo_CMPR_image",
+            "rootOffset": 361472
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 303408
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 318144
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 318364
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 652
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 318736
+        },
+        {
+            "name": "map_ptcl",
+            "rootOffset": 303456
+        },
+        {
+            "name": "map_texg",
+            "rootOffset": 304352
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 1128360
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 318368
+        }
+    ]
+}

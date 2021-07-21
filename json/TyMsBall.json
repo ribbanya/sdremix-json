@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyMsBall.dat",
+    "nodes": [
+        {
+            "name": "ToyMonsterballModel_TopN_joint",
+            "rootOffset": 24712
+        }
+    ]
+}

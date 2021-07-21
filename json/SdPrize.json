@@ -1,0 +1,9 @@
+{
+    "sourceFile": "SdPrize.dat",
+    "nodes": [
+        {
+            "name": "SIS_PrizeData",
+            "rootOffset": 0
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyTarget.dat",
+    "nodes": [
+        {
+            "name": "ToyTargetModel_TopN_joint",
+            "rootOffset": 4360
+        }
+    ]
+}

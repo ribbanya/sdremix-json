@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlSkGr.dat",
+    "nodes": [
+        {
+            "name": "PlySeak5KGr_Share_joint",
+            "rootOffset": 110024
+        },
+        {
+            "name": "PlySeak5KGr_Share_matanim_joint",
+            "rootOffset": 276176
+        }
+    ]
+}

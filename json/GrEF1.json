@@ -1,0 +1,73 @@
+{
+    "sourceFile": "GrEF1.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 314080
+        },
+        {
+            "name": "GrdFigure1Eye_I8_image",
+            "rootOffset": 316384
+        },
+        {
+            "name": "GrdFigure1Skin_CMPR_image",
+            "rootOffset": 340960
+        },
+        {
+            "name": "GrdNSrGrad1_I8_image",
+            "rootOffset": 349152
+        },
+        {
+            "name": "GrdNSrVanishEff_IA4_image",
+            "rootOffset": 388608
+        },
+        {
+            "name": "GrdNSrWater_RGB5A3_image",
+            "rootOffset": 353248
+        },
+        {
+            "name": "GrdShrineRouteIshi3_C8_image",
+            "rootOffset": 386016
+        },
+        {
+            "name": "GrdShrineRouteIshi3_tlut",
+            "rootOffset": 388064
+        },
+        {
+            "name": "GrdShrineRouteIshi3_tlut_desc",
+            "rootOffset": 388576
+        },
+        {
+            "name": "ToyKuribohSkin_CMPR_image",
+            "rootOffset": 332768
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 313680
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 313824
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 314044
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 344
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 314676
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 390600
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 314048
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "sourceFile": "TyPokeB.dat",
+    "nodes": [
+        {
+            "name": "ToyDspPokemonB_Top_joint",
+            "rootOffset": 392
+        },
+        {
+            "name": "ToyDspPokemonB_Top_matanim_joint",
+            "rootOffset": 11264
+        }
+    ]
+}

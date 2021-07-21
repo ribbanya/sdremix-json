@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlNsNr.dat",
+    "nodes": [
+        {
+            "name": "PlyNess5K_Share_joint",
+            "rootOffset": 110800
+        },
+        {
+            "name": "PlyNess5K_Share_matanim_joint",
+            "rootOffset": 333912
+        }
+    ]
+}

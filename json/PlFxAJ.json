@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlFxAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Wait1",
+            "name": "PlyFox5K_Share_ACTION_Wait1_figatree",
+            "rootOffset": 4488,
+            "data": {
+                "numFrames": 120.0,
+                "boneTableOffset": 4412,
+                "animDataOffset": 2960
+            }
+        }
+    ]
+}

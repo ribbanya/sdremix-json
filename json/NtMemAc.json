@@ -1,0 +1,9 @@
+{
+    "sourceFile": "NtMemAc.dat",
+    "nodes": [
+        {
+            "name": "ScNtcCommon_scene_data",
+            "rootOffset": 3996
+        }
+    ]
+}

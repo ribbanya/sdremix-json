@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlDkRe.dat",
+    "nodes": [
+        {
+            "name": "PlyDonkey5KRe_Share_joint",
+            "rootOffset": 112360
+        },
+        {
+            "name": "PlyDonkey5KRe_Share_matanim_joint",
+            "rootOffset": 517840
+        }
+    ]
+}

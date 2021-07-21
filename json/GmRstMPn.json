@@ -1,0 +1,13 @@
+{
+    "sourceFile": "GmRstMPn.dat",
+    "nodes": [
+        {
+            "name": "ftDemoResultMotionFileNana",
+            "rootOffset": 88800
+        },
+        {
+            "name": "ftDemoResultMotionFilePopo",
+            "rootOffset": 0
+        }
+    ]
+}

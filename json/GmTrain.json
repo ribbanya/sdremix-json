@@ -1,0 +1,9 @@
+{
+    "sourceFile": "GmTrain.dat",
+    "nodes": [
+        {
+            "name": "ScGamTraining_scene_models",
+            "rootOffset": 73312
+        }
+    ]
+}

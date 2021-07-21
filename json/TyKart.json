@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyKart.dat",
+    "nodes": [
+        {
+            "name": "ToyKartModel_TopN_joint",
+            "rootOffset": 105800
+        }
+    ]
+}

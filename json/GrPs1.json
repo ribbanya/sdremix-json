@@ -1,0 +1,493 @@
+{
+    "sourceFile": "GrPs1.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 83740
+        },
+        {
+            "name": "GrdPSFireFGroundA_CMPR_image",
+            "rootOffset": 186784
+        },
+        {
+            "name": "GrdPSFireFGroundB_CMPR_image",
+            "rootOffset": 135584
+        },
+        {
+            "name": "GrdPSFireFloorA_CMPR_image",
+            "rootOffset": 242144
+        },
+        {
+            "name": "GrdPSFireFloorB_CMPR_image",
+            "rootOffset": 285280
+        },
+        {
+            "name": "GrdPSFireFloorC_CMPR_image",
+            "rootOffset": 114560
+        },
+        {
+            "name": "GrdPSFireFloorD_CMPR_image",
+            "rootOffset": 122752
+        },
+        {
+            "name": "GrdPSFireGFireA_C8_image",
+            "rootOffset": 110112
+        },
+        {
+            "name": "GrdPSFireGFireA_tlut",
+            "rootOffset": 114208
+        },
+        {
+            "name": "GrdPSFireGFireA_tlut_desc",
+            "rootOffset": 114528
+        },
+        {
+            "name": "GrdPSFireRenga_CMPR_image",
+            "rootOffset": 237984
+        },
+        {
+            "name": "GrdPSFireRoofA_CMPR_image",
+            "rootOffset": 283232
+        },
+        {
+            "name": "GrdPSFireRoofB_CMPR_image",
+            "rootOffset": 250336
+        },
+        {
+            "name": "GrdPSFireRoofC_CMPR_image",
+            "rootOffset": 283104
+        },
+        {
+            "name": "GrdPSFireStoneA_C4_image",
+            "rootOffset": 240032
+        },
+        {
+            "name": "GrdPSFireStoneA_tlut",
+            "rootOffset": 242080
+        },
+        {
+            "name": "GrdPSFireStoneA_tlut_desc",
+            "rootOffset": 242112
+        },
+        {
+            "name": "GrdPSFireTFireA_C8_image",
+            "rootOffset": 126848
+        },
+        {
+            "name": "GrdPSFireTFireA_tlut",
+            "rootOffset": 135040
+        },
+        {
+            "name": "GrdPSFireTFireA_tlut_desc",
+            "rootOffset": 135552
+        },
+        {
+            "name": "GrdPSFireTreeA_CMPR_image",
+            "rootOffset": 93728
+        },
+        {
+            "name": "GrdPSFireTreeB_CMPR_image",
+            "rootOffset": 101920
+        },
+        {
+            "name": "GrdPSFireTreeC_CMPR_image",
+            "rootOffset": 85536
+        },
+        {
+            "name": "GrdPSFireTreeD_CMPR_image",
+            "rootOffset": 301664
+        },
+        {
+            "name": "GrdPSFireTreeE_CMPR_image",
+            "rootOffset": 293472
+        },
+        {
+            "name": "GrdPSFireTreeF_CMPR_image",
+            "rootOffset": 289376
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 81560
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 83404
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 83624
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 1024
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 83628
+        },
+        {
+            "name": "GrdPStadiumBG_TopN_joint",
+            "rootOffset": 188
+        },
+        {
+            "name": "GrdPStadiumBG_TopN_matanim_joint_list",
+            "rootOffset": 196
+        },
+        {
+            "name": "GrdPStadiumField_Stage_Shadowmat1_mobjdesc",
+            "rootOffset": 848
+        },
+        {
+            "name": "GrdPStadiumField_Stage_Shadowmat2_mobjdesc",
+            "rootOffset": 852
+        },
+        {
+            "name": "GrdPStadiumField_TopN_joint",
+            "rootOffset": 240
+        },
+        {
+            "name": "GrdPStadiumField_TopN_matanim_joint_list",
+            "rootOffset": 248
+        },
+        {
+            "name": "GrdPStadiumGrass_SYaguraB_GShadowmat10_mobjdesc",
+            "rootOffset": 884
+        },
+        {
+            "name": "GrdPStadiumGrass_SyaguraA_GShadowmat11_mobjdesc",
+            "rootOffset": 888
+        },
+        {
+            "name": "GrdPStadiumGrass_TopN_joint",
+            "rootOffset": 344
+        },
+        {
+            "name": "GrdPStadiumGrass_TopN_matanim_joint_list",
+            "rootOffset": 352
+        },
+        {
+            "name": "GrdPStadiumGrass_TreeB_GShadowmat8_mobjdesc",
+            "rootOffset": 892
+        },
+        {
+            "name": "GrdPStadiumGrass_TreeB_GShadowmat9_mobjdesc",
+            "rootOffset": 896
+        },
+        {
+            "name": "GrdPStadiumGrass_UGround_GShadowmat12_mobjdesc",
+            "rootOffset": 900
+        },
+        {
+            "name": "GrdPStadiumGrass_UGround_GShadowmat13_mobjdesc",
+            "rootOffset": 904
+        },
+        {
+            "name": "GrdPStadiumGrass_UGround_GShadowmat14_mobjdesc",
+            "rootOffset": 908
+        },
+        {
+            "name": "GrdPStadiumGrass_UGround_GShadowmat15_mobjdesc",
+            "rootOffset": 912
+        },
+        {
+            "name": "GrdPStadiumGrass_UGround_GShadowmat16_mobjdesc",
+            "rootOffset": 916
+        },
+        {
+            "name": "GrdPStadiumNormal_AAStand_Shadowmat5_mobjdesc",
+            "rootOffset": 920
+        },
+        {
+            "name": "GrdPStadiumNormal_AAStand_Shadowmat6_mobjdesc",
+            "rootOffset": 924
+        },
+        {
+            "name": "GrdPStadiumNormal_AAStand_Shadowmat7_mobjdesc",
+            "rootOffset": 928
+        },
+        {
+            "name": "GrdPStadiumNormal_AAStand_Shadowmat8_mobjdesc",
+            "rootOffset": 932
+        },
+        {
+            "name": "GrdPStadiumNormal_TopN_Shadowmat10_mobjdesc",
+            "rootOffset": 936
+        },
+        {
+            "name": "GrdPStadiumNormal_TopN_Shadowmat9_mobjdesc",
+            "rootOffset": 940
+        },
+        {
+            "name": "GrdPStadiumNormal_TopN_joint",
+            "rootOffset": 396
+        },
+        {
+            "name": "GrdPStadiumNormal_TopN_matanim_joint_list",
+            "rootOffset": 404
+        },
+        {
+            "name": "GrdPStadiumRock_BStandA_RShadowmat2_mobjdesc",
+            "rootOffset": 944
+        },
+        {
+            "name": "GrdPStadiumRock_BStandB_RShadowmat6_mobjdesc",
+            "rootOffset": 948
+        },
+        {
+            "name": "GrdPStadiumRock_BStandB_RShadowmat7_mobjdesc",
+            "rootOffset": 952
+        },
+        {
+            "name": "GrdPStadiumRock_TopN_animjoint_list",
+            "rootOffset": 452
+        },
+        {
+            "name": "GrdPStadiumRock_TopN_joint",
+            "rootOffset": 448
+        },
+        {
+            "name": "GrdPStadiumRock_YRock_RShadowmat3_mobjdesc",
+            "rootOffset": 956
+        },
+        {
+            "name": "GrdPStadiumRock_ZGround_RShadowmat4_mobjdesc",
+            "rootOffset": 960
+        },
+        {
+            "name": "GrdPStadiumRock_ZGround_RShadowmat5_mobjdesc",
+            "rootOffset": 964
+        },
+        {
+            "name": "GrdPStadiumRock_ZGround_shadowmat1_mobjdesc",
+            "rootOffset": 968
+        },
+        {
+            "name": "GrdPStadiumWaterFunsuiA_TopN_animjoint_list",
+            "rootOffset": 504
+        },
+        {
+            "name": "GrdPStadiumWaterFunsuiA_TopN_joint",
+            "rootOffset": 500
+        },
+        {
+            "name": "GrdPStadiumWaterFunsuiA_TopN_matanim_joint_list",
+            "rootOffset": 508
+        },
+        {
+            "name": "GrdPStadiumWaterFunsuiB_TopN_animjoint_list",
+            "rootOffset": 556
+        },
+        {
+            "name": "GrdPStadiumWaterFunsuiB_TopN_joint",
+            "rootOffset": 552
+        },
+        {
+            "name": "GrdPStadiumWaterFunsuiB_TopN_matanim_joint_list",
+            "rootOffset": 560
+        },
+        {
+            "name": "GrdPStadiumWater_ABox_WShadowmat14_mobjdesc",
+            "rootOffset": 972
+        },
+        {
+            "name": "GrdPStadiumWater_BBox_WShadowmat15_mobjdesc",
+            "rootOffset": 976
+        },
+        {
+            "name": "GrdPStadiumWater_BStand_WShadowmat10_mobjdesc",
+            "rootOffset": 980
+        },
+        {
+            "name": "GrdPStadiumWater_BStand_WShadowmat8_mobjdesc",
+            "rootOffset": 984
+        },
+        {
+            "name": "GrdPStadiumWater_BStand_WShadowmat9_mobjdesc",
+            "rootOffset": 988
+        },
+        {
+            "name": "GrdPStadiumWater_CWing_WShadowmat3_mobjdesc",
+            "rootOffset": 992
+        },
+        {
+            "name": "GrdPStadiumWater_CWing_WShadowmat4_mobjdesc",
+            "rootOffset": 996
+        },
+        {
+            "name": "GrdPStadiumWater_CWing_WShadowmat5_mobjdesc",
+            "rootOffset": 1000
+        },
+        {
+            "name": "GrdPStadiumWater_CWing_WShadowmat6_mobjdesc",
+            "rootOffset": 1004
+        },
+        {
+            "name": "GrdPStadiumWater_CWing_WShadowmat7_mobjdesc",
+            "rootOffset": 1008
+        },
+        {
+            "name": "GrdPStadiumWater_TopN_joint",
+            "rootOffset": 604
+        },
+        {
+            "name": "GrdPStadiumWater_TopN_matanim_joint_list",
+            "rootOffset": 612
+        },
+        {
+            "name": "GrdPStadiumWater_YGround_WShadowmat11_mobjdesc",
+            "rootOffset": 1012
+        },
+        {
+            "name": "GrdPStadiumWater_YGround_WShadowmat12_mobjdesc",
+            "rootOffset": 1016
+        },
+        {
+            "name": "GrdPStadiumWater_YGround_WShadowmat13_mobjdesc",
+            "rootOffset": 1020
+        },
+        {
+            "name": "GrdPStadium_Grass_SEDUNIQUEgrass_ambient_light",
+            "rootOffset": 672
+        },
+        {
+            "name": "GrdPStadium_Grass_SEDUNIQUEgrass_cam_int1_camera",
+            "rootOffset": 360
+        },
+        {
+            "name": "GrdPStadium_Grass_SEDUNIQUEgrass_scene_lights",
+            "rootOffset": 368
+        },
+        {
+            "name": "GrdPStadium_Grass_inf_SEDUNIQUEgrass_light1_light",
+            "rootOffset": 680
+        },
+        {
+            "name": "GrdPStadium_Grass_inf_SEDUNIQUEgrass_light2_light",
+            "rootOffset": 688
+        },
+        {
+            "name": "GrdPStadium_Normal_SEDUNIQUEbg_ambient_light",
+            "rootOffset": 696
+        },
+        {
+            "name": "GrdPStadium_Normal_SEDUNIQUEbg_cam_int1_camera",
+            "rootOffset": 204
+        },
+        {
+            "name": "GrdPStadium_Normal_SEDUNIQUEbg_scene_lights",
+            "rootOffset": 212
+        },
+        {
+            "name": "GrdPStadium_Normal_SEDUNIQUEmap_ambient_light",
+            "rootOffset": 704
+        },
+        {
+            "name": "GrdPStadium_Normal_SEDUNIQUEmap_cam_int1_camera",
+            "rootOffset": 256
+        },
+        {
+            "name": "GrdPStadium_Normal_SEDUNIQUEmap_scene_lights",
+            "rootOffset": 264
+        },
+        {
+            "name": "GrdPStadium_Normal_SEDUNIQUEnormal_ambient_light",
+            "rootOffset": 712
+        },
+        {
+            "name": "GrdPStadium_Normal_SEDUNIQUEnormal_cam_int1_camera",
+            "rootOffset": 412
+        },
+        {
+            "name": "GrdPStadium_Normal_SEDUNIQUEnormal_scene_lights",
+            "rootOffset": 420
+        },
+        {
+            "name": "GrdPStadium_Normal_SpcDifPStadiumInfLight_SEDUNIQUEbg_light",
+            "rootOffset": 728
+        },
+        {
+            "name": "GrdPStadium_Normal_SpcDifPStadiumInfLight_SEDUNIQUEmap_light",
+            "rootOffset": 736
+        },
+        {
+            "name": "GrdPStadium_Normal_SpcDifPStadiumInfLight_SEDUNIQUEnormal_light",
+            "rootOffset": 744
+        },
+        {
+            "name": "GrdPStadium_Rock_SEDUNIQUErock_ambient_light",
+            "rootOffset": 760
+        },
+        {
+            "name": "GrdPStadium_Rock_SEDUNIQUErock_cam_int1_camera",
+            "rootOffset": 464
+        },
+        {
+            "name": "GrdPStadium_Rock_SEDUNIQUErock_scene_lights",
+            "rootOffset": 472
+        },
+        {
+            "name": "GrdPStadium_Rock_default_diffuse_SEDUNIQUErock_light",
+            "rootOffset": 768
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEfunsui_a_ambient_light",
+            "rootOffset": 776
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEfunsui_a_cam_int1_camera",
+            "rootOffset": 516
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEfunsui_a_scene_lights",
+            "rootOffset": 524
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEfunsui_b_ambient_light",
+            "rootOffset": 784
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEfunsui_b_cam_int1_camera",
+            "rootOffset": 568
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEfunsui_b_scene_lights",
+            "rootOffset": 576
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEwater_ambient_light",
+            "rootOffset": 792
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEwater_cam_int1_camera",
+            "rootOffset": 620
+        },
+        {
+            "name": "GrdPStadium_Water_SEDUNIQUEwater_scene_lights",
+            "rootOffset": 628
+        },
+        {
+            "name": "GrdPStadium_Water_default_diffuse_SEDUNIQUEfunsui_a_light",
+            "rootOffset": 800
+        },
+        {
+            "name": "GrdPStadium_Water_default_diffuse_SEDUNIQUEfunsui_b_light",
+            "rootOffset": 808
+        },
+        {
+            "name": "GrdPStadium_Water_default_diffuse_SEDUNIQUEwater_light",
+            "rootOffset": 816
+        },
+        {
+            "name": "ScPlyLightPStadium_DifPStadiumInfLight_playerlight",
+            "rootOffset": 824
+        },
+        {
+            "name": "ScPlyLightPStadium_SpcDifShadowPStadiumInfLight_playerlight",
+            "rootOffset": 832
+        },
+        {
+            "name": "ScPlyLightPStadium_ambient_playerlight",
+            "rootOffset": 840
+        }
+    ]
+}

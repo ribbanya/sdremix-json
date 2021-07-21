@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyMCapsu.dat",
+    "nodes": [
+        {
+            "name": "ToyMarioCapsuleModel_TopN_joint",
+            "rootOffset": 15176
+        }
+    ]
+}

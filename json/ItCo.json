@@ -1,0 +1,33 @@
+{
+    "sourceFile": "ItCo.dat",
+    "nodes": [
+        {
+            "name": "itPublicData",
+            "rootOffset": 16688
+        },
+        {
+            "name": "ItmCommonFFlower_TopN_ACTION_Close_shapeanim_joint",
+            "rootOffset": 14584
+        },
+        {
+            "name": "ItmCommonFFlower_TopN_ACTION_Loop_shapeanim_joint",
+            "rootOffset": 14568
+        },
+        {
+            "name": "ItmCommonFFlower_TopN_ACTION_Open_shapeanim_joint",
+            "rootOffset": 14552
+        },
+        {
+            "name": "ItmCommonFFlower_TopN_ACTION_Wait_shapeanim_joint",
+            "rootOffset": 14536
+        },
+        {
+            "name": "ItmCommonSword_TopN_matanim_joint",
+            "rootOffset": 13540
+        },
+        {
+            "name": "ItmCommonSword_TopN_shapeanim_joint",
+            "rootOffset": 13544
+        }
+    ]
+}

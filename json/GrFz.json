@@ -1,0 +1,129 @@
+{
+    "sourceFile": "GrFz.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 293220
+        },
+        {
+            "name": "GrdFlatzoneAclmark_IA4_image",
+            "rootOffset": 440896
+        },
+        {
+            "name": "GrdFlatzoneAlarmmark_IA4_image",
+            "rootOffset": 439744
+        },
+        {
+            "name": "GrdFlatzoneGameamark_IA4_image",
+            "rootOffset": 435648
+        },
+        {
+            "name": "GrdFlatzoneGamebmark_IA4_image",
+            "rootOffset": 431552
+        },
+        {
+            "name": "GrdFlatzoneGamewatchmark_C8_image",
+            "rootOffset": 399328
+        },
+        {
+            "name": "GrdFlatzoneGamewatchmark_tlut",
+            "rootOffset": 413152
+        },
+        {
+            "name": "GrdFlatzoneGamewatchmark_tlut_desc",
+            "rootOffset": 413344
+        },
+        {
+            "name": "GrdFlatzoneLeftmark_IA4_image",
+            "rootOffset": 447808
+        },
+        {
+            "name": "GrdFlatzoneRightmark_IA4_image",
+            "rootOffset": 442432
+        },
+        {
+            "name": "GrdFlatzoneSbmark_IA4_image",
+            "rootOffset": 413376
+        },
+        {
+            "name": "GrdFlatzoneScreen_CMPR_image",
+            "rootOffset": 453184
+        },
+        {
+            "name": "GrdFlatzoneTimemark_IA4_image",
+            "rootOffset": 430656
+        },
+        {
+            "name": "GrdFlatzoonMetal0_CMPR_image",
+            "rootOffset": 301024
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 292256
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 292900
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 293120
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 992
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 299776
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 470536
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 293128
+        },
+        {
+            "name": "GrdFlatzoneHelmet_TopN_ACTION_Backet_matanim_joint",
+            "rootOffset": 299540
+        },
+        {
+            "name": "GrdFlatzoneHelmet_TopN_ACTION_Backet_shapeanim_joint",
+            "rootOffset": 299544
+        },
+        {
+            "name": "GrdFlatzoneHelmet_TopN_ACTION_Driver_matanim_joint",
+            "rootOffset": 299492
+        },
+        {
+            "name": "GrdFlatzoneHelmet_TopN_ACTION_Driver_shapeanim_joint",
+            "rootOffset": 299496
+        },
+        {
+            "name": "GrdFlatzoneHelmet_TopN_ACTION_Hammer_matanim_joint",
+            "rootOffset": 299508
+        },
+        {
+            "name": "GrdFlatzoneHelmet_TopN_ACTION_Hammer_shapeanim_joint",
+            "rootOffset": 299512
+        },
+        {
+            "name": "GrdFlatzoneHelmet_TopN_ACTION_Pinchers_matanim_joint",
+            "rootOffset": 299524
+        },
+        {
+            "name": "GrdFlatzoneHelmet_TopN_ACTION_Pinchers_shapeanim_joint",
+            "rootOffset": 299528
+        },
+        {
+            "name": "GrdFlatzoneHelmet_TopN_ACTION_Spanner_matanim_joint",
+            "rootOffset": 299556
+        },
+        {
+            "name": "GrdFlatzoneHelmet_TopN_ACTION_Spanner_shapeanim_joint",
+            "rootOffset": 299560
+        }
+    ]
+}

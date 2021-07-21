@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlLgWh.dat",
+    "nodes": [
+        {
+            "name": "PlyLuigi5KWh_Share_joint",
+            "rootOffset": 104752
+        },
+        {
+            "name": "PlyLuigi5KWh_Share_matanim_joint",
+            "rootOffset": 293776
+        }
+    ]
+}

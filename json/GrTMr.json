@@ -1,0 +1,97 @@
+{
+    "sourceFile": "GrTMr.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 281608
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 363200
+        },
+        {
+            "name": "GrdTargetMario00_CMPR_image",
+            "rootOffset": 311840
+        },
+        {
+            "name": "GrdTargetMario01_CMPR_image",
+            "rootOffset": 309792
+        },
+        {
+            "name": "GrdTargetMario02_CMPR_image",
+            "rootOffset": 320032
+        },
+        {
+            "name": "GrdTargetMario03_CMPR_image",
+            "rootOffset": 285216
+        },
+        {
+            "name": "GrdTargetMario04_CMPR_image",
+            "rootOffset": 293408
+        },
+        {
+            "name": "GrdTargetMario05_CMPR_image",
+            "rootOffset": 301600
+        },
+        {
+            "name": "GrdTargetMario06_CMPR_image",
+            "rootOffset": 355008
+        },
+        {
+            "name": "GrdTargetMario07_CMPR_image",
+            "rootOffset": 346816
+        },
+        {
+            "name": "GrdTargetMario08_I4_image",
+            "rootOffset": 328224
+        },
+        {
+            "name": "GrdTargetMarioSea0_C8_image",
+            "rootOffset": 330272
+        },
+        {
+            "name": "GrdTargetMarioSea0_tlut",
+            "rootOffset": 346656
+        },
+        {
+            "name": "GrdTargetMarioSea0_tlut_desc",
+            "rootOffset": 346784
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 246460
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 281348
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 281568
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 516
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 284512
+        },
+        {
+            "name": "map_ptcl",
+            "rootOffset": 246528
+        },
+        {
+            "name": "map_texg",
+            "rootOffset": 247264
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 366216
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 281576
+        }
+    ]
+}

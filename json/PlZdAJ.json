@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlZdAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Wait1",
+            "name": "PlyZelda5K_Share_ACTION_Wait1_figatree",
+            "rootOffset": 6752,
+            "data": {
+                "numFrames": 130.0,
+                "boneTableOffset": 6632,
+                "animDataOffset": 4148
+            }
+        }
+    ]
+}

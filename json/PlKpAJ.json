@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlKpAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Wait1",
+            "name": "PlyKoopa5K_Share_ACTION_Wait1_figatree",
+            "rootOffset": 9116,
+            "data": {
+                "numFrames": 200.0,
+                "boneTableOffset": 9036,
+                "animDataOffset": 7212
+            }
+        }
+    ]
+}

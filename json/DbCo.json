@@ -1,0 +1,9 @@
+{
+    "sourceFile": "DbCo.dat",
+    "nodes": [
+        {
+            "name": "dbLoadCommonData",
+            "rootOffset": 11860
+        }
+    ]
+}

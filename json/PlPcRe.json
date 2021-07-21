@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlPcRe.dat",
+    "nodes": [
+        {
+            "name": "PlyPichu5KRe_Share_joint",
+            "rootOffset": 81648
+        },
+        {
+            "name": "PlyPichu5KRe_Share_matanim_joint",
+            "rootOffset": 153072
+        }
+    ]
+}

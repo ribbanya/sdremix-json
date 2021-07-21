@@ -1,0 +1,73 @@
+{
+    "sourceFile": "TyMnView.dat",
+    "nodes": [
+        {
+            "name": "ScMenFigure_cam_int1_camera",
+            "rootOffset": 76160
+        },
+        {
+            "name": "ScMenFigure_scene_lights",
+            "rootOffset": 76488
+        },
+        {
+            "name": "ToyFigureBack_Top_animjoint",
+            "rootOffset": 74548
+        },
+        {
+            "name": "ToyFigureBack_Top_joint",
+            "rootOffset": 68648
+        },
+        {
+            "name": "ToyFigureBack_Top_matanim_joint",
+            "rootOffset": 75896
+        },
+        {
+            "name": "ToyFigureListBase_Top_joint",
+            "rootOffset": 63848
+        },
+        {
+            "name": "ToyFigureListBase_Top_matanim_joint",
+            "rootOffset": 65160
+        },
+        {
+            "name": "ToyFigureListBaseend_Top_joint",
+            "rootOffset": 62920
+        },
+        {
+            "name": "ToyFigureListCursor_Top_joint",
+            "rootOffset": 61960
+        },
+        {
+            "name": "ToyFigureListMarkF_Top_joint",
+            "rootOffset": 61256
+        },
+        {
+            "name": "ToyFigureListMarkG_Top_joint",
+            "rootOffset": 59752
+        },
+        {
+            "name": "ToyFigureListMarkN_Top_joint",
+            "rootOffset": 58856
+        },
+        {
+            "name": "ToyFigurePanel_Top_animjoint",
+            "rootOffset": 53224
+        },
+        {
+            "name": "ToyFigurePanel_Top_joint",
+            "rootOffset": 8040
+        },
+        {
+            "name": "ToyFigurePanel_Top_matanim_joint",
+            "rootOffset": 55096
+        },
+        {
+            "name": "ToyFigurePanel_listpos01_joint",
+            "rootOffset": 9384
+        },
+        {
+            "name": "ToyFigurePanel_listpos02_joint",
+            "rootOffset": 9448
+        }
+    ]
+}

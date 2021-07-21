@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlMtGr.dat",
+    "nodes": [
+        {
+            "name": "PlyMewtwo5KGr_Share_joint",
+            "rootOffset": 96560
+        },
+        {
+            "name": "PlyMewtwo5KGr_Share_matanim_joint",
+            "rootOffset": 192744
+        }
+    ]
+}

@@ -1,0 +1,421 @@
+{
+    "sourceFile": "GrGb.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 485184
+        },
+        {
+            "name": "GrdGreatbayBeach1_CMPR_image",
+            "rootOffset": 721408
+        },
+        {
+            "name": "GrdGreatbayDoor1_CMPR_image",
+            "rootOffset": 659968
+        },
+        {
+            "name": "GrdGreatbayEye1_CMPR_image",
+            "rootOffset": 801216
+        },
+        {
+            "name": "GrdGreatbayEye2_CMPR_image",
+            "rootOffset": 812800
+        },
+        {
+            "name": "GrdGreatbayEye3_CMPR_image",
+            "rootOffset": 814848
+        },
+        {
+            "name": "GrdGreatbayFace1_CMPR_image",
+            "rootOffset": 807488
+        },
+        {
+            "name": "GrdGreatbayFloor1_CMPR_image",
+            "rootOffset": 593664
+        },
+        {
+            "name": "GrdGreatbayFloor1b_CMPR_image",
+            "rootOffset": 601856
+        },
+        {
+            "name": "GrdGreatbayFloor1c_CMPR_image",
+            "rootOffset": 610048
+        },
+        {
+            "name": "GrdGreatbayFloor2_CMPR_image",
+            "rootOffset": 599808
+        },
+        {
+            "name": "GrdGreatbayFloor2b_CMPR_image",
+            "rootOffset": 597760
+        },
+        {
+            "name": "GrdGreatbayFloor3_CMPR_image",
+            "rootOffset": 605952
+        },
+        {
+            "name": "GrdGreatbayFookRif1_CMPR_image",
+            "rootOffset": 659456
+        },
+        {
+            "name": "GrdGreatbayFukurou1_CMPR_image",
+            "rootOffset": 631552
+        },
+        {
+            "name": "GrdGreatbayFukurou2_CMPR_image",
+            "rootOffset": 636672
+        },
+        {
+            "name": "GrdGreatbayFukurou3_CMPR_image",
+            "rootOffset": 629504
+        },
+        {
+            "name": "GrdGreatbayFukurou4_CMPR_image",
+            "rootOffset": 635648
+        },
+        {
+            "name": "GrdGreatbayHaguruma1_CMPR_image",
+            "rootOffset": 647168
+        },
+        {
+            "name": "GrdGreatbayHill1_CMPR_image",
+            "rootOffset": 737792
+        },
+        {
+            "name": "GrdGreatbayHill2_CMPR_image",
+            "rootOffset": 739840
+        },
+        {
+            "name": "GrdGreatbayHouse1_CMPR_image",
+            "rootOffset": 778880
+        },
+        {
+            "name": "GrdGreatbayHouse2_CMPR_image",
+            "rootOffset": 779008
+        },
+        {
+            "name": "GrdGreatbayKameyasi1_C4_image",
+            "rootOffset": 810688
+        },
+        {
+            "name": "GrdGreatbayKameyasi1_tlut",
+            "rootOffset": 812736
+        },
+        {
+            "name": "GrdGreatbayKameyasi1_tlut_desc",
+            "rootOffset": 812768
+        },
+        {
+            "name": "GrdGreatbayKamome1_CMPR_image",
+            "rootOffset": 589568
+        },
+        {
+            "name": "GrdGreatbayKamome2_CMPR_image",
+            "rootOffset": 591616
+        },
+        {
+            "name": "GrdGreatbayKamome3_CMPR_image",
+            "rootOffset": 584960
+        },
+        {
+            "name": "GrdGreatbayKamome4_CMPR_image",
+            "rootOffset": 589056
+        },
+        {
+            "name": "GrdGreatbayKanban1_CMPR_image",
+            "rootOffset": 642048
+        },
+        {
+            "name": "GrdGreatbayKanban1b_CMPR_image",
+            "rootOffset": 641024
+        },
+        {
+            "name": "GrdGreatbayKanban2_CMPR_image",
+            "rootOffset": 640768
+        },
+        {
+            "name": "GrdGreatbayKora1_CMPR_image",
+            "rootOffset": 790336
+        },
+        {
+            "name": "GrdGreatbayKora1sp_CMPR_image",
+            "rootOffset": 794432
+        },
+        {
+            "name": "GrdGreatbayKora2_C4_image",
+            "rootOffset": 798528
+        },
+        {
+            "name": "GrdGreatbayKora2_tlut",
+            "rootOffset": 799040
+        },
+        {
+            "name": "GrdGreatbayKora2_tlut_desc",
+            "rootOffset": 799072
+        },
+        {
+            "name": "GrdGreatbayKora3_CMPR_image",
+            "rootOffset": 786240
+        },
+        {
+            "name": "GrdGreatbayKora3sp_CMPR_image",
+            "rootOffset": 788288
+        },
+        {
+            "name": "GrdGreatbayKorakusa_C4_image",
+            "rootOffset": 799104
+        },
+        {
+            "name": "GrdGreatbayKorakusa_tlut",
+            "rootOffset": 801152
+        },
+        {
+            "name": "GrdGreatbayKorakusa_tlut_desc",
+            "rootOffset": 801184
+        },
+        {
+            "name": "GrdGreatbayKuchi1_CMPR_image",
+            "rootOffset": 809536
+        },
+        {
+            "name": "GrdGreatbayLabwall1_CMPR_image",
+            "rootOffset": 643072
+        },
+        {
+            "name": "GrdGreatbayLabwall1i_I4_image",
+            "rootOffset": 664064
+        },
+        {
+            "name": "GrdGreatbayMiken_CMPR_image",
+            "rootOffset": 807360
+        },
+        {
+            "name": "GrdGreatbayMoon1_CMPR_image",
+            "rootOffset": 820480
+        },
+        {
+            "name": "GrdGreatbayMoon2_CMPR_image",
+            "rootOffset": 818432
+        },
+        {
+            "name": "GrdGreatbayMoon3_CMPR_image",
+            "rootOffset": 817408
+        },
+        {
+            "name": "GrdGreatbayMoon4_CMPR_image",
+            "rootOffset": 816896
+        },
+        {
+            "name": "GrdGreatbayMouth_CMPR_image",
+            "rootOffset": 810176
+        },
+        {
+            "name": "GrdGreatbayMt1_CMPR_image",
+            "rootOffset": 782144
+        },
+        {
+            "name": "GrdGreatbayMt2_CMPR_image",
+            "rootOffset": 619264
+        },
+        {
+            "name": "GrdGreatbayMt3_CMPR_image",
+            "rootOffset": 702976
+        },
+        {
+            "name": "GrdGreatbayNodo_CMPR_image",
+            "rootOffset": 810048
+        },
+        {
+            "name": "GrdGreatbayOnaka_CMPR_image",
+            "rootOffset": 810432
+        },
+        {
+            "name": "GrdGreatbayParasol1_CMPR_image",
+            "rootOffset": 779520
+        },
+        {
+            "name": "GrdGreatbayRock1_CMPR_image",
+            "rootOffset": 621312
+        },
+        {
+            "name": "GrdGreatbayRock2_CMPR_image",
+            "rootOffset": 743936
+        },
+        {
+            "name": "GrdGreatbayRock3_CMPR_image",
+            "rootOffset": 741888
+        },
+        {
+            "name": "GrdGreatbaySean1_CMPR_image",
+            "rootOffset": 713216
+        },
+        {
+            "name": "GrdGreatbaySean2_CMPR_image",
+            "rootOffset": 705024
+        },
+        {
+            "name": "GrdGreatbaySkin1_CMPR_image",
+            "rootOffset": 803264
+        },
+        {
+            "name": "GrdGreatbaySky1_CMPR_image",
+            "rootOffset": 745984
+        },
+        {
+            "name": "GrdGreatbaySky1b_CMPR_image",
+            "rootOffset": 778752
+        },
+        {
+            "name": "GrdGreatbayTubo1_CMPR_image",
+            "rootOffset": 615168
+        },
+        {
+            "name": "GrdGreatbayWall1_CMPR_image",
+            "rootOffset": 784192
+        },
+        {
+            "name": "GrdGreatbayWindow1_CMPR_image",
+            "rootOffset": 668160
+        },
+        {
+            "name": "GrdGreatbayWindow3_CMPR_image",
+            "rootOffset": 700928
+        },
+        {
+            "name": "GrdGreatbayWindw2_CMPR_image",
+            "rootOffset": 614144
+        },
+        {
+            "name": "GrdGreatbayWindw3_CMPR_image",
+            "rootOffset": 655360
+        },
+        {
+            "name": "GrdGreatbayYasi1_C4_image",
+            "rootOffset": 780032
+        },
+        {
+            "name": "GrdGreatbayYasi1_tlut",
+            "rootOffset": 781056
+        },
+        {
+            "name": "GrdGreatbayYasi1_tlut_desc",
+            "rootOffset": 781088
+        },
+        {
+            "name": "GrdGreatbayYasi2_CMPR_image",
+            "rootOffset": 781120
+        },
+        {
+            "name": "GrdGreatbayYuka1_CMPR_image",
+            "rootOffset": 657408
+        },
+        {
+            "name": "GrdGreatbaykya_foot_CI00_CMPR_image",
+            "rootOffset": 829824
+        },
+        {
+            "name": "GrdGreatbaykya_grade_CI00_CMPR_image",
+            "rootOffset": 824096
+        },
+        {
+            "name": "GrdGreatbaykya_hair_CI01_C8_image",
+            "rootOffset": 824224
+        },
+        {
+            "name": "GrdGreatbaykya_hair_CI01_tlut",
+            "rootOffset": 825248
+        },
+        {
+            "name": "GrdGreatbaykya_hair_CI01_tlut_desc",
+            "rootOffset": 825760
+        },
+        {
+            "name": "GrdGreatbaykya_hand_CIO1_C8_image",
+            "rootOffset": 822528
+        },
+        {
+            "name": "GrdGreatbaykya_hand_CIO1_tlut",
+            "rootOffset": 823552
+        },
+        {
+            "name": "GrdGreatbaykya_hand_CIO1_tlut_desc",
+            "rootOffset": 824064
+        },
+        {
+            "name": "GrdGreatbaykya_hige_CI00_C8_image",
+            "rootOffset": 828512
+        },
+        {
+            "name": "GrdGreatbaykya_hige_CI00_tlut",
+            "rootOffset": 829024
+        },
+        {
+            "name": "GrdGreatbaykya_hige_CI00_tlut_desc",
+            "rootOffset": 829536
+        },
+        {
+            "name": "GrdGreatbaykya_kao01_CI00_TA_CMPR_image",
+            "rootOffset": 825792
+        },
+        {
+            "name": "GrdGreatbaykya_legtoface_CI00_CMPR_image",
+            "rootOffset": 826816
+        },
+        {
+            "name": "GrdGreatbaykya_lowerleg_CI00_CMPR_image",
+            "rootOffset": 829696
+        },
+        {
+            "name": "GrdGreatbaykya_upperleg_CI00_CMPR_image",
+            "rootOffset": 829568
+        },
+        {
+            "name": "GrdGreatbaykya_upperleg_CI01_C8_image",
+            "rootOffset": 826944
+        },
+        {
+            "name": "GrdGreatbaykya_upperleg_CI01_tlut",
+            "rootOffset": 827968
+        },
+        {
+            "name": "GrdGreatbaykya_upperleg_CI01_tlut_desc",
+            "rootOffset": 828480
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 441012
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 484736
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 484956
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 956
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 583484
+        },
+        {
+            "name": "map_ptcl",
+            "rootOffset": 441056
+        },
+        {
+            "name": "map_texg",
+            "rootOffset": 442400
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 830920
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 484964
+        }
+    ]
+}

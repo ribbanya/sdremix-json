@@ -1,0 +1,13 @@
+{
+    "sourceFile": "Vi1201v2.dat",
+    "nodes": [
+        {
+            "name": "ftDemoVi1201V2MotionFileGkoopa",
+            "rootOffset": 326400
+        },
+        {
+            "name": "visual1201v2Scene",
+            "rootOffset": 326384
+        }
+    ]
+}

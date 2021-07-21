@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlZdGr.dat",
+    "nodes": [
+        {
+            "name": "PlyZelda5KGr_Share_joint",
+            "rootOffset": 108784
+        },
+        {
+            "name": "PlyZelda5KGr_Share_matanim_joint",
+            "rootOffset": 271384
+        }
+    ]
+}

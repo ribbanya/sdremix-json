@@ -1,0 +1,145 @@
+{
+    "sourceFile": "GrHr.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 119904
+        },
+        {
+            "name": "GrdCorneriaGsteel1_CMPR_image",
+            "rootOffset": 288672
+        },
+        {
+            "name": "GrdCorneriaMainplanes1b_CMPR_image",
+            "rootOffset": 282528
+        },
+        {
+            "name": "GrdCorneriaNozzle55_CMPR_image",
+            "rootOffset": 266144
+        },
+        {
+            "name": "GrdHomerunBillTen_CMPR_image",
+            "rootOffset": 157728
+        },
+        {
+            "name": "GrdHomerunGdngrs22_CMPR_image",
+            "rootOffset": 600992
+        },
+        {
+            "name": "GrdHomerunLine_RGBA8_image",
+            "rootOffset": 371616
+        },
+        {
+            "name": "GrdHomerunRGdngrs2_RGBA8_image",
+            "rootOffset": 297888
+        },
+        {
+            "name": "GrdHomerunRGdngrs_CMPR_image",
+            "rootOffset": 363424
+        },
+        {
+            "name": "GrdHomerunSky1_CMPR_image",
+            "rootOffset": 502688
+        },
+        {
+            "name": "GrdHomerunSky1b_CMPR_image",
+            "rootOffset": 469920
+        },
+        {
+            "name": "GrdHomerunSky1c_CMPR_image",
+            "rootOffset": 437152
+        },
+        {
+            "name": "GrdHomerunSteel_IA8_image",
+            "rootOffset": 233376
+        },
+        {
+            "name": "GrdHomerunTileA_CMPR_image",
+            "rootOffset": 124960
+        },
+        {
+            "name": "GrdHomerunTiles_CMPR_image",
+            "rootOffset": 613280
+        },
+        {
+            "name": "GrdHomerunTilesb_CMPR_image",
+            "rootOffset": 609184
+        },
+        {
+            "name": "GrdHomerunTilesc_CMPR_image",
+            "rootOffset": 617376
+        },
+        {
+            "name": "GrdKinokoRGdngrs_CMPR_image",
+            "rootOffset": 289696
+        },
+        {
+            "name": "GrdPStadiumFenceB_I4_image",
+            "rootOffset": 286624
+        },
+        {
+            "name": "GrdPStadiumLSteel_I4_image",
+            "rootOffset": 120864
+        },
+        {
+            "name": "GrdPStadiumSeatA_CMPR_image",
+            "rootOffset": 186400
+        },
+        {
+            "name": "GrdPStadiumStairs_I4_image",
+            "rootOffset": 200224
+        },
+        {
+            "name": "GrdPStadiumSteelB_I4_image",
+            "rootOffset": 200608
+        },
+        {
+            "name": "GrdPStadiumWallA_I8_image",
+            "rootOffset": 174112
+        },
+        {
+            "name": "GrdPStadiumWallC_CMPR_image",
+            "rootOffset": 165920
+        },
+        {
+            "name": "GrdPStadiumWallD_CMPR_image",
+            "rootOffset": 182304
+        },
+        {
+            "name": "GrdYorsterkusaQ_RGB5A3_image",
+            "rootOffset": 535456
+        },
+        {
+            "name": "SIS_GrHomerunData",
+            "rootOffset": 621472
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 119504
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 119648
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 119868
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 888
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 120012
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 770600
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 119872
+        }
+    ]
+}

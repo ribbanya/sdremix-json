@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlSbAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Wait",
+            "name": "PlySandbag_Share_ACTION_Wait_figatree",
+            "rootOffset": 2012,
+            "data": {
+                "numFrames": 90.0,
+                "boneTableOffset": 1956,
+                "animDataOffset": 828
+            }
+        }
+    ]
+}

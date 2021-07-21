@@ -1,0 +1,33 @@
+{
+    "sourceFile": "TyMnInfo.dat",
+    "nodes": [
+        {
+            "name": "ToyCameraInfoBoad_sobjdesc",
+            "rootOffset": 8440
+        },
+        {
+            "name": "ToyCameraInfoButton_sobjdesc",
+            "rootOffset": 18296
+        },
+        {
+            "name": "ToyCameraInfoL_sobjdesc",
+            "rootOffset": 20632
+        },
+        {
+            "name": "ToyCameraInfoNext_sobjdesc",
+            "rootOffset": 9688
+        },
+        {
+            "name": "ToyCameraInfoPrev_sobjdesc",
+            "rootOffset": 10936
+        },
+        {
+            "name": "ToyCameraInfoR_sobjdesc",
+            "rootOffset": 20152
+        },
+        {
+            "name": "ToyCameraInfoReturn_sobjdesc",
+            "rootOffset": 19672
+        }
+    ]
+}

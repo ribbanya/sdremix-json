@@ -1,0 +1,9 @@
+{
+    "sourceFile": "SdSlChr.dat",
+    "nodes": [
+        {
+            "name": "SIS_SelCharData",
+            "rootOffset": 0
+        }
+    ]
+}

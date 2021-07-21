@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlMtAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Wait1",
+            "name": "PlyMewtwo5K_Share_ACTION_Wait1_figatree",
+            "rootOffset": 6716,
+            "data": {
+                "numFrames": 200.0,
+                "boneTableOffset": 6644,
+                "animDataOffset": 5012
+            }
+        }
+    ]
+}

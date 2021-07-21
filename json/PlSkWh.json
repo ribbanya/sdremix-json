@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlSkWh.dat",
+    "nodes": [
+        {
+            "name": "PlySeak5KWh_Share_joint",
+            "rootOffset": 110024
+        },
+        {
+            "name": "PlySeak5KWh_Share_matanim_joint",
+            "rootOffset": 276272
+        }
+    ]
+}

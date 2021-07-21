@@ -1,0 +1,61 @@
+{
+    "sourceFile": "GrTMs.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 115008
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 128928
+        },
+        {
+            "name": "GrdTargetMarsFloorA_CMPR_image",
+            "rootOffset": 124832
+        },
+        {
+            "name": "GrdTargetMarsFloorB_CMPR_image",
+            "rootOffset": 120736
+        },
+        {
+            "name": "GrdTargetMarsFloorC_CMPR_image",
+            "rootOffset": 126880
+        },
+        {
+            "name": "GrdTargetMarsFloorD_CMPR_image",
+            "rootOffset": 118688
+        },
+        {
+            "name": "GrdTargetMarsWallA_CMPR_image",
+            "rootOffset": 122784
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 114604
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 114748
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 114968
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 412
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 117920
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 131944
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 114976
+        }
+    ]
+}

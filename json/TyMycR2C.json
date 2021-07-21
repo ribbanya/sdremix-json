@@ -1,0 +1,13 @@
+{
+    "sourceFile": "TyMycR2C.dat",
+    "nodes": [
+        {
+            "name": "ToyDspMycharaR2C_Top_joint",
+            "rootOffset": 392
+        },
+        {
+            "name": "ToyDspMycharaR2C_Top_matanim_joint",
+            "rootOffset": 11496
+        }
+    ]
+}

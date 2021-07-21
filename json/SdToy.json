@@ -1,0 +1,9 @@
+{
+    "sourceFile": "SdToy.dat",
+    "nodes": [
+        {
+            "name": "SIS_ToyData",
+            "rootOffset": 0
+        }
+    ]
+}

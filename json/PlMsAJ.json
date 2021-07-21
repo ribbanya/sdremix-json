@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlMsAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Wait1",
+            "name": "PlyMars5K_Share_ACTION_Wait1_figatree",
+            "rootOffset": 4452,
+            "data": {
+                "numFrames": 90.0,
+                "boneTableOffset": 4360,
+                "animDataOffset": 2620
+            }
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "sourceFile": "MnSlChr.dat",
+    "nodes": [
+        {
+            "name": "MnSelectChrDataTable",
+            "rootOffset": 0
+        }
+    ]
+}

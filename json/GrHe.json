@@ -1,0 +1,493 @@
+{
+    "sourceFile": "GrHe.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 68632
+        },
+        {
+            "name": "GrdHealFigureCa_C8_image",
+            "rootOffset": 212352
+        },
+        {
+            "name": "GrdHealFigureCa_tlut",
+            "rootOffset": 228736
+        },
+        {
+            "name": "GrdHealFigureCa_tlut_desc",
+            "rootOffset": 229248
+        },
+        {
+            "name": "GrdHealFigureCl_C8_image",
+            "rootOffset": 231328
+        },
+        {
+            "name": "GrdHealFigureCl_tlut",
+            "rootOffset": 624544
+        },
+        {
+            "name": "GrdHealFigureCl_tlut_desc",
+            "rootOffset": 625056
+        },
+        {
+            "name": "GrdHealFigureDai_CMPR_image",
+            "rootOffset": 229280
+        },
+        {
+            "name": "GrdHealFigureDk_C8_image",
+            "rootOffset": 247712
+        },
+        {
+            "name": "GrdHealFigureDk_tlut",
+            "rootOffset": 625088
+        },
+        {
+            "name": "GrdHealFigureDk_tlut_desc",
+            "rootOffset": 625600
+        },
+        {
+            "name": "GrdHealFigureDr_C8_image",
+            "rootOffset": 264096
+        },
+        {
+            "name": "GrdHealFigureDr_tlut",
+            "rootOffset": 625632
+        },
+        {
+            "name": "GrdHealFigureDr_tlut_desc",
+            "rootOffset": 626144
+        },
+        {
+            "name": "GrdHealFigureFc_C8_image",
+            "rootOffset": 280480
+        },
+        {
+            "name": "GrdHealFigureFc_tlut",
+            "rootOffset": 626176
+        },
+        {
+            "name": "GrdHealFigureFc_tlut_desc",
+            "rootOffset": 626688
+        },
+        {
+            "name": "GrdHealFigureFe_C8_image",
+            "rootOffset": 608160
+        },
+        {
+            "name": "GrdHealFigureFe_tlut",
+            "rootOffset": 637056
+        },
+        {
+            "name": "GrdHealFigureFe_tlut_desc",
+            "rootOffset": 637568
+        },
+        {
+            "name": "GrdHealFigureFx_C8_image",
+            "rootOffset": 296864
+        },
+        {
+            "name": "GrdHealFigureFx_tlut",
+            "rootOffset": 626720
+        },
+        {
+            "name": "GrdHealFigureFx_tlut_desc",
+            "rootOffset": 627232
+        },
+        {
+            "name": "GrdHealFigureGn_C8_image",
+            "rootOffset": 313248
+        },
+        {
+            "name": "GrdHealFigureGn_tlut",
+            "rootOffset": 627264
+        },
+        {
+            "name": "GrdHealFigureGn_tlut_desc",
+            "rootOffset": 627776
+        },
+        {
+            "name": "GrdHealFigureGw_C8_image",
+            "rootOffset": 329632
+        },
+        {
+            "name": "GrdHealFigureGw_tlut",
+            "rootOffset": 627808
+        },
+        {
+            "name": "GrdHealFigureGw_tlut_desc",
+            "rootOffset": 628320
+        },
+        {
+            "name": "GrdHealFigureIc_C8_image",
+            "rootOffset": 346016
+        },
+        {
+            "name": "GrdHealFigureIc_tlut",
+            "rootOffset": 628352
+        },
+        {
+            "name": "GrdHealFigureIc_tlut_desc",
+            "rootOffset": 628864
+        },
+        {
+            "name": "GrdHealFigureKb_C8_image",
+            "rootOffset": 362400
+        },
+        {
+            "name": "GrdHealFigureKb_tlut",
+            "rootOffset": 628896
+        },
+        {
+            "name": "GrdHealFigureKb_tlut_desc",
+            "rootOffset": 629408
+        },
+        {
+            "name": "GrdHealFigureKp_C8_image",
+            "rootOffset": 378784
+        },
+        {
+            "name": "GrdHealFigureKp_tlut",
+            "rootOffset": 629440
+        },
+        {
+            "name": "GrdHealFigureKp_tlut_desc",
+            "rootOffset": 629952
+        },
+        {
+            "name": "GrdHealFigureLg_C8_image",
+            "rootOffset": 395168
+        },
+        {
+            "name": "GrdHealFigureLg_tlut",
+            "rootOffset": 629984
+        },
+        {
+            "name": "GrdHealFigureLg_tlut_desc",
+            "rootOffset": 630496
+        },
+        {
+            "name": "GrdHealFigureLk_C8_image",
+            "rootOffset": 411552
+        },
+        {
+            "name": "GrdHealFigureLk_tlut",
+            "rootOffset": 630528
+        },
+        {
+            "name": "GrdHealFigureLk_tlut_desc",
+            "rootOffset": 631040
+        },
+        {
+            "name": "GrdHealFigureMr_C8_image",
+            "rootOffset": 427936
+        },
+        {
+            "name": "GrdHealFigureMr_tlut",
+            "rootOffset": 631072
+        },
+        {
+            "name": "GrdHealFigureMr_tlut_desc",
+            "rootOffset": 631584
+        },
+        {
+            "name": "GrdHealFigureMs_C8_image",
+            "rootOffset": 444320
+        },
+        {
+            "name": "GrdHealFigureMs_tlut",
+            "rootOffset": 631616
+        },
+        {
+            "name": "GrdHealFigureMs_tlut_desc",
+            "rootOffset": 632128
+        },
+        {
+            "name": "GrdHealFigureMt_C8_image",
+            "rootOffset": 460704
+        },
+        {
+            "name": "GrdHealFigureMt_tlut",
+            "rootOffset": 632160
+        },
+        {
+            "name": "GrdHealFigureMt_tlut_desc",
+            "rootOffset": 632672
+        },
+        {
+            "name": "GrdHealFigureNs_C8_image",
+            "rootOffset": 477088
+        },
+        {
+            "name": "GrdHealFigureNs_tlut",
+            "rootOffset": 632704
+        },
+        {
+            "name": "GrdHealFigureNs_tlut_desc",
+            "rootOffset": 633216
+        },
+        {
+            "name": "GrdHealFigurePc_C8_image",
+            "rootOffset": 493472
+        },
+        {
+            "name": "GrdHealFigurePc_tlut",
+            "rootOffset": 633248
+        },
+        {
+            "name": "GrdHealFigurePc_tlut_desc",
+            "rootOffset": 633760
+        },
+        {
+            "name": "GrdHealFigurePe_C8_image",
+            "rootOffset": 509856
+        },
+        {
+            "name": "GrdHealFigurePe_tlut",
+            "rootOffset": 633792
+        },
+        {
+            "name": "GrdHealFigurePe_tlut_desc",
+            "rootOffset": 634304
+        },
+        {
+            "name": "GrdHealFigurePk_C8_image",
+            "rootOffset": 526240
+        },
+        {
+            "name": "GrdHealFigurePk_tlut",
+            "rootOffset": 634336
+        },
+        {
+            "name": "GrdHealFigurePk_tlut_desc",
+            "rootOffset": 634848
+        },
+        {
+            "name": "GrdHealFigurePr_C8_image",
+            "rootOffset": 542624
+        },
+        {
+            "name": "GrdHealFigurePr_tlut",
+            "rootOffset": 634880
+        },
+        {
+            "name": "GrdHealFigurePr_tlut_desc",
+            "rootOffset": 635392
+        },
+        {
+            "name": "GrdHealFigureSs_C8_image",
+            "rootOffset": 559008
+        },
+        {
+            "name": "GrdHealFigureSs_tlut",
+            "rootOffset": 635424
+        },
+        {
+            "name": "GrdHealFigureSs_tlut_desc",
+            "rootOffset": 635936
+        },
+        {
+            "name": "GrdHealFigureYs_C8_image",
+            "rootOffset": 575392
+        },
+        {
+            "name": "GrdHealFigureYs_tlut",
+            "rootOffset": 635968
+        },
+        {
+            "name": "GrdHealFigureYs_tlut_desc",
+            "rootOffset": 636480
+        },
+        {
+            "name": "GrdHealFigureZd_C8_image",
+            "rootOffset": 591776
+        },
+        {
+            "name": "GrdHealFigureZd_tlut",
+            "rootOffset": 636512
+        },
+        {
+            "name": "GrdHealFigureZd_tlut_desc",
+            "rootOffset": 637024
+        },
+        {
+            "name": "GrdHealGdntr1_C8_image",
+            "rootOffset": 135872
+        },
+        {
+            "name": "GrdHealGdntr1_tlut",
+            "rootOffset": 152256
+        },
+        {
+            "name": "GrdHealGdntr1_tlut_desc",
+            "rootOffset": 152768
+        },
+        {
+            "name": "GrdHealGdntr2_C8_image",
+            "rootOffset": 69792
+        },
+        {
+            "name": "GrdHealGdntr2_tlut",
+            "rootOffset": 135328
+        },
+        {
+            "name": "GrdHealGdntr2_tlut_desc",
+            "rootOffset": 135840
+        },
+        {
+            "name": "GrdHealGreen_CMPR_image",
+            "rootOffset": 161024
+        },
+        {
+            "name": "GrdHealMountain0_CMPR_image",
+            "rootOffset": 202112
+        },
+        {
+            "name": "GrdHealRoad1_CMPR_image",
+            "rootOffset": 152832
+        },
+        {
+            "name": "GrdHealShadow0_I4_image",
+            "rootOffset": 193920
+        },
+        {
+            "name": "GrdHealSky00_CMPR_image",
+            "rootOffset": 204160
+        },
+        {
+            "name": "GrdHealTvCa_CMPR_image",
+            "rootOffset": 637600
+        },
+        {
+            "name": "GrdHealTvCl_CMPR_image",
+            "rootOffset": 645280
+        },
+        {
+            "name": "GrdHealTvDk_CMPR_image",
+            "rootOffset": 652960
+        },
+        {
+            "name": "GrdHealTvDr_CMPR_image",
+            "rootOffset": 660640
+        },
+        {
+            "name": "GrdHealTvFc_CMPR_image",
+            "rootOffset": 668320
+        },
+        {
+            "name": "GrdHealTvFe_CMPR_image",
+            "rootOffset": 821920
+        },
+        {
+            "name": "GrdHealTvFx_CMPR_image",
+            "rootOffset": 676000
+        },
+        {
+            "name": "GrdHealTvGn_CMPR_image",
+            "rootOffset": 683680
+        },
+        {
+            "name": "GrdHealTvGw_CMPR_image",
+            "rootOffset": 691360
+        },
+        {
+            "name": "GrdHealTvIc_CMPR_image",
+            "rootOffset": 699040
+        },
+        {
+            "name": "GrdHealTvKb_CMPR_image",
+            "rootOffset": 706720
+        },
+        {
+            "name": "GrdHealTvKp_CMPR_image",
+            "rootOffset": 714400
+        },
+        {
+            "name": "GrdHealTvLg_CMPR_image",
+            "rootOffset": 722080
+        },
+        {
+            "name": "GrdHealTvLk_CMPR_image",
+            "rootOffset": 729760
+        },
+        {
+            "name": "GrdHealTvMr_CMPR_image",
+            "rootOffset": 737440
+        },
+        {
+            "name": "GrdHealTvMs_CMPR_image",
+            "rootOffset": 745120
+        },
+        {
+            "name": "GrdHealTvMt_CMPR_image",
+            "rootOffset": 752800
+        },
+        {
+            "name": "GrdHealTvNs_CMPR_image",
+            "rootOffset": 760480
+        },
+        {
+            "name": "GrdHealTvPc_CMPR_image",
+            "rootOffset": 768160
+        },
+        {
+            "name": "GrdHealTvPe_CMPR_image",
+            "rootOffset": 775840
+        },
+        {
+            "name": "GrdHealTvPk_CMPR_image",
+            "rootOffset": 783520
+        },
+        {
+            "name": "GrdHealTvPr_CMPR_image",
+            "rootOffset": 791200
+        },
+        {
+            "name": "GrdHealTvSs_CMPR_image",
+            "rootOffset": 798880
+        },
+        {
+            "name": "GrdHealTvYs_CMPR_image",
+            "rootOffset": 806560
+        },
+        {
+            "name": "GrdHealTvZd_CMPR_image",
+            "rootOffset": 814240
+        },
+        {
+            "name": "GrdHealWarp1_I4_image",
+            "rootOffset": 152800
+        },
+        {
+            "name": "GrdHealYuka0_CMPR_image",
+            "rootOffset": 193792
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 68228
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 68372
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 68592
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 432
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 68740
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 830568
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 68596
+        }
+    ]
+}

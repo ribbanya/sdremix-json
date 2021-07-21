@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlLgPi.dat",
+    "nodes": [
+        {
+            "name": "PlyLuigi5KPi_Share_joint",
+            "rootOffset": 104752
+        },
+        {
+            "name": "PlyLuigi5KPi_Share_matanim_joint",
+            "rootOffset": 274680
+        }
+    ]
+}

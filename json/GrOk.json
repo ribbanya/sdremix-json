@@ -1,0 +1,313 @@
+{
+    "sourceFile": "GrOk.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 38884
+        },
+        {
+            "name": "GedOldkongoBuilding10_C4_image",
+            "rootOffset": 49504
+        },
+        {
+            "name": "GedOldkongoBuilding10_tlut",
+            "rootOffset": 50528
+        },
+        {
+            "name": "GedOldkongoBuilding10_tlut_desc",
+            "rootOffset": 50560
+        },
+        {
+            "name": "GedOldkongoBuilding2_C4_image",
+            "rootOffset": 57504
+        },
+        {
+            "name": "GedOldkongoBuilding2_tlut",
+            "rootOffset": 58016
+        },
+        {
+            "name": "GedOldkongoBuilding2_tlut_desc",
+            "rootOffset": 58048
+        },
+        {
+            "name": "GedOldkongoBuilding3_C4_image",
+            "rootOffset": 48416
+        },
+        {
+            "name": "GedOldkongoBuilding3_tlut",
+            "rootOffset": 49440
+        },
+        {
+            "name": "GedOldkongoBuilding3_tlut_desc",
+            "rootOffset": 49472
+        },
+        {
+            "name": "GedOldkongoBuilding6_C4_image",
+            "rootOffset": 45792
+        },
+        {
+            "name": "GedOldkongoBuilding6_tlut",
+            "rootOffset": 47840
+        },
+        {
+            "name": "GedOldkongoBuilding6_tlut_desc",
+            "rootOffset": 47872
+        },
+        {
+            "name": "GedOldkongoBuilding7_C4_image",
+            "rootOffset": 1108768
+        },
+        {
+            "name": "GedOldkongoBuilding7_tlut",
+            "rootOffset": 1110816
+        },
+        {
+            "name": "GedOldkongoBuilding7_tlut_desc",
+            "rootOffset": 1110848
+        },
+        {
+            "name": "GedOldkongoBuilding8_C4_image",
+            "rootOffset": 1106656
+        },
+        {
+            "name": "GedOldkongoBuilding8_tlut",
+            "rootOffset": 1108704
+        },
+        {
+            "name": "GedOldkongoBuilding8_tlut_desc",
+            "rootOffset": 1108736
+        },
+        {
+            "name": "GedOldkongoBuilding9_C4_image",
+            "rootOffset": 50592
+        },
+        {
+            "name": "GedOldkongoBuilding9_tlut",
+            "rootOffset": 52640
+        },
+        {
+            "name": "GedOldkongoBuilding9_tlut_desc",
+            "rootOffset": 52672
+        },
+        {
+            "name": "GrdOldkongoCask1_C4_image",
+            "rootOffset": 1117792
+        },
+        {
+            "name": "GrdOldkongoCask1_tlut",
+            "rootOffset": 1119840
+        },
+        {
+            "name": "GrdOldkongoCask1_tlut_desc",
+            "rootOffset": 1119872
+        },
+        {
+            "name": "GrdOldkongoCoconut1_C4_image",
+            "rootOffset": 52704
+        },
+        {
+            "name": "GrdOldkongoCoconut1_tlut",
+            "rootOffset": 53216
+        },
+        {
+            "name": "GrdOldkongoCoconut1_tlut_desc",
+            "rootOffset": 53248
+        },
+        {
+            "name": "GrdOldkongoCoconut2_C4_image",
+            "rootOffset": 53280
+        },
+        {
+            "name": "GrdOldkongoCoconut2_tlut",
+            "rootOffset": 55328
+        },
+        {
+            "name": "GrdOldkongoCoconut2_tlut_desc",
+            "rootOffset": 55360
+        },
+        {
+            "name": "GrdOldkongoCoconut3_C4_image",
+            "rootOffset": 55392
+        },
+        {
+            "name": "GrdOldkongoCoconut3_tlut",
+            "rootOffset": 57440
+        },
+        {
+            "name": "GrdOldkongoCoconut3_tlut_desc",
+            "rootOffset": 57472
+        },
+        {
+            "name": "GrdOldkongoCoconutsw_C4_image",
+            "rootOffset": 48224
+        },
+        {
+            "name": "GrdOldkongoCoconutsw_tlut",
+            "rootOffset": 48352
+        },
+        {
+            "name": "GrdOldkongoCoconutsw_tlut_desc",
+            "rootOffset": 48384
+        },
+        {
+            "name": "GrdOldkongoNekey1_CMPR_image",
+            "rootOffset": 1119904
+        },
+        {
+            "name": "GrdOldkongoNekey2_CMPR_image",
+            "rootOffset": 1121440
+        },
+        {
+            "name": "GrdOldkongoNekey3_CMPR_image",
+            "rootOffset": 1122976
+        },
+        {
+            "name": "GrdOldkongoNekey4_CMPR_image",
+            "rootOffset": 1124512
+        },
+        {
+            "name": "GrdOldkongoNekey5_CMPR_image",
+            "rootOffset": 1126048
+        },
+        {
+            "name": "GrdOldkongoScaffold1_C4_image",
+            "rootOffset": 43104
+        },
+        {
+            "name": "GrdOldkongoScaffold1_tlut",
+            "rootOffset": 43616
+        },
+        {
+            "name": "GrdOldkongoScaffold1_tlut_desc",
+            "rootOffset": 43648
+        },
+        {
+            "name": "GrdOldkongoScaffold2_C4_image",
+            "rootOffset": 47904
+        },
+        {
+            "name": "GrdOldkongoScaffold2_tlut",
+            "rootOffset": 48160
+        },
+        {
+            "name": "GrdOldkongoScaffold2_tlut_desc",
+            "rootOffset": 48192
+        },
+        {
+            "name": "GrdOldkongoSemibg1_C4_image",
+            "rootOffset": 1115680
+        },
+        {
+            "name": "GrdOldkongoSemibg1_tlut",
+            "rootOffset": 1117728
+        },
+        {
+            "name": "GrdOldkongoSemibg1_tlut_desc",
+            "rootOffset": 1117760
+        },
+        {
+            "name": "GrdOldkongoSemibg2_C4_image",
+            "rootOffset": 1113568
+        },
+        {
+            "name": "GrdOldkongoSemibg2_tlut",
+            "rootOffset": 1115616
+        },
+        {
+            "name": "GrdOldkongoSemibg2_tlut_desc",
+            "rootOffset": 1115648
+        },
+        {
+            "name": "GrdOldkongoSemibg3_C4_image",
+            "rootOffset": 1111456
+        },
+        {
+            "name": "GrdOldkongoSemibg3_tlut",
+            "rootOffset": 1113504
+        },
+        {
+            "name": "GrdOldkongoSemibg3_tlut_desc",
+            "rootOffset": 1113536
+        },
+        {
+            "name": "GrdOldkongoSunsetbg1_RGBA8_image",
+            "rootOffset": 320224
+        },
+        {
+            "name": "GrdOldkongoSunsetbg2_RGBA8_image",
+            "rootOffset": 582368
+        },
+        {
+            "name": "GrdOldkongoSunsetbg3_RGBA8_image",
+            "rootOffset": 844512
+        },
+        {
+            "name": "GrdOldkongoSunsetbg4_RGBA8_image",
+            "rootOffset": 58080
+        },
+        {
+            "name": "GrdOldkongofloor1_C4_image",
+            "rootOffset": 43680
+        },
+        {
+            "name": "GrdOldkongofloor1_tlut",
+            "rootOffset": 45728
+        },
+        {
+            "name": "GrdOldkongofloor1_tlut_desc",
+            "rootOffset": 45760
+        },
+        {
+            "name": "GrdOldkongofloor2_C4_image",
+            "rootOffset": 40992
+        },
+        {
+            "name": "GrdOldkongofloor2_tlut",
+            "rootOffset": 43040
+        },
+        {
+            "name": "GrdOldkongofloor2_tlut_desc",
+            "rootOffset": 43072
+        },
+        {
+            "name": "GrdOldkongofloor3_C4_image",
+            "rootOffset": 1110880
+        },
+        {
+            "name": "GrdOldkongofloor3_tlut",
+            "rootOffset": 1111392
+        },
+        {
+            "name": "GrdOldkongofloor3_tlut_desc",
+            "rootOffset": 1111424
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 38344
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 38488
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 38708
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 568
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 39112
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 1128552
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 38744
+        }
+    ]
+}

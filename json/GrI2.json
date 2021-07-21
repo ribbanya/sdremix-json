@@ -1,0 +1,237 @@
+{
+    "sourceFile": "GrI2.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 81232
+        },
+        {
+            "name": "GrdInishie2CherryA_CMPR_image",
+            "rootOffset": 160448
+        },
+        {
+            "name": "GrdInishie2CherryB_CMPR_image",
+            "rootOffset": 168064
+        },
+        {
+            "name": "GrdInishie2CherryC_CMPR_image",
+            "rootOffset": 168192
+        },
+        {
+            "name": "GrdInishie2CloudA_CMPR_image",
+            "rootOffset": 100032
+        },
+        {
+            "name": "GrdInishie2CloudB_CMPR_image",
+            "rootOffset": 116416
+        },
+        {
+            "name": "GrdInishie2DoA_C4_image",
+            "rootOffset": 168896
+        },
+        {
+            "name": "GrdInishie2DoA_tlut",
+            "rootOffset": 169184
+        },
+        {
+            "name": "GrdInishie2DoA_tlut_desc",
+            "rootOffset": 169216
+        },
+        {
+            "name": "GrdInishie2DoB_C4_image",
+            "rootOffset": 169248
+        },
+        {
+            "name": "GrdInishie2GroundA_CMPR_image",
+            "rootOffset": 91584
+        },
+        {
+            "name": "GrdInishie2GroundB_CMPR_image",
+            "rootOffset": 92096
+        },
+        {
+            "name": "GrdInishie2Jyutan_C4_image",
+            "rootOffset": 168320
+        },
+        {
+            "name": "GrdInishie2Jyutan_tlut",
+            "rootOffset": 168832
+        },
+        {
+            "name": "GrdInishie2Jyutan_tlut_desc",
+            "rootOffset": 168864
+        },
+        {
+            "name": "GrdInishie2LogA_CMPR_image",
+            "rootOffset": 169536
+        },
+        {
+            "name": "GrdInishie2LogB_CMPR_image",
+            "rootOffset": 96288
+        },
+        {
+            "name": "GrdInishie2LogC_CMPR_image",
+            "rootOffset": 169664
+        },
+        {
+            "name": "GrdInishie2MameA_CMPR_image",
+            "rootOffset": 98496
+        },
+        {
+            "name": "GrdInishie2MameB_CMPR_image",
+            "rootOffset": 164992
+        },
+        {
+            "name": "GrdInishie2MameC_CMPR_image",
+            "rootOffset": 166528
+        },
+        {
+            "name": "GrdInishie2OGrassA_CMPR_image",
+            "rootOffset": 91104
+        },
+        {
+            "name": "GrdInishie2OGrassB_CMPR_image",
+            "rootOffset": 160576
+        },
+        {
+            "name": "GrdInishie2OGrassC_CMPR_image",
+            "rootOffset": 161056
+        },
+        {
+            "name": "GrdInishie2OGrassD_CMPR_image",
+            "rootOffset": 161536
+        },
+        {
+            "name": "GrdInishie2PalmTree_CMPR_image",
+            "rootOffset": 92608
+        },
+        {
+            "name": "GrdInishie2RGrassA_CMPR_image",
+            "rootOffset": 159936
+        },
+        {
+            "name": "GrdInishie2RGrassB_CMPR_image",
+            "rootOffset": 151744
+        },
+        {
+            "name": "GrdInishie2RTreeA_CMPR_image",
+            "rootOffset": 152256
+        },
+        {
+            "name": "GrdInishie2RTreeB_CMPR_image",
+            "rootOffset": 149184
+        },
+        {
+            "name": "GrdInishie2Tsubo_CMPR_image",
+            "rootOffset": 95168
+        },
+        {
+            "name": "GrdInishie2WallA_C4_image",
+            "rootOffset": 94656
+        },
+        {
+            "name": "GrdInishie2WallA_tlut",
+            "rootOffset": 94784
+        },
+        {
+            "name": "GrdInishie2WallA_tlut_desc",
+            "rootOffset": 94816
+        },
+        {
+            "name": "GrdInishie2WallB_C4_image",
+            "rootOffset": 94144
+        },
+        {
+            "name": "GrdInishie2WallB_tlut",
+            "rootOffset": 94272
+        },
+        {
+            "name": "GrdInishie2WallB_tlut_desc",
+            "rootOffset": 94304
+        },
+        {
+            "name": "GrdInishie2WallC_C4_image",
+            "rootOffset": 94336
+        },
+        {
+            "name": "GrdInishie2WallC_tlut",
+            "rootOffset": 94592
+        },
+        {
+            "name": "GrdInishie2WallC_tlut_desc",
+            "rootOffset": 94624
+        },
+        {
+            "name": "GrdInishie2WallD_C4_image",
+            "rootOffset": 94848
+        },
+        {
+            "name": "GrdInishie2WallD_tlut",
+            "rootOffset": 95104
+        },
+        {
+            "name": "GrdInishie2WallD_tlut_desc",
+            "rootOffset": 95136
+        },
+        {
+            "name": "GrdInishie2WaterA_CMPR_image",
+            "rootOffset": 97216
+        },
+        {
+            "name": "GrdInishie2WaterA_MIPMAP_CMPR_image",
+            "rootOffset": 97728
+        },
+        {
+            "name": "GrdInishie2WaterB_CMPR_image",
+            "rootOffset": 162432
+        },
+        {
+            "name": "GrdInishie2WaterB_MIPMAP_CMPR_image",
+            "rootOffset": 163456
+        },
+        {
+            "name": "GrdInishie2WaterC_CMPR_image",
+            "rootOffset": 162944
+        },
+        {
+            "name": "GrdInishie2WaterC_MIPMAP_CMPR_image",
+            "rootOffset": 164224
+        },
+        {
+            "name": "GrdInishie2WaterD_MIPMAP_IA4_image",
+            "rootOffset": 96800
+        },
+        {
+            "name": "GrdInishie2WaterE_MIPMAP_IA4_image",
+            "rootOffset": 162016
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 79752
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 80896
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 81116
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 500
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 89484
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 171144
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 81128
+        }
+    ]
+}

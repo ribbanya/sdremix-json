@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyKbBall.dat",
+    "nodes": [
+        {
+            "name": "ToyKirbyballModel_TopN_joint",
+            "rootOffset": 23016
+        }
+    ]
+}

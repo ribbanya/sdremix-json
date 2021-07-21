@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlPeWh.dat",
+    "nodes": [
+        {
+            "name": "PlyPeach5KWh_Share_joint",
+            "rootOffset": 127624
+        },
+        {
+            "name": "PlyPeach5KWh_Share_matanim_joint",
+            "rootOffset": 437016
+        }
+    ]
+}

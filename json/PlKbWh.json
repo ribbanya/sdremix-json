@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlKbWh.dat",
+    "nodes": [
+        {
+            "name": "PlyKirby5KWh_Share_joint",
+            "rootOffset": 125448
+        },
+        {
+            "name": "PlyKirby5KWh_Share_matanim_joint",
+            "rootOffset": 204688
+        }
+    ]
+}

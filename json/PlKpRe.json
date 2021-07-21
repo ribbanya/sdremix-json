@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlKpRe.dat",
+    "nodes": [
+        {
+            "name": "PlyKoopa5KRe_Share_joint",
+            "rootOffset": 165640
+        },
+        {
+            "name": "PlyKoopa5KRe_Share_matanim_joint",
+            "rootOffset": 460752
+        }
+    ]
+}

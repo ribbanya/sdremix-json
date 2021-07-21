@@ -1,0 +1,81 @@
+{
+    "sourceFile": "GrTPk.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 74576
+        },
+        {
+            "name": "GrdTPikachuFloor01_C4_image",
+            "rootOffset": 106432
+        },
+        {
+            "name": "GrdTPikachuFloor01_tlut",
+            "rootOffset": 108480
+        },
+        {
+            "name": "GrdTPikachuFloor01_tlut_desc",
+            "rootOffset": 108512
+        },
+        {
+            "name": "GrdTPikachuGrass_CMPR_image",
+            "rootOffset": 97728
+        },
+        {
+            "name": "GrdTPikachuMBall_CMPR_image",
+            "rootOffset": 98240
+        },
+        {
+            "name": "GrdTPikachuWall01_CMPR_image",
+            "rootOffset": 78272
+        },
+        {
+            "name": "GrdTPikachuWall02_I8_image",
+            "rootOffset": 108544
+        },
+        {
+            "name": "GrdTPikachuWall05_I4_image",
+            "rootOffset": 86464
+        },
+        {
+            "name": "GrdTPikachuWall06_I4_image",
+            "rootOffset": 94656
+        },
+        {
+            "name": "GrdTPikachuWall07_I4_image",
+            "rootOffset": 95680
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 109568
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 74172
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 74316
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 74536
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 352
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 77472
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 112584
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 74544
+        }
+    ]
+}

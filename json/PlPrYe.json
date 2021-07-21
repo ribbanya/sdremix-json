@@ -1,0 +1,17 @@
+{
+    "sourceFile": "PlPrYe.dat",
+    "nodes": [
+        {
+            "name": "PlyPurin5KYe_Share_joint",
+            "rootOffset": 67280
+        },
+        {
+            "name": "PlyPurin5KYe_Share_matanim_joint",
+            "rootOffset": 105504
+        },
+        {
+            "name": "PlyPurinYeHat_TopN_joint",
+            "rootOffset": 242600
+        }
+    ]
+}

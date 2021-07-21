@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyFood.dat",
+    "nodes": [
+        {
+            "name": "ToyFoodModel_TopN_joint",
+            "rootOffset": 8040
+        }
+    ]
+}

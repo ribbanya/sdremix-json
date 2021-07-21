@@ -1,0 +1,17 @@
+{
+    "sourceFile": "LbMcSnap.dat",
+    "nodes": [
+        {
+            "name": "MemSnapBanner_01",
+            "rootOffset": 0
+        },
+        {
+            "name": "MemSnapIconData",
+            "rootOffset": 7680
+        },
+        {
+            "name": "MemSnapIcon_01",
+            "rootOffset": 6144
+        }
+    ]
+}

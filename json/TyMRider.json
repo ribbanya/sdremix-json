@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyMRider.dat",
+    "nodes": [
+        {
+            "name": "ToyMachriderModel_TopN_joint",
+            "rootOffset": 329640
+        }
+    ]
+}

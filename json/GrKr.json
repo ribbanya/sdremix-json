@@ -1,0 +1,293 @@
+{
+    "sourceFile": "GrKr.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 479296
+        },
+        {
+            "name": "EffKraidAction_IA8_image",
+            "rootOffset": 1089056
+        },
+        {
+            "name": "GrdKraidAntenna1_RGBA8_image",
+            "rootOffset": 493760
+        },
+        {
+            "name": "GrdKraidAntenna2_C8_image",
+            "rootOffset": 480928
+        },
+        {
+            "name": "GrdKraidAntenna2_tlut",
+            "rootOffset": 489120
+        },
+        {
+            "name": "GrdKraidAntenna2_tlut_desc",
+            "rootOffset": 489632
+        },
+        {
+            "name": "GrdKraidArm0_CMPR_image",
+            "rootOffset": 947680
+        },
+        {
+            "name": "GrdKraidBackRock1_CMPR_image",
+            "rootOffset": 933088
+        },
+        {
+            "name": "GrdKraidBio00_CMPR_image",
+            "rootOffset": 982528
+        },
+        {
+            "name": "GrdKraidBio0_CMPR_image",
+            "rootOffset": 968192
+        },
+        {
+            "name": "GrdKraidBio0s_CMPR_image",
+            "rootOffset": 970240
+        },
+        {
+            "name": "GrdKraidBioA1n_C8_image",
+            "rootOffset": 948192
+        },
+        {
+            "name": "GrdKraidBioA1n_tlut",
+            "rootOffset": 952288
+        },
+        {
+            "name": "GrdKraidBioA1n_tlut_desc",
+            "rootOffset": 952800
+        },
+        {
+            "name": "GrdKraidBioEye1_CMPR_image",
+            "rootOffset": 980480
+        },
+        {
+            "name": "GrdKraidBrain1_CMPR_image",
+            "rootOffset": 972288
+        },
+        {
+            "name": "GrdKraidBuild1_CMPR_image",
+            "rootOffset": 489664
+        },
+        {
+            "name": "GrdKraidBuild2_CMPR_image",
+            "rootOffset": 956928
+        },
+        {
+            "name": "GrdKraidFace1n_I4_image",
+            "rootOffset": 796864
+        },
+        {
+            "name": "GrdKraidFlare1_RGBA8_image",
+            "rootOffset": 760000
+        },
+        {
+            "name": "GrdKraidFloor1n2_CMPR_image",
+            "rootOffset": 1093152
+        },
+        {
+            "name": "GrdKraidFloorn1a_CMPR_image",
+            "rootOffset": 780480
+        },
+        {
+            "name": "GrdKraidFloorn1b_CMPR_image",
+            "rootOffset": 788672
+        },
+        {
+            "name": "GrdKraidFloorn1e_CMPR_image",
+            "rootOffset": 992768
+        },
+        {
+            "name": "GrdKraidFloorsiden1a_CMPR_image",
+            "rootOffset": 984576
+        },
+        {
+            "name": "GrdKraidFloorsiden1b_CMPR_image",
+            "rootOffset": 988672
+        },
+        {
+            "name": "GrdKraidKrBlood_CMPR_image",
+            "rootOffset": 1030720
+        },
+        {
+            "name": "GrdKraidKrEye1_CMPR_image",
+            "rootOffset": 1029632
+        },
+        {
+            "name": "GrdKraidKrIwahada1sp2_I4_image",
+            "rootOffset": 883936
+        },
+        {
+            "name": "GrdKraidKrIwahada2rgb_C8_image",
+            "rootOffset": 817856
+        },
+        {
+            "name": "GrdKraidKrIwahada2rgb_tlut",
+            "rootOffset": 883392
+        },
+        {
+            "name": "GrdKraidKrIwahada2rgb_tlut_desc",
+            "rootOffset": 883904
+        },
+        {
+            "name": "GrdKraidKrIwahada3rgb_RGBA8_image",
+            "rootOffset": 497856
+        },
+        {
+            "name": "GrdKraidKrMouthHigh0_C8_image",
+            "rootOffset": 1075776
+        },
+        {
+            "name": "GrdKraidKrMouthHigh0_tlut",
+            "rootOffset": 1079872
+        },
+        {
+            "name": "GrdKraidKrMouthHigh0_tlut_desc",
+            "rootOffset": 1080256
+        },
+        {
+            "name": "GrdKraidKrMouthLow1_C8_image",
+            "rootOffset": 1080288
+        },
+        {
+            "name": "GrdKraidKrMouthLow1_tlut",
+            "rootOffset": 1084384
+        },
+        {
+            "name": "GrdKraidKrMouthLow1_tlut_desc",
+            "rootOffset": 1084896
+        },
+        {
+            "name": "GrdKraidKrNose_CMPR_image",
+            "rootOffset": 1071680
+        },
+        {
+            "name": "GrdKraidKrSaku1_CMPR_image",
+            "rootOffset": 813760
+        },
+        {
+            "name": "GrdKraidKrSaku2_CMPR_image",
+            "rootOffset": 813248
+        },
+        {
+            "name": "GrdKraidKrSkin11_CMPR_image",
+            "rootOffset": 1084960
+        },
+        {
+            "name": "GrdKraidKrSkin1_CMPR_image",
+            "rootOffset": 994816
+        },
+        {
+            "name": "GrdKraidKrSkin3_CMPR_image",
+            "rootOffset": 1038912
+        },
+        {
+            "name": "GrdKraidKrSkinCol_CMPR_image",
+            "rootOffset": 1084928
+        },
+        {
+            "name": "GrdKraidKrTeeth1_C4_image",
+            "rootOffset": 1030144
+        },
+        {
+            "name": "GrdKraidKrTeeth1_tlut",
+            "rootOffset": 1030656
+        },
+        {
+            "name": "GrdKraidKrTeeth1_tlut_desc",
+            "rootOffset": 1030688
+        },
+        {
+            "name": "GrdKraidKrTuno1_CMPR_image",
+            "rootOffset": 1027584
+        },
+        {
+            "name": "GrdKraidRockbio1_CMPR_image",
+            "rootOffset": 924896
+        },
+        {
+            "name": "GrdKraidRockbio2_CMPR_image",
+            "rootOffset": 916704
+        },
+        {
+            "name": "GrdKraidTower1_CMPR_image",
+            "rootOffset": 776384
+        },
+        {
+            "name": "GrdKraidTower2_CMPR_image",
+            "rootOffset": 952832
+        },
+        {
+            "name": "GrdKraidTower3_CMPR_image",
+            "rootOffset": 967168
+        },
+        {
+            "name": "GrdKraidTower4_CMPR_image",
+            "rootOffset": 943584
+        },
+        {
+            "name": "GrdKraidTower5_CMPR_image",
+            "rootOffset": 941536
+        },
+        {
+            "name": "GrdKraidTowera1_CMPR_image",
+            "rootOffset": 809152
+        },
+        {
+            "name": "GrdKraidTowera2n_CMPR_image",
+            "rootOffset": 805056
+        },
+        {
+            "name": "GrdKraidTowera3_CMPR_image",
+            "rootOffset": 941280
+        },
+        {
+            "name": "GrdKraidUnder1_CMPR_image",
+            "rootOffset": 965120
+        },
+        {
+            "name": "GrdKraidUnder2_CMPR_image",
+            "rootOffset": 491712
+        },
+        {
+            "name": "GrdKraidWater_CMPR_image",
+            "rootOffset": 1101344
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 447372
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 478992
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 479212
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 520
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 479464
+        },
+        {
+            "name": "map_ptcl",
+            "rootOffset": 447424
+        },
+        {
+            "name": "map_texg",
+            "rootOffset": 448192
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 1104360
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 479216
+        }
+    ]
+}

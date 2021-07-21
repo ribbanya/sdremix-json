@@ -1,0 +1,9 @@
+{
+    "sourceFile": "SdClr.dat",
+    "nodes": [
+        {
+            "name": "SIS_ClearData",
+            "rootOffset": 0
+        }
+    ]
+}

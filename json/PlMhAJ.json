@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlMhAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Waitharau",
+            "name": "PlyMasterhand_Share_ACTION_Waitharau_figatree",
+            "rootOffset": 1672,
+            "data": {
+                "numFrames": 10.0,
+                "boneTableOffset": 1640,
+                "animDataOffset": 812
+            }
+        }
+    ]
+}

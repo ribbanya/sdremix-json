@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlPrNr.dat",
+    "nodes": [
+        {
+            "name": "PlyPurin5K_Share_joint",
+            "rootOffset": 67280
+        },
+        {
+            "name": "PlyPurin5K_Share_matanim_joint",
+            "rootOffset": 105696
+        }
+    ]
+}

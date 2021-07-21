@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyLikeli.dat",
+    "nodes": [
+        {
+            "name": "ToyLikelikeModel_TopN_joint",
+            "rootOffset": 5928
+        }
+    ]
+}

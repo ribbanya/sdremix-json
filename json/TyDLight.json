@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyDLight.dat",
+    "nodes": [
+        {
+            "name": "ToyDrlightModel_TopN_joint",
+            "rootOffset": 190152
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "sourceFile": "GrNLa.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 335048
+        },
+        {
+            "name": "GrdLastCloud2_I8_image",
+            "rootOffset": 407808
+        },
+        {
+            "name": "GrdLastGround2_CMPR_image",
+            "rootOffset": 375040
+        },
+        {
+            "name": "GrdLastLine1_I4_image",
+            "rootOffset": 558336
+        },
+        {
+            "name": "GrdLastLine2_I4_image",
+            "rootOffset": 557312
+        },
+        {
+            "name": "GrdLastMilkyWay1_I8_image",
+            "rootOffset": 475392
+        },
+        {
+            "name": "GrdLastMilkyWay2_I8_image",
+            "rootOffset": 558400
+        },
+        {
+            "name": "GrdLastRipple1_CMPR_image",
+            "rootOffset": 346368
+        },
+        {
+            "name": "GrdLastRipple3_I8_image",
+            "rootOffset": 354560
+        },
+        {
+            "name": "GrdLastStar1_I4_image",
+            "rootOffset": 574784
+        },
+        {
+            "name": "GrdLastStar2_I8_image",
+            "rootOffset": 370944
+        },
+        {
+            "name": "GrdLastStar3_I8_image",
+            "rootOffset": 576864
+        },
+        {
+            "name": "GrdLastStar4_I4_image",
+            "rootOffset": 574816
+        },
+        {
+            "name": "GrdLastStarDust1_I4_image",
+            "rootOffset": 473344
+        },
+        {
+            "name": "GrdLastTile2_CMPR_image",
+            "rootOffset": 336896
+        },
+        {
+            "name": "GrdLastWall1_RGBA8_image",
+            "rootOffset": 491776
+        },
+        {
+            "name": "GrdLastYuka0_I4_image",
+            "rootOffset": 345088
+        },
+        {
+            "name": "GrdLastYuka1_I4_image",
+            "rootOffset": 346112
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 319728
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 334676
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 334896
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 856
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 335156
+        },
+        {
+            "name": "map_ptcl",
+            "rootOffset": 319776
+        },
+        {
+            "name": "map_texg",
+            "rootOffset": 320448
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 578344
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 335004
+        }
+    ]
+}

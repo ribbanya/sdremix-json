@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlDrAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Wait1",
+            "name": "PlyDrmario5K_Share_ACTION_Wait1_figatree",
+            "rootOffset": 3160,
+            "data": {
+                "numFrames": 60.0,
+                "boneTableOffset": 3072,
+                "animDataOffset": 1752
+            }
+        }
+    ]
+}

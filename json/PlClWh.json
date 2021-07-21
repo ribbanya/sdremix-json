@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlClWh.dat",
+    "nodes": [
+        {
+            "name": "PlyClink5KWh_Share_joint",
+            "rootOffset": 118632
+        },
+        {
+            "name": "PlyClink5KWh_Share_matanim_joint",
+            "rootOffset": 275312
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyBarCan.dat",
+    "nodes": [
+        {
+            "name": "ToyBarrelcannonModel_TopN_joint",
+            "rootOffset": 12616
+        }
+    ]
+}

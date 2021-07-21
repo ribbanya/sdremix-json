@@ -1,0 +1,9 @@
+{
+    "sourceFile": "SmSt.dat",
+    "nodes": [
+        {
+            "name": "smSoundTestLoadData",
+            "rootOffset": 121888
+        }
+    ]
+}

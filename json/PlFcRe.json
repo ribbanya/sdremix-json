@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlFcRe.dat",
+    "nodes": [
+        {
+            "name": "PlyFalco5KRe_Share_joint",
+            "rootOffset": 93864
+        },
+        {
+            "name": "PlyFalco5KRe_Share_matanim_joint",
+            "rootOffset": 220536
+        }
+    ]
+}

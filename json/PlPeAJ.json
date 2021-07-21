@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlPeAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Wait1",
+            "name": "PlyPeach5K_Share_ACTION_Wait1_figatree",
+            "rootOffset": 19984,
+            "data": {
+                "numFrames": 340.0,
+                "boneTableOffset": 19868,
+                "animDataOffset": 18008
+            }
+        }
+    ]
+}

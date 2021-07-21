@@ -1,0 +1,9 @@
+{
+    "sourceFile": "SdRst.dat",
+    "nodes": [
+        {
+            "name": "SIS_ResultData",
+            "rootOffset": 0
+        }
+    ]
+}

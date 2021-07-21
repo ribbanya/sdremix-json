@@ -1,0 +1,13 @@
+{
+    "sourceFile": "Vi0501.dat",
+    "nodes": [
+        {
+            "name": "ftDemoVi0501MotionFileKirby",
+            "rootOffset": 14944
+        },
+        {
+            "name": "visual0501Scene",
+            "rootOffset": 14928
+        }
+    ]
+}

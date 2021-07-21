@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlDrBu.dat",
+    "nodes": [
+        {
+            "name": "PlyDrmario5KBu_Share_joint",
+            "rootOffset": 103144
+        },
+        {
+            "name": "PlyDrmario5KBu_Share_matanim_joint",
+            "rootOffset": 288736
+        }
+    ]
+}

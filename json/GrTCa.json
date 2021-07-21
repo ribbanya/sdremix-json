@@ -1,0 +1,225 @@
+{
+    "sourceFile": "GrTCa.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 102032
+        },
+        {
+            "name": "GrdTCaptainAdver1n_CMPR_image",
+            "rootOffset": 367968
+        },
+        {
+            "name": "GrdTCaptainAdver4n_C8_image",
+            "rootOffset": 471392
+        },
+        {
+            "name": "GrdTCaptainAdver4n_tlut",
+            "rootOffset": 479584
+        },
+        {
+            "name": "GrdTCaptainAdver4n_tlut_desc",
+            "rootOffset": 480096
+        },
+        {
+            "name": "GrdTCaptainArch5_CMPR_image",
+            "rootOffset": 120032
+        },
+        {
+            "name": "GrdTCaptainArchn2_CMPR_image",
+            "rootOffset": 149792
+        },
+        {
+            "name": "GrdTCaptainArchn3_RGB565_image",
+            "rootOffset": 455008
+        },
+        {
+            "name": "GrdTCaptainArchn4_RGB565_image",
+            "rootOffset": 438624
+        },
+        {
+            "name": "GrdTCaptainArchn5_CMPR_image",
+            "rootOffset": 365920
+        },
+        {
+            "name": "GrdTCaptainAsiba4_CMPR_image",
+            "rootOffset": 198944
+        },
+        {
+            "name": "GrdTCaptainBuild8_CMPR_image",
+            "rootOffset": 137504
+        },
+        {
+            "name": "GrdTCaptainFioor01_RGBA8_image",
+            "rootOffset": 200992
+        },
+        {
+            "name": "GrdTCaptainFloor1a_CMPR_image",
+            "rootOffset": 113888
+        },
+        {
+            "name": "GrdTCaptainFloor2_CMPR_image",
+            "rootOffset": 105696
+        },
+        {
+            "name": "GrdTCaptainFloor3_C8_image",
+            "rootOffset": 128768
+        },
+        {
+            "name": "GrdTCaptainFloor3_tlut",
+            "rootOffset": 136960
+        },
+        {
+            "name": "GrdTCaptainFloor3_tlut_desc",
+            "rootOffset": 137472
+        },
+        {
+            "name": "GrdTCaptainFloor4_C8_image",
+            "rootOffset": 124128
+        },
+        {
+            "name": "GrdTCaptainFloor4_tlut",
+            "rootOffset": 128224
+        },
+        {
+            "name": "GrdTCaptainFloor4_tlut_desc",
+            "rootOffset": 128736
+        },
+        {
+            "name": "GrdTCaptainLoad1_CMPR_image",
+            "rootOffset": 170272
+        },
+        {
+            "name": "GrdTCaptainLoad3_CMPR_image",
+            "rootOffset": 109792
+        },
+        {
+            "name": "GrdTCaptainLoad3a_CMPR_image",
+            "rootOffset": 186656
+        },
+        {
+            "name": "GrdTCaptainLoad4n_CMPR_image",
+            "rootOffset": 157984
+        },
+        {
+            "name": "GrdTCaptainMecha00_RGBA8_image",
+            "rootOffset": 266528
+        },
+        {
+            "name": "GrdTCaptainMecha01_RGBA8_image",
+            "rootOffset": 368992
+        },
+        {
+            "name": "GrdTCaptainPanel00_C8_image",
+            "rootOffset": 332064
+        },
+        {
+            "name": "GrdTCaptainPanel00_tlut",
+            "rootOffset": 348448
+        },
+        {
+            "name": "GrdTCaptainPanel00_tlut_desc",
+            "rootOffset": 348960
+        },
+        {
+            "name": "GrdTCaptainPanel01_C8_image",
+            "rootOffset": 348992
+        },
+        {
+            "name": "GrdTCaptainPanel01_tlut",
+            "rootOffset": 365376
+        },
+        {
+            "name": "GrdTCaptainPanel01_tlut_desc",
+            "rootOffset": 365888
+        },
+        {
+            "name": "GrdTCaptainPit3n2_C8_image",
+            "rootOffset": 513440
+        },
+        {
+            "name": "GrdTCaptainPit3n2_tlut",
+            "rootOffset": 546208
+        },
+        {
+            "name": "GrdTCaptainPit3n2_tlut_desc",
+            "rootOffset": 546720
+        },
+        {
+            "name": "GrdTCaptainPit3n_C8_image",
+            "rootOffset": 480128
+        },
+        {
+            "name": "GrdTCaptainPit3n_tlut",
+            "rootOffset": 512896
+        },
+        {
+            "name": "GrdTCaptainPit3n_tlut_desc",
+            "rootOffset": 513408
+        },
+        {
+            "name": "GrdTCaptainRArch5_CMPR_image",
+            "rootOffset": 115936
+        },
+        {
+            "name": "GrdTCaptainRLoad4_CMPR_image",
+            "rootOffset": 141600
+        },
+        {
+            "name": "GrdTCaptainRSide01_C8_image",
+            "rootOffset": 546752
+        },
+        {
+            "name": "GrdTCaptainRSide01_tlut",
+            "rootOffset": 554944
+        },
+        {
+            "name": "GrdTCaptainRSide01_tlut_desc",
+            "rootOffset": 555456
+        },
+        {
+            "name": "GrdTCaptainRSide01n_CMPR_image",
+            "rootOffset": 434528
+        },
+        {
+            "name": "GrdTCaptainSide2e_CMPR_image",
+            "rootOffset": 190752
+        },
+        {
+            "name": "GrdTCaptainSide2f_CMPR_image",
+            "rootOffset": 166176
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 555488
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 101628
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 101772
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 101992
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 384
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 104928
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 558504
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 102000
+        }
+    ]
+}

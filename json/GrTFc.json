@@ -1,0 +1,153 @@
+{
+    "sourceFile": "GrTFc.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 105564
+        },
+        {
+            "name": "GrdTFalcoFioor00_C8_image",
+            "rootOffset": 126208
+        },
+        {
+            "name": "GrdTFalcoFioor00_tlut",
+            "rootOffset": 142592
+        },
+        {
+            "name": "GrdTFalcoFioor00_tlut_desc",
+            "rootOffset": 143104
+        },
+        {
+            "name": "GrdTFalcoFioor01_C8_image",
+            "rootOffset": 176992
+        },
+        {
+            "name": "GrdTFalcoFioor01_tlut",
+            "rootOffset": 193376
+        },
+        {
+            "name": "GrdTFalcoFioor01_tlut_desc",
+            "rootOffset": 193888
+        },
+        {
+            "name": "GrdTFalcoMecha00_C8_image",
+            "rootOffset": 193920
+        },
+        {
+            "name": "GrdTFalcoMecha00_tlut",
+            "rootOffset": 210304
+        },
+        {
+            "name": "GrdTFalcoMecha00_tlut_desc",
+            "rootOffset": 210816
+        },
+        {
+            "name": "GrdTFalcoMecha01_C8_image",
+            "rootOffset": 227616
+        },
+        {
+            "name": "GrdTFalcoMecha01_tlut",
+            "rootOffset": 244000
+        },
+        {
+            "name": "GrdTFalcoMecha01_tlut_desc",
+            "rootOffset": 244448
+        },
+        {
+            "name": "GrdTFalcoMecha02_C8_image",
+            "rootOffset": 210848
+        },
+        {
+            "name": "GrdTFalcoMecha02_tlut",
+            "rootOffset": 227232
+        },
+        {
+            "name": "GrdTFalcoMecha02_tlut_desc",
+            "rootOffset": 227584
+        },
+        {
+            "name": "GrdTFalcoMecha03_C8_image",
+            "rootOffset": 160064
+        },
+        {
+            "name": "GrdTFalcoMecha03_tlut",
+            "rootOffset": 176448
+        },
+        {
+            "name": "GrdTFalcoMecha03_tlut_desc",
+            "rootOffset": 176960
+        },
+        {
+            "name": "GrdTFalcoPanel00_C8_image",
+            "rootOffset": 109280
+        },
+        {
+            "name": "GrdTFalcoPanel00_tlut",
+            "rootOffset": 125664
+        },
+        {
+            "name": "GrdTFalcoPanel00_tlut_desc",
+            "rootOffset": 126176
+        },
+        {
+            "name": "GrdTFalcoPanel01_C8_image",
+            "rootOffset": 143136
+        },
+        {
+            "name": "GrdTFalcoPanel01_tlut",
+            "rootOffset": 159520
+        },
+        {
+            "name": "GrdTFalcoPanel01_tlut_desc",
+            "rootOffset": 160032
+        },
+        {
+            "name": "GrdTFalcoPanel02_C8_image",
+            "rootOffset": 252672
+        },
+        {
+            "name": "GrdTFalcoPanel02_tlut",
+            "rootOffset": 256768
+        },
+        {
+            "name": "GrdTFalcoPanel02_tlut_desc",
+            "rootOffset": 257280
+        },
+        {
+            "name": "GrdTFalcoPipe00_I8_image",
+            "rootOffset": 244480
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 257312
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 105004
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 105148
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 105368
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 356
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 108480
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 260328
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 105520
+        }
+    ]
+}

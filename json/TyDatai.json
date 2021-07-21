@@ -1,0 +1,33 @@
+{
+    "sourceFile": "TyDatai.dat",
+    "nodes": [
+        {
+            "name": "tyDisplayModelTbl",
+            "rootOffset": 14344
+        },
+        {
+            "name": "tyDisplayModelUsTbl",
+            "rootOffset": 19064
+        },
+        {
+            "name": "tyExpDifferentTbl",
+            "rootOffset": 10804
+        },
+        {
+            "name": "tyInitModelDTbl",
+            "rootOffset": 10584
+        },
+        {
+            "name": "tyInitModelTbl",
+            "rootOffset": 0
+        },
+        {
+            "name": "tyModelSortTbl",
+            "rootOffset": 10816
+        },
+        {
+            "name": "tyNoGetUsTbl",
+            "rootOffset": 10800
+        }
+    ]
+}

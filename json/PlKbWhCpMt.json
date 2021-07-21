@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlKbWhCpMt.dat",
+    "nodes": [
+        {
+            "name": "PlyKirbyMtWh_Share_joint",
+            "rootOffset": 66068
+        },
+        {
+            "name": "PlyKirbyMtWh_Share_matanim_joint",
+            "rootOffset": 97280
+        }
+    ]
+}

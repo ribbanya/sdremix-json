@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyZelda.dat",
+    "nodes": [
+        {
+            "name": "ToyZeldaModel_TopN_joint",
+            "rootOffset": 99688
+        }
+    ]
+}

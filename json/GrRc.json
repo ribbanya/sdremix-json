@@ -1,0 +1,345 @@
+{
+    "sourceFile": "GrRc.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 478816
+        },
+        {
+            "name": "GrdRCruiseCarpet_C8_image",
+            "rootOffset": 648768
+        },
+        {
+            "name": "GrdRCruiseCarpet_tlut",
+            "rootOffset": 654528
+        },
+        {
+            "name": "GrdRCruiseCarpet_tlut_desc",
+            "rootOffset": 654944
+        },
+        {
+            "name": "GrdRCruiseChikuwayuka_C8_image",
+            "rootOffset": 646304
+        },
+        {
+            "name": "GrdRCruiseChikuwayuka_tlut",
+            "rootOffset": 648224
+        },
+        {
+            "name": "GrdRCruiseChikuwayuka_tlut_desc",
+            "rootOffset": 648736
+        },
+        {
+            "name": "GrdRCruiseCloudA_IA8_image",
+            "rootOffset": 766976
+        },
+        {
+            "name": "GrdRCruiseCloudB_IA8_image",
+            "rootOffset": 668672
+        },
+        {
+            "name": "GrdRCruiseFloorB_CMPR_image",
+            "rootOffset": 556128
+        },
+        {
+            "name": "GrdRCruiseFloorB_MIPMAP_CMPR_image",
+            "rootOffset": 643488
+        },
+        {
+            "name": "GrdRCruiseFloorC_CMPR_image",
+            "rootOffset": 600672
+        },
+        {
+            "name": "GrdRCruiseFloorD_CMPR_image",
+            "rootOffset": 596576
+        },
+        {
+            "name": "GrdRCruiseFloorE_CMPR_image",
+            "rootOffset": 641440
+        },
+        {
+            "name": "GrdRCruiseFloorF_CMPR_image",
+            "rootOffset": 602720
+        },
+        {
+            "name": "GrdRCruiseFloorG_MIPMAP_CMPR_image",
+            "rootOffset": 624864
+        },
+        {
+            "name": "GrdRCruiseFloorH_CMPR_image",
+            "rootOffset": 579424
+        },
+        {
+            "name": "GrdRCruiseFloorH_MIPMAP_CMPR_image",
+            "rootOffset": 576608
+        },
+        {
+            "name": "GrdRCruiseFloorI_CMPR_image",
+            "rootOffset": 566368
+        },
+        {
+            "name": "GrdRCruiseFloorSideA_CMPR_image",
+            "rootOffset": 592480
+        },
+        {
+            "name": "GrdRCruiseFloorSideA_MIPMAP_CMPR_image",
+            "rootOffset": 611104
+        },
+        {
+            "name": "GrdRCruiseFloorSideB_MIPMAP_CMPR_image",
+            "rootOffset": 604768
+        },
+        {
+            "name": "GrdRCruiseFloorSideC_CMPR_image",
+            "rootOffset": 574560
+        },
+        {
+            "name": "GrdRCruiseFloorSideD_CMPR_image",
+            "rootOffset": 616672
+        },
+        {
+            "name": "GrdRCruiseFloorSideD_MIPMAP_CMPR_image",
+            "rootOffset": 581472
+        },
+        {
+            "name": "GrdRCruiseFloorSideE_MIPMAP_CMPR_image",
+            "rootOffset": 635872
+        },
+        {
+            "name": "GrdRCruiseGold_CMPR_image",
+            "rootOffset": 555616
+        },
+        {
+            "name": "GrdRCruiseGold_MIPMAP_CMPR_image",
+            "rootOffset": 610336
+        },
+        {
+            "name": "GrdRCruiseGroundA_MIPMAP_CMPR_image",
+            "rootOffset": 894592
+        },
+        {
+            "name": "GrdRCruiseHouseB_C8_image",
+            "rootOffset": 816800
+        },
+        {
+            "name": "GrdRCruiseHouseB_tlut",
+            "rootOffset": 833184
+        },
+        {
+            "name": "GrdRCruiseHouseB_tlut_desc",
+            "rootOffset": 833696
+        },
+        {
+            "name": "GrdRCruiseHouseE_C8_image",
+            "rootOffset": 833728
+        },
+        {
+            "name": "GrdRCruiseHouseE_tlut",
+            "rootOffset": 850112
+        },
+        {
+            "name": "GrdRCruiseHouseE_tlut_desc",
+            "rootOffset": 850624
+        },
+        {
+            "name": "GrdRCruiseHouseF_C8_image",
+            "rootOffset": 850656
+        },
+        {
+            "name": "GrdRCruiseHouseF_tlut",
+            "rootOffset": 867040
+        },
+        {
+            "name": "GrdRCruiseHouseF_tlut_desc",
+            "rootOffset": 867552
+        },
+        {
+            "name": "GrdRCruiseMtA_MIPMAP_CMPR_image",
+            "rootOffset": 905600
+        },
+        {
+            "name": "GrdRCruiseMtB_MIPMAP_CMPR_image",
+            "rootOffset": 872576
+        },
+        {
+            "name": "GrdRCruiseMtC_MIPMAP_CMPR_image",
+            "rootOffset": 883584
+        },
+        {
+            "name": "GrdRCruiseRainbow_C8_image",
+            "rootOffset": 816128
+        },
+        {
+            "name": "GrdRCruiseRainbow_tlut",
+            "rootOffset": 816640
+        },
+        {
+            "name": "GrdRCruiseRainbow_tlut_desc",
+            "rootOffset": 816768
+        },
+        {
+            "name": "GrdRCruiseReflectionA_CMPR_image",
+            "rootOffset": 558176
+        },
+        {
+            "name": "GrdRCruiseShip00_CMPR_image",
+            "rootOffset": 493920
+        },
+        {
+            "name": "GrdRCruiseShip0_CMPR_image",
+            "rootOffset": 534880
+        },
+        {
+            "name": "GrdRCruiseShip1_CMPR_image",
+            "rootOffset": 526688
+        },
+        {
+            "name": "GrdRCruiseShip2_CMPR_image",
+            "rootOffset": 551520
+        },
+        {
+            "name": "GrdRCruiseShip3_CMPR_image",
+            "rootOffset": 539232
+        },
+        {
+            "name": "GrdRCruiseShip4_CMPR_image",
+            "rootOffset": 553568
+        },
+        {
+            "name": "GrdRCruiseShip5_I4_image",
+            "rootOffset": 539744
+        },
+        {
+            "name": "GrdRCruiseShipEng_CMPR_image",
+            "rootOffset": 537184
+        },
+        {
+            "name": "GrdRCruiseShipFloor_CMPR_image",
+            "rootOffset": 535136
+        },
+        {
+            "name": "GrdRCruiseShipHane_CMPR_image",
+            "rootOffset": 483680
+        },
+        {
+            "name": "GrdRCruiseShipHata_CMPR_image",
+            "rootOffset": 491872
+        },
+        {
+            "name": "GrdRCruiseShipHeli_CMPR_image",
+            "rootOffset": 480736
+        },
+        {
+            "name": "GrdRCruiseShipMast_CMPR_image",
+            "rootOffset": 545856
+        },
+        {
+            "name": "GrdRCruiseShipRef0_CMPR_image",
+            "rootOffset": 482656
+        },
+        {
+            "name": "GrdRCruiseShipRef1_CMPR_image",
+            "rootOffset": 543872
+        },
+        {
+            "name": "GrdRCruiseShipRingA_C8_image",
+            "rootOffset": 544384
+        },
+        {
+            "name": "GrdRCruiseShipRingA_tlut",
+            "rootOffset": 545408
+        },
+        {
+            "name": "GrdRCruiseShipRingA_tlut_desc",
+            "rootOffset": 545824
+        },
+        {
+            "name": "GrdRCruiseShipRingB_C8_image",
+            "rootOffset": 549952
+        },
+        {
+            "name": "GrdRCruiseShipRingB_tlut",
+            "rootOffset": 550976
+        },
+        {
+            "name": "GrdRCruiseShipRingB_tlut_desc",
+            "rootOffset": 551488
+        },
+        {
+            "name": "GrdRCruiseShipSaku_CMPR_image",
+            "rootOffset": 539776
+        },
+        {
+            "name": "GrdRCruiseShipTama_C8_image",
+            "rootOffset": 481760
+        },
+        {
+            "name": "GrdRCruiseShipTama_tlut",
+            "rootOffset": 482272
+        },
+        {
+            "name": "GrdRCruiseShipTama_tlut_desc",
+            "rootOffset": 482624
+        },
+        {
+            "name": "GrdRCruiseWallA_CMPR_image",
+            "rootOffset": 867584
+        },
+        {
+            "name": "GrdRCruiseWaterA_MIPMAP_IA4_image",
+            "rootOffset": 663136
+        },
+        {
+            "name": "GrdRCruiseWoodA_MIPMAP_CMPR_image",
+            "rootOffset": 916608
+        },
+        {
+            "name": "GrdRCruiseWoodB_C8_image",
+            "rootOffset": 868096
+        },
+        {
+            "name": "GrdRCruiseWoodB_tlut",
+            "rootOffset": 872192
+        },
+        {
+            "name": "GrdRCruiseWoodB_tlut_desc",
+            "rootOffset": 872544
+        },
+        {
+            "name": "GrdRainbowCruseJutan_RGB565_image",
+            "rootOffset": 654976
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 477848
+        },
+        {
+            "name": "dynamicsdata_shipflag",
+            "rootOffset": 420
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 478492
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 478712
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 1940
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 478924
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 928584
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 478716
+        }
+    ]
+}

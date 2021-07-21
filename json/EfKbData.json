@@ -1,0 +1,9 @@
+{
+    "sourceFile": "EfKbData.dat",
+    "nodes": [
+        {
+            "name": "effKirbyDataTable",
+            "rootOffset": 0
+        }
+    ]
+}

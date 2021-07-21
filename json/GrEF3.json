@@ -1,0 +1,93 @@
+{
+    "sourceFile": "GrEF3.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 398248
+        },
+        {
+            "name": "GrdFigure3MaskA_CMPR_image",
+            "rootOffset": 400544
+        },
+        {
+            "name": "GrdFigure3MaskB_CMPR_image",
+            "rootOffset": 416928
+        },
+        {
+            "name": "GrdFigure3MaskC_C8_image",
+            "rootOffset": 433312
+        },
+        {
+            "name": "GrdFigure3MaskC_tlut",
+            "rootOffset": 498848
+        },
+        {
+            "name": "GrdFigure3MaskC_tlut_desc",
+            "rootOffset": 499360
+        },
+        {
+            "name": "GrdFigure3MaskD_C8_image",
+            "rootOffset": 499392
+        },
+        {
+            "name": "GrdFigure3MaskD_tlut",
+            "rootOffset": 564928
+        },
+        {
+            "name": "GrdFigure3MaskD_tlut_desc",
+            "rootOffset": 565440
+        },
+        {
+            "name": "GrdNSrGrad1_I8_image",
+            "rootOffset": 565472
+        },
+        {
+            "name": "GrdNSrVanishEff_IA4_image",
+            "rootOffset": 604928
+        },
+        {
+            "name": "GrdNSrWater_RGB5A3_image",
+            "rootOffset": 569568
+        },
+        {
+            "name": "GrdShrineRouteIshi3_C8_image",
+            "rootOffset": 602336
+        },
+        {
+            "name": "GrdShrineRouteIshi3_tlut",
+            "rootOffset": 604384
+        },
+        {
+            "name": "GrdShrineRouteIshi3_tlut_desc",
+            "rootOffset": 604896
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 397848
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 397992
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 398212
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 328
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 398844
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 606920
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 398216
+        }
+    ]
+}

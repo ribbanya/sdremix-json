@@ -1,0 +1,25 @@
+{
+    "sourceFile": "TyMnDisp.dat",
+    "nodes": [
+        {
+            "name": "ScMenDisplay_cam_int1_camera",
+            "rootOffset": 201852
+        },
+        {
+            "name": "ScMenDisplay_fog",
+            "rootOffset": 202032
+        },
+        {
+            "name": "ScMenDisplay_scene_lights",
+            "rootOffset": 202020
+        },
+        {
+            "name": "ToyDspBg_Top_joint",
+            "rootOffset": 82120
+        },
+        {
+            "name": "ToyDspBg_Top_matanim_joint",
+            "rootOffset": 201536
+        }
+    ]
+}

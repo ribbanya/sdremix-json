@@ -1,0 +1,9 @@
+{
+    "sourceFile": "LbAd.dat",
+    "nodes": [
+        {
+            "name": "lbAudioLoadData",
+            "rootOffset": 13920
+        }
+    ]
+}

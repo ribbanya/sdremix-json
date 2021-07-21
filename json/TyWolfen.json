@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyWolfen.dat",
+    "nodes": [
+        {
+            "name": "ToyWolfenModel_TopN_joint",
+            "rootOffset": 28008
+        }
+    ]
+}

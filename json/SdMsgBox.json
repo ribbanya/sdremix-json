@@ -1,0 +1,9 @@
+{
+    "sourceFile": "SdMsgBox.dat",
+    "nodes": [
+        {
+            "name": "SIS_MessageData",
+            "rootOffset": 0
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "sourceFile": "GrIm.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 554672
+        },
+        {
+            "name": "GrdIcemtBridgeA_CMPR_image",
+            "rootOffset": 1001920
+        },
+        {
+            "name": "GrdIcemtChainA_CMPR_image",
+            "rootOffset": 1251264
+        },
+        {
+            "name": "GrdIcemtCloudA_IA8_image",
+            "rootOffset": 786880
+        },
+        {
+            "name": "GrdIcemtGreenStand_CMPR_image",
+            "rootOffset": 872896
+        },
+        {
+            "name": "GrdIcemtHookA_CMPR_image",
+            "rootOffset": 1232832
+        },
+        {
+            "name": "GrdIcemtIPlateA_CMPR_image",
+            "rootOffset": 997312
+        },
+        {
+            "name": "GrdIcemtIPlateC_CMPR_image",
+            "rootOffset": 999360
+        },
+        {
+            "name": "GrdIcemtIceB_CMPR_image",
+            "rootOffset": 1520064
+        },
+        {
+            "name": "GrdIcemtIceC_CMPR_image",
+            "rootOffset": 893376
+        },
+        {
+            "name": "GrdIcemtIceH_CMPR_image",
+            "rootOffset": 901568
+        },
+        {
+            "name": "GrdIcemtIronA_CMPR_image",
+            "rootOffset": 1047488
+        },
+        {
+            "name": "GrdIcemtIronB_CMPR_image",
+            "rootOffset": 999872
+        },
+        {
+            "name": "GrdIcemtIronC_CMPR_image",
+            "rootOffset": 989632
+        },
+        {
+            "name": "GrdIcemtIronD_CMPR_image",
+            "rootOffset": 996288
+        },
+        {
+            "name": "GrdIcemtIronF_CMPR_image",
+            "rootOffset": 994240
+        },
+        {
+            "name": "GrdIcemtIronG_CMPR_image",
+            "rootOffset": 990144
+        },
+        {
+            "name": "GrdIcemtNejiA_CMPR_image",
+            "rootOffset": 992192
+        },
+        {
+            "name": "GrdIcemtNetIronA_CMPR_image",
+            "rootOffset": 1003968
+        },
+        {
+            "name": "GrdIcemtNetIronB_CMPR_image",
+            "rootOffset": 1006016
+        },
+        {
+            "name": "GrdIcemtNetNejiA_CMPR_image",
+            "rootOffset": 1006528
+        },
+        {
+            "name": "GrdIcemtRedStand_CMPR_image",
+            "rootOffset": 852416
+        },
+        {
+            "name": "GrdIcemtRockA_CMPR_image",
+            "rootOffset": 1082304
+        },
+        {
+            "name": "GrdIcemtRockB_CMPR_image",
+            "rootOffset": 778688
+        },
+        {
+            "name": "GrdIcemtRockD_RGB5A3_image",
+            "rootOffset": 1090496
+        },
+        {
+            "name": "GrdIcemtRockE_CMPR_image",
+            "rootOffset": 1049536
+        },
+        {
+            "name": "GrdIcemtRopeA_CMPR_image",
+            "rootOffset": 1230784
+        },
+        {
+            "name": "GrdIcemtRopeB_CMPR_image",
+            "rootOffset": 1229760
+        },
+        {
+            "name": "GrdIcemtSkyB_IA8_image",
+            "rootOffset": 647616
+        },
+        {
+            "name": "GrdIcemtSnowA_RGB5A3_image",
+            "rootOffset": 1253312
+        },
+        {
+            "name": "GrdIcemtSnowC_CMPR_image",
+            "rootOffset": 1221568
+        },
+        {
+            "name": "GrdIcemtSnowG_IA8_image",
+            "rootOffset": 917952
+        },
+        {
+            "name": "GrdIcemtSnowH_IA8_image",
+            "rootOffset": 1010624
+        },
+        {
+            "name": "GrdIcemtTreeA_CMPR_image",
+            "rootOffset": 1515456
+        },
+        {
+            "name": "GrdIcemtTsuraraA_CMPR_image",
+            "rootOffset": 1236672
+        },
+        {
+            "name": "GrdIcemtWoodB_CMPR_image",
+            "rootOffset": 983488
+        },
+        {
+            "name": "GrdIcemtWoodE_CMPR_image",
+            "rootOffset": 1043392
+        },
+        {
+            "name": "GrdIcemtWoodG_CMPR_image",
+            "rootOffset": 1008576
+        },
+        {
+            "name": "GrdIcemtWoodH_CMPR_image",
+            "rootOffset": 909760
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 550552
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 554020
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 554240
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 1324
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 645920
+        },
+        {
+            "name": "map_ptcl",
+            "rootOffset": 550624
+        },
+        {
+            "name": "map_texg",
+            "rootOffset": 551200
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 1529224
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 554328
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyStar.dat",
+    "nodes": [
+        {
+            "name": "ToyStarModel_TopN_joint",
+            "rootOffset": 1992
+        }
+    ]
+}

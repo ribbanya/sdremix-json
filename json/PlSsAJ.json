@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlSsAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Wait",
+            "name": "PlySamus5K_Share_ACTION_Wait_figatree",
+            "rootOffset": 2736,
+            "data": {
+                "numFrames": 81.0,
+                "boneTableOffset": 2672,
+                "animDataOffset": 1352
+            }
+        }
+    ]
+}

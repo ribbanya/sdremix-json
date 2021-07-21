@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlKbBuCpFc.dat",
+    "nodes": [
+        {
+            "name": "PlyKirbyFcBu_Share_joint",
+            "rootOffset": 50740
+        },
+        {
+            "name": "PlyKirbyFcBu_Share_matanim_joint",
+            "rootOffset": 115508
+        }
+    ]
+}

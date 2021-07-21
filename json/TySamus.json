@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TySamus.dat",
+    "nodes": [
+        {
+            "name": "ToySamusModel_TopN_joint",
+            "rootOffset": 103112
+        }
+    ]
+}

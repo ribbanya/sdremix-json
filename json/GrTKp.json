@@ -1,0 +1,77 @@
+{
+    "sourceFile": "GrTKp.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 56448
+        },
+        {
+            "name": "GrdTKoopaFloor00_RGB565_image",
+            "rootOffset": 125664
+        },
+        {
+            "name": "GrdTKoopaRelief00_RGB565_image",
+            "rootOffset": 314080
+        },
+        {
+            "name": "GrdTKoopaRelief01_RGB565_image",
+            "rootOffset": 133856
+        },
+        {
+            "name": "GrdTKoopaRelief02_RGB565_image",
+            "rootOffset": 60128
+        },
+        {
+            "name": "GrdTKoopaRelief04_RGB565_image",
+            "rootOffset": 92896
+        },
+        {
+            "name": "GrdTKoopaRelief05_RGB565_image",
+            "rootOffset": 248544
+        },
+        {
+            "name": "GrdTKoopaRelief06_RGB565_image",
+            "rootOffset": 199392
+        },
+        {
+            "name": "GrdTKoopaRelief07_RGB565_image",
+            "rootOffset": 166624
+        },
+        {
+            "name": "GrdTKoopaRelief08_RGB565_image",
+            "rootOffset": 232160
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 346848
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 56044
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 56188
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 56408
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 392
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 59360
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 349864
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 56416
+        }
+    ]
+}

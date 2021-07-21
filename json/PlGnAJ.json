@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlGnAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Wait1",
+            "name": "PlyGanon5K_Share_ACTION_Wait1_figatree",
+            "rootOffset": 16248,
+            "data": {
+                "numFrames": 160.0,
+                "boneTableOffset": 16160,
+                "animDataOffset": 14072
+            }
+        }
+    ]
+}

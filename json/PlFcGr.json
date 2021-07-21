@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlFcGr.dat",
+    "nodes": [
+        {
+            "name": "PlyFalco5KGr_Share_joint",
+            "rootOffset": 93864
+        },
+        {
+            "name": "PlyFalco5KGr_Share_matanim_joint",
+            "rootOffset": 220536
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlLkNr.dat",
+    "nodes": [
+        {
+            "name": "PlyLink5K_Share_joint",
+            "rootOffset": 125704
+        },
+        {
+            "name": "PlyLink5K_Share_matanim_joint",
+            "rootOffset": 313936
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyRaygun.dat",
+    "nodes": [
+        {
+            "name": "ToyRaygunModel_TopN_joint",
+            "rootOffset": 7752
+        }
+    ]
+}

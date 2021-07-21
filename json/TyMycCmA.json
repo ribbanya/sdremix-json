@@ -1,0 +1,13 @@
+{
+    "sourceFile": "TyMycCmA.dat",
+    "nodes": [
+        {
+            "name": "ToyDspMycharaCmA_Top_joint",
+            "rootOffset": 392
+        },
+        {
+            "name": "ToyDspMycharaCmA_Top_matanim_joint",
+            "rootOffset": 17824
+        }
+    ]
+}

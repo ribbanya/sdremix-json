@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlYsAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Wait",
+            "name": "PlyYoshi5K_Share_ACTION_Wait_figatree",
+            "rootOffset": 5044,
+            "data": {
+                "numFrames": 400.0,
+                "boneTableOffset": 4972,
+                "animDataOffset": 3472
+            }
+        }
+    ]
+}

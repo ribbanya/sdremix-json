@@ -1,0 +1,17 @@
+{
+    "sourceFile": "PlPrBu.dat",
+    "nodes": [
+        {
+            "name": "PlyPurin5KBu_Share_joint",
+            "rootOffset": 67280
+        },
+        {
+            "name": "PlyPurin5KBu_Share_matanim_joint",
+            "rootOffset": 105504
+        },
+        {
+            "name": "PlyPurinBuHat_TopN_joint",
+            "rootOffset": 253680
+        }
+    ]
+}

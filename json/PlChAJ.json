@@ -1,0 +1,15 @@
+{
+    "sourceFile": "PlChAJ.dat",
+    "nodes": [
+        {
+            "shortName": "Kumo",
+            "name": "PlyCrazyhand_Share_ACTION_Kumo_figatree",
+            "rootOffset": 4012,
+            "data": {
+                "numFrames": 24.0,
+                "boneTableOffset": 3980,
+                "animDataOffset": 2036
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "sourceFile": "GrTSs.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 104552
+        },
+        {
+            "name": "GrdTSamusFioor00_RGBA8_image",
+            "rootOffset": 277760
+        },
+        {
+            "name": "GrdTSamusFioor01_RGBA8_image",
+            "rootOffset": 112832
+        },
+        {
+            "name": "GrdTSamusFioor02_C8_image",
+            "rootOffset": 178368
+        },
+        {
+            "name": "GrdTSamusFioor02_tlut",
+            "rootOffset": 194752
+        },
+        {
+            "name": "GrdTSamusFioor02_tlut_desc",
+            "rootOffset": 195264
+        },
+        {
+            "name": "GrdTSamusFioor03_C8_image",
+            "rootOffset": 195296
+        },
+        {
+            "name": "GrdTSamusFioor03_tlut",
+            "rootOffset": 211680
+        },
+        {
+            "name": "GrdTSamusFioor03_tlut_desc",
+            "rootOffset": 212192
+        },
+        {
+            "name": "GrdTSamusMecha00_RGBA8_image",
+            "rootOffset": 408832
+        },
+        {
+            "name": "GrdTSamusMecha01_RGBA8_image",
+            "rootOffset": 343296
+        },
+        {
+            "name": "GrdTSamusPanel00_RGBA8_image",
+            "rootOffset": 212224
+        },
+        {
+            "name": "GrdTSamusPanel01_RGBA8_image",
+            "rootOffset": 474368
+        },
+        {
+            "name": "GrdTSamusPanel02_C8_image",
+            "rootOffset": 108192
+        },
+        {
+            "name": "GrdTSamusPanel02_tlut",
+            "rootOffset": 112288
+        },
+        {
+            "name": "GrdTSamusPanel02_tlut_desc",
+            "rootOffset": 112800
+        },
+        {
+            "name": "GrdTSamusPipe00_RGBA8_image",
+            "rootOffset": 539904
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 572672
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 104148
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 104292
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 104512
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 448
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 107456
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 575688
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 104520
+        }
+    ]
+}

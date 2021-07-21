@@ -1,0 +1,53 @@
+{
+    "sourceFile": "TyMcR2Ds.dat",
+    "nodes": [
+        {
+            "name": "ToyDspMycharaR2A_Top_joint",
+            "rootOffset": 392
+        },
+        {
+            "name": "ToyDspMycharaR2A_Top_matanim_joint",
+            "rootOffset": 17896
+        },
+        {
+            "name": "ToyDspMycharaR2B_Top_joint",
+            "rootOffset": 187592
+        },
+        {
+            "name": "ToyDspMycharaR2B_Top_matanim_joint",
+            "rootOffset": 198696
+        },
+        {
+            "name": "ToyDspMycharaR2C_Top_joint",
+            "rootOffset": 231464
+        },
+        {
+            "name": "ToyDspMycharaR2C_Top_matanim_joint",
+            "rootOffset": 242568
+        },
+        {
+            "name": "ToyDspMycharaR2D_Top_joint",
+            "rootOffset": 275336
+        },
+        {
+            "name": "ToyDspMycharaR2D_Top_matanim_joint",
+            "rootOffset": 285456
+        },
+        {
+            "name": "ToyDspMycharaR2E_Top_joint",
+            "rootOffset": 324904
+        },
+        {
+            "name": "ToyDspMycharaR2E_Top_matanim_joint",
+            "rootOffset": 340816
+        },
+        {
+            "name": "ToyDspStand_Top_joint",
+            "rootOffset": 419560
+        },
+        {
+            "name": "ToyDspStand_Top_matanim_joint",
+            "rootOffset": 421984
+        }
+    ]
+}

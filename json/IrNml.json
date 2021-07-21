@@ -1,0 +1,57 @@
+{
+    "sourceFile": "IrNml.dat",
+    "nodes": [
+        {
+            "name": "ScItrNormal_scene_data",
+            "rootOffset": 740628
+        },
+        {
+            "name": "mc01",
+            "rootOffset": 742876
+        },
+        {
+            "name": "mc02",
+            "rootOffset": 745148
+        },
+        {
+            "name": "mc03",
+            "rootOffset": 747488
+        },
+        {
+            "name": "mc04",
+            "rootOffset": 749652
+        },
+        {
+            "name": "mc05",
+            "rootOffset": 751904
+        },
+        {
+            "name": "mc06",
+            "rootOffset": 755024
+        },
+        {
+            "name": "mc07",
+            "rootOffset": 757204
+        },
+        {
+            "name": "mc08",
+            "rootOffset": 759672
+        },
+        {
+            "name": "mc09",
+            "rootOffset": 761996
+        },
+        {
+            "name": "mc10",
+            "rootOffset": 764776
+        },
+        {
+            "name": "mc11",
+            "rootOffset": 766804
+        },
+        {
+            "name": "mc12",
+            "rootOffset": 769504
+        }
+    ]
+}

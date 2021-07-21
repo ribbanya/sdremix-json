@@ -1,0 +1,9 @@
+{
+    "sourceFile": "EfPrData.dat",
+    "nodes": [
+        {
+            "name": "effPurinDataTable",
+            "rootOffset": 0
+        }
+    ]
+}

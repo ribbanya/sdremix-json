@@ -1,0 +1,41 @@
+{
+    "sourceFile": "GrTSk.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 27392
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 31328
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 26988
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 27132
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 27352
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 280
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 30304
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 34344
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 27360
+        }
+    ]
+}

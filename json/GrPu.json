@@ -1,0 +1,1077 @@
+{
+    "sourceFile": "GrPu.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 971476
+        },
+        {
+            "name": "GrdIzumiStar_TopN_joint",
+            "rootOffset": 508904
+        },
+        {
+            "name": "GrdPuraBGNishihoIA8_IA8_image",
+            "rootOffset": 90112
+        },
+        {
+            "name": "GrdPuraBGPokeCloud1_I8_image",
+            "rootOffset": 4096
+        },
+        {
+            "name": "GrdPuraBGPokeCloud2_I8_image",
+            "rootOffset": 20480
+        },
+        {
+            "name": "GrdPuraBGRefCloud2_I8_image",
+            "rootOffset": 0
+        },
+        {
+            "name": "GrdPuraBGSunShine_I8_image",
+            "rootOffset": 24576
+        },
+        {
+            "name": "GrdPuraBeroringaBodyA_CMPR_image",
+            "rootOffset": 160128
+        },
+        {
+            "name": "GrdPuraBeroringaBodyB_C8_image",
+            "rootOffset": 155648
+        },
+        {
+            "name": "GrdPuraBeroringaBodyB_tlut",
+            "rootOffset": 156672
+        },
+        {
+            "name": "GrdPuraBeroringaBodyB_tlut_desc",
+            "rootOffset": 156704
+        },
+        {
+            "name": "GrdPuraBeroringaBodyC_C8_image",
+            "rootOffset": 156736
+        },
+        {
+            "name": "GrdPuraBeroringaBodyC_tlut",
+            "rootOffset": 157760
+        },
+        {
+            "name": "GrdPuraBeroringaBodyC_tlut_desc",
+            "rootOffset": 157984
+        },
+        {
+            "name": "GrdPuraBeroringaBodyD_C8_image",
+            "rootOffset": 158016
+        },
+        {
+            "name": "GrdPuraBeroringaBodyD_tlut",
+            "rootOffset": 160064
+        },
+        {
+            "name": "GrdPuraBeroringaBodyD_tlut_desc",
+            "rootOffset": 160096
+        },
+        {
+            "name": "GrdPuraBeroringaBodyE_C8_image",
+            "rootOffset": 165376
+        },
+        {
+            "name": "GrdPuraBeroringaBodyE_tlut",
+            "rootOffset": 166400
+        },
+        {
+            "name": "GrdPuraBeroringaBodyE_tlut_desc",
+            "rootOffset": 166592
+        },
+        {
+            "name": "GrdPuraBeroringaClaw_CMPR_image",
+            "rootOffset": 166624
+        },
+        {
+            "name": "GrdPuraBeroringaEye_C8_image",
+            "rootOffset": 161440
+        },
+        {
+            "name": "GrdPuraBeroringaEye_tlut",
+            "rootOffset": 162464
+        },
+        {
+            "name": "GrdPuraBeroringaEye_tlut_desc",
+            "rootOffset": 162848
+        },
+        {
+            "name": "GrdPuraBeroringaMouth_CMPR_image",
+            "rootOffset": 160160
+        },
+        {
+            "name": "GrdPuraBeroringaNose_C8_image",
+            "rootOffset": 160192
+        },
+        {
+            "name": "GrdPuraBeroringaNose_tlut",
+            "rootOffset": 161216
+        },
+        {
+            "name": "GrdPuraBeroringaNose_tlut_desc",
+            "rootOffset": 161408
+        },
+        {
+            "name": "GrdPuraBeroringaTongue_C8_image",
+            "rootOffset": 162880
+        },
+        {
+            "name": "GrdPuraBeroringaTongue_tlut",
+            "rootOffset": 164928
+        },
+        {
+            "name": "GrdPuraBeroringaTongue_tlut_desc",
+            "rootOffset": 165344
+        },
+        {
+            "name": "GrdPuraChicoritaClaw_C4_image",
+            "rootOffset": 168928
+        },
+        {
+            "name": "GrdPuraChicoritaClaw_tlut",
+            "rootOffset": 169056
+        },
+        {
+            "name": "GrdPuraChicoritaClaw_tlut_desc",
+            "rootOffset": 169088
+        },
+        {
+            "name": "GrdPuraChicoritaEye_CMPR_image",
+            "rootOffset": 167136
+        },
+        {
+            "name": "GrdPuraChicoritaHa_CMPR_image",
+            "rootOffset": 168224
+        },
+        {
+            "name": "GrdPuraChicoritaKubi_C4_image",
+            "rootOffset": 168736
+        },
+        {
+            "name": "GrdPuraChicoritaKubi_tlut",
+            "rootOffset": 168864
+        },
+        {
+            "name": "GrdPuraChicoritaKubi_tlut_desc",
+            "rootOffset": 168896
+        },
+        {
+            "name": "GrdPuraChicoritaMouth_C4_image",
+            "rootOffset": 167648
+        },
+        {
+            "name": "GrdPuraChicoritaMouth_tlut",
+            "rootOffset": 168160
+        },
+        {
+            "name": "GrdPuraChicoritaMouth_tlut_desc",
+            "rootOffset": 168192
+        },
+        {
+            "name": "GrdPuraFushigibanaEar_C8_image",
+            "rootOffset": 183360
+        },
+        {
+            "name": "GrdPuraFushigibanaEar_tlut",
+            "rootOffset": 184384
+        },
+        {
+            "name": "GrdPuraFushigibanaEar_tlut_desc",
+            "rootOffset": 184480
+        },
+        {
+            "name": "GrdPuraFushigibanaEye_C8_image",
+            "rootOffset": 181792
+        },
+        {
+            "name": "GrdPuraFushigibanaEye_tlut",
+            "rootOffset": 182816
+        },
+        {
+            "name": "GrdPuraFushigibanaEye_tlut_desc",
+            "rootOffset": 183328
+        },
+        {
+            "name": "GrdPuraFushigibanaFlowerA_C8_image",
+            "rootOffset": 175328
+        },
+        {
+            "name": "GrdPuraFushigibanaFlowerA_tlut",
+            "rootOffset": 176352
+        },
+        {
+            "name": "GrdPuraFushigibanaFlowerA_tlut_desc",
+            "rootOffset": 176576
+        },
+        {
+            "name": "GrdPuraFushigibanaFlowerB_C8_image",
+            "rootOffset": 176608
+        },
+        {
+            "name": "GrdPuraFushigibanaFlowerB_tlut",
+            "rootOffset": 177632
+        },
+        {
+            "name": "GrdPuraFushigibanaFlowerB_tlut_desc",
+            "rootOffset": 177728
+        },
+        {
+            "name": "GrdPuraFushigibanaFlowerC_C8_image",
+            "rootOffset": 178944
+        },
+        {
+            "name": "GrdPuraFushigibanaFlowerC_tlut",
+            "rootOffset": 179968
+        },
+        {
+            "name": "GrdPuraFushigibanaFlowerC_tlut_desc",
+            "rootOffset": 180032
+        },
+        {
+            "name": "GrdPuraFushigibanaFlowerD_C8_image",
+            "rootOffset": 177760
+        },
+        {
+            "name": "GrdPuraFushigibanaFlowerD_tlut",
+            "rootOffset": 178784
+        },
+        {
+            "name": "GrdPuraFushigibanaFlowerD_tlut_desc",
+            "rootOffset": 178912
+        },
+        {
+            "name": "GrdPuraFushigibanaFlowerE_CMPR_image",
+            "rootOffset": 174816
+        },
+        {
+            "name": "GrdPuraFushigibanaFlowerF_C4_image",
+            "rootOffset": 181600
+        },
+        {
+            "name": "GrdPuraFushigibanaFlowerF_tlut",
+            "rootOffset": 181728
+        },
+        {
+            "name": "GrdPuraFushigibanaFlowerF_tlut_desc",
+            "rootOffset": 181760
+        },
+        {
+            "name": "GrdPuraFushigibanaGrassA_CMPR_image",
+            "rootOffset": 180064
+        },
+        {
+            "name": "GrdPuraFushigibanaGrassB_CMPR_image",
+            "rootOffset": 180576
+        },
+        {
+            "name": "GrdPuraFushigibanaGrassC_CMPR_image",
+            "rootOffset": 181088
+        },
+        {
+            "name": "GrdPuraFushigibanaIbo_C8_image",
+            "rootOffset": 169120
+        },
+        {
+            "name": "GrdPuraFushigibanaIbo_tlut",
+            "rootOffset": 170144
+        },
+        {
+            "name": "GrdPuraFushigibanaIbo_tlut_desc",
+            "rootOffset": 170304
+        },
+        {
+            "name": "GrdPuraFushigibanaMouth_C8_image",
+            "rootOffset": 170336
+        },
+        {
+            "name": "GrdPuraFushigibanaMouth_tlut",
+            "rootOffset": 171360
+        },
+        {
+            "name": "GrdPuraFushigibanaMouth_tlut_desc",
+            "rootOffset": 171680
+        },
+        {
+            "name": "GrdPuraFushigibanaNose_C8_image",
+            "rootOffset": 184512
+        },
+        {
+            "name": "GrdPuraFushigibanaNose_tlut",
+            "rootOffset": 185536
+        },
+        {
+            "name": "GrdPuraFushigibanaNose_tlut_desc",
+            "rootOffset": 185760
+        },
+        {
+            "name": "GrdPuraFushigibanaTongue_CMPR_image",
+            "rootOffset": 171712
+        },
+        {
+            "name": "GrdPuraFushigibanaTree_C8_image",
+            "rootOffset": 172224
+        },
+        {
+            "name": "GrdPuraFushigibanaTree_tlut",
+            "rootOffset": 174272
+        },
+        {
+            "name": "GrdPuraFushigibanaTree_tlut_desc",
+            "rootOffset": 174784
+        },
+        {
+            "name": "GrdPuraIsitsubuteBody_CMPR_image",
+            "rootOffset": 185792
+        },
+        {
+            "name": "GrdPuraIsitsubuteEye_C4_image",
+            "rootOffset": 187488
+        },
+        {
+            "name": "GrdPuraIsitsubuteEye_tlut",
+            "rootOffset": 188000
+        },
+        {
+            "name": "GrdPuraIsitsubuteEye_tlut_desc",
+            "rootOffset": 188032
+        },
+        {
+            "name": "GrdPuraIsitsubuteFace_CMPR_image",
+            "rootOffset": 188064
+        },
+        {
+            "name": "GrdPuraIsitsubuteHand_CMPR_image",
+            "rootOffset": 188320
+        },
+        {
+            "name": "GrdPuraIsitsubuteTongue_C8_image",
+            "rootOffset": 186304
+        },
+        {
+            "name": "GrdPuraIsitsubuteTongue_tlut",
+            "rootOffset": 187328
+        },
+        {
+            "name": "GrdPuraIsitsubuteTongue_tlut_desc",
+            "rootOffset": 187456
+        },
+        {
+            "name": "GrdPuraIwarkBody_CMPR_image",
+            "rootOffset": 191904
+        },
+        {
+            "name": "GrdPuraIwarkEye_CMPR_image",
+            "rootOffset": 188832
+        },
+        {
+            "name": "GrdPuraIwarkMouthA_CMPR_image",
+            "rootOffset": 189856
+        },
+        {
+            "name": "GrdPuraIwarkMouthB_CMPR_image",
+            "rootOffset": 193952
+        },
+        {
+            "name": "GrdPuraKabigonEye_C8_image",
+            "rootOffset": 200672
+        },
+        {
+            "name": "GrdPuraKabigonEye_tlut",
+            "rootOffset": 201696
+        },
+        {
+            "name": "GrdPuraKabigonEye_tlut_desc",
+            "rootOffset": 201856
+        },
+        {
+            "name": "GrdPuraKabigonFoot_C4_image",
+            "rootOffset": 201888
+        },
+        {
+            "name": "GrdPuraKabigonFoot_tlut",
+            "rootOffset": 202400
+        },
+        {
+            "name": "GrdPuraKabigonFoot_tlut_desc",
+            "rootOffset": 202432
+        },
+        {
+            "name": "GrdPuraKabigonHara_C4_image",
+            "rootOffset": 196000
+        },
+        {
+            "name": "GrdPuraKabigonHara_tlut",
+            "rootOffset": 197024
+        },
+        {
+            "name": "GrdPuraKabigonHara_tlut_desc",
+            "rootOffset": 197056
+        },
+        {
+            "name": "GrdPuraKabigonHead_C4_image",
+            "rootOffset": 197088
+        },
+        {
+            "name": "GrdPuraKabigonHead_tlut",
+            "rootOffset": 198112
+        },
+        {
+            "name": "GrdPuraKabigonHead_tlut_desc",
+            "rootOffset": 198144
+        },
+        {
+            "name": "GrdPuraKabigonMouth_C8_image",
+            "rootOffset": 198176
+        },
+        {
+            "name": "GrdPuraKabigonMouth_tlut",
+            "rootOffset": 200224
+        },
+        {
+            "name": "GrdPuraKabigonMouth_tlut_desc",
+            "rootOffset": 200640
+        },
+        {
+            "name": "GrdPuraKoduckBodyA_CMPR_image",
+            "rootOffset": 202464
+        },
+        {
+            "name": "GrdPuraKoduckEye_CMPR_image",
+            "rootOffset": 202496
+        },
+        {
+            "name": "GrdPuraKoduckFoot_CMPR_image",
+            "rootOffset": 205184
+        },
+        {
+            "name": "GrdPuraKoduckMouth_CMPR_image",
+            "rootOffset": 204544
+        },
+        {
+            "name": "GrdPuraKoduckNose_CMPR_image",
+            "rootOffset": 203520
+        },
+        {
+            "name": "GrdPuraMatadogasBace_CMPR_image",
+            "rootOffset": 216800
+        },
+        {
+            "name": "GrdPuraMatadogasEyeA_C8_image",
+            "rootOffset": 228032
+        },
+        {
+            "name": "GrdPuraMatadogasEyeA_tlut",
+            "rootOffset": 232128
+        },
+        {
+            "name": "GrdPuraMatadogasEyeA_tlut_desc",
+            "rootOffset": 232352
+        },
+        {
+            "name": "GrdPuraMatadogasEyeB_C8_image",
+            "rootOffset": 223616
+        },
+        {
+            "name": "GrdPuraMatadogasEyeB_tlut",
+            "rootOffset": 227712
+        },
+        {
+            "name": "GrdPuraMatadogasEyeB_tlut_desc",
+            "rootOffset": 228000
+        },
+        {
+            "name": "GrdPuraMatadogasFaceA_C8_image",
+            "rootOffset": 219264
+        },
+        {
+            "name": "GrdPuraMatadogasFaceA_tlut",
+            "rootOffset": 223360
+        },
+        {
+            "name": "GrdPuraMatadogasFaceA_tlut_desc",
+            "rootOffset": 223584
+        },
+        {
+            "name": "GrdPuraMatadogasMarkA_C8_image",
+            "rootOffset": 208064
+        },
+        {
+            "name": "GrdPuraMatadogasMarkA_tlut",
+            "rootOffset": 216256
+        },
+        {
+            "name": "GrdPuraMatadogasMarkA_tlut_desc",
+            "rootOffset": 216768
+        },
+        {
+            "name": "GrdPuraMatadogasMarkB_C8_image",
+            "rootOffset": 216832
+        },
+        {
+            "name": "GrdPuraMatadogasMarkB_tlut",
+            "rootOffset": 218880
+        },
+        {
+            "name": "GrdPuraMatadogasMarkB_tlut_desc",
+            "rootOffset": 219232
+        },
+        {
+            "name": "GrdPuraMatadogasMouthA_C8_image",
+            "rootOffset": 234720
+        },
+        {
+            "name": "GrdPuraMatadogasMouthA_tlut",
+            "rootOffset": 236768
+        },
+        {
+            "name": "GrdPuraMatadogasMouthA_tlut_desc",
+            "rootOffset": 236800
+        },
+        {
+            "name": "GrdPuraMatadogasMouthB_C8_image",
+            "rootOffset": 232384
+        },
+        {
+            "name": "GrdPuraMatadogasMouthB_tlut",
+            "rootOffset": 234432
+        },
+        {
+            "name": "GrdPuraMatadogasMouthB_tlut_desc",
+            "rootOffset": 234688
+        },
+        {
+            "name": "GrdPuraPawouBase_C8_image",
+            "rootOffset": 236832
+        },
+        {
+            "name": "GrdPuraPawouBase_tlut",
+            "rootOffset": 236896
+        },
+        {
+            "name": "GrdPuraPawouBase_tlut_desc",
+            "rootOffset": 236928
+        },
+        {
+            "name": "GrdPuraPawouEyeA_C8_image",
+            "rootOffset": 236960
+        },
+        {
+            "name": "GrdPuraPawouEyeA_tlut",
+            "rootOffset": 238560
+        },
+        {
+            "name": "GrdPuraPawouEyeA_tlut_desc",
+            "rootOffset": 238592
+        },
+        {
+            "name": "GrdPuraPawouEyebrow_C4_image",
+            "rootOffset": 238624
+        },
+        {
+            "name": "GrdPuraPawouEyebrow_tlut",
+            "rootOffset": 238944
+        },
+        {
+            "name": "GrdPuraPawouEyebrow_tlut_desc",
+            "rootOffset": 238976
+        },
+        {
+            "name": "GrdPuraPawouFinL_C8_image",
+            "rootOffset": 239008
+        },
+        {
+            "name": "GrdPuraPawouFinL_tlut",
+            "rootOffset": 239776
+        },
+        {
+            "name": "GrdPuraPawouFinL_tlut_desc",
+            "rootOffset": 239872
+        },
+        {
+            "name": "GrdPuraPawouHorn_C4_image",
+            "rootOffset": 239904
+        },
+        {
+            "name": "GrdPuraPawouHorn_tlut",
+            "rootOffset": 239968
+        },
+        {
+            "name": "GrdPuraPawouHorn_tlut_desc",
+            "rootOffset": 240000
+        },
+        {
+            "name": "GrdPuraPawouMouth_CMPR_image",
+            "rootOffset": 240032
+        },
+        {
+            "name": "GrdPuraPawouNose_I4_image",
+            "rootOffset": 240064
+        },
+        {
+            "name": "GrdPuraPawouTongue_CMPR_image",
+            "rootOffset": 240576
+        },
+        {
+            "name": "GrdPuraPorygonBlue_CMPR_image",
+            "rootOffset": 240992
+        },
+        {
+            "name": "GrdPuraPorygonEye_C4_image",
+            "rootOffset": 241024
+        },
+        {
+            "name": "GrdPuraPorygonEye_tlut",
+            "rootOffset": 241536
+        },
+        {
+            "name": "GrdPuraPorygonEye_tlut_desc",
+            "rootOffset": 241568
+        },
+        {
+            "name": "GrdPuraPorygonPink_CMPR_image",
+            "rootOffset": 240960
+        },
+        {
+            "name": "GrdPuraSonansBodyA_CMPR_image",
+            "rootOffset": 241600
+        },
+        {
+            "name": "GrdPuraSonansEyeA_CMPR_image",
+            "rootOffset": 241632
+        },
+        {
+            "name": "GrdPuraSonansEyeB_C8_image",
+            "rootOffset": 245728
+        },
+        {
+            "name": "GrdPuraSonansEyeB_tlut",
+            "rootOffset": 246752
+        },
+        {
+            "name": "GrdPuraSonansEyeB_tlut_desc",
+            "rootOffset": 246880
+        },
+        {
+            "name": "GrdPuraSonansMouthA_CMPR_image",
+            "rootOffset": 244704
+        },
+        {
+            "name": "GrdPuraSonansMouthB_CMPR_image",
+            "rootOffset": 242656
+        },
+        {
+            "name": "GrdPuraTosakintoEye_CMPR_image",
+            "rootOffset": 249536
+        },
+        {
+            "name": "GrdPuraTosakintoHarahire_C8_image",
+            "rootOffset": 252096
+        },
+        {
+            "name": "GrdPuraTosakintoHarahire_tlut",
+            "rootOffset": 254144
+        },
+        {
+            "name": "GrdPuraTosakintoHarahire_tlut_desc",
+            "rootOffset": 254272
+        },
+        {
+            "name": "GrdPuraTosakintoHarasiro_CMPR_image",
+            "rootOffset": 248512
+        },
+        {
+            "name": "GrdPuraTosakintoHireA_C8_image",
+            "rootOffset": 254304
+        },
+        {
+            "name": "GrdPuraTosakintoHireA_tlut",
+            "rootOffset": 256352
+        },
+        {
+            "name": "GrdPuraTosakintoHireA_tlut_desc",
+            "rootOffset": 256384
+        },
+        {
+            "name": "GrdPuraTosakintoLips_CMPR_image",
+            "rootOffset": 246912
+        },
+        {
+            "name": "GrdPuraTosakintoMouth_CMPR_image",
+            "rootOffset": 248448
+        },
+        {
+            "name": "GrdPuraTosakintoSebireB_CMPR_image",
+            "rootOffset": 251072
+        },
+        {
+            "name": "GrdPuraTosakintoSemoyou_CMPR_image",
+            "rootOffset": 250048
+        },
+        {
+            "name": "GrdPuraTosakintoSkin_CMPR_image",
+            "rootOffset": 248480
+        },
+        {
+            "name": "GrdPuraTosakintoTuno_CMPR_image",
+            "rootOffset": 247936
+        },
+        {
+            "name": "GrdPuraTosakintotHireB_C8_image",
+            "rootOffset": 256416
+        },
+        {
+            "name": "GrdPuraTosakintotHireB_tlut",
+            "rootOffset": 258464
+        },
+        {
+            "name": "GrdPuraTosakintotHireB_tlut_desc",
+            "rootOffset": 258560
+        },
+        {
+            "name": "GrdPuraUnknownBL_CMPR_image",
+            "rootOffset": 258592
+        },
+        {
+            "name": "GrdPuraUnknownEye_C4_image",
+            "rootOffset": 259104
+        },
+        {
+            "name": "GrdPuraUnknownEye_tlut",
+            "rootOffset": 259616
+        },
+        {
+            "name": "GrdPuraUnknownEye_tlut_desc",
+            "rootOffset": 259648
+        },
+        {
+            "name": "GrdPuraUpahBace_CMPR_image",
+            "rootOffset": 259680
+        },
+        {
+            "name": "GrdPuraUpahBody_C8_image",
+            "rootOffset": 272608
+        },
+        {
+            "name": "GrdPuraUpahBody_tlut",
+            "rootOffset": 280800
+        },
+        {
+            "name": "GrdPuraUpahBody_tlut_desc",
+            "rootOffset": 281216
+        },
+        {
+            "name": "GrdPuraUpahEar_CMPR_image",
+            "rootOffset": 259712
+        },
+        {
+            "name": "GrdPuraUpahEye_C4_image",
+            "rootOffset": 259968
+        },
+        {
+            "name": "GrdPuraUpahEye_tlut",
+            "rootOffset": 264064
+        },
+        {
+            "name": "GrdPuraUpahEye_tlut_desc",
+            "rootOffset": 264096
+        },
+        {
+            "name": "GrdPuraUpahMouthA_C8_image",
+            "rootOffset": 264128
+        },
+        {
+            "name": "GrdPuraUpahMouthA_tlut",
+            "rootOffset": 272320
+        },
+        {
+            "name": "GrdPuraUpahMouthA_tlut_desc",
+            "rootOffset": 272576
+        },
+        {
+            "name": "GrdPuraUsokkieBodyA_C8_image",
+            "rootOffset": 284160
+        },
+        {
+            "name": "GrdPuraUsokkieBodyA_tlut",
+            "rootOffset": 285184
+        },
+        {
+            "name": "GrdPuraUsokkieBodyA_tlut_desc",
+            "rootOffset": 285280
+        },
+        {
+            "name": "GrdPuraUsokkieBodyB_C8_image",
+            "rootOffset": 283008
+        },
+        {
+            "name": "GrdPuraUsokkieBodyB_tlut",
+            "rootOffset": 284032
+        },
+        {
+            "name": "GrdPuraUsokkieBodyB_tlut_desc",
+            "rootOffset": 284128
+        },
+        {
+            "name": "GrdPuraUsokkieBodyG_CMPR_image",
+            "rootOffset": 281248
+        },
+        {
+            "name": "GrdPuraUsokkieBodyH_C8_image",
+            "rootOffset": 285312
+        },
+        {
+            "name": "GrdPuraUsokkieBodyH_tlut",
+            "rootOffset": 286336
+        },
+        {
+            "name": "GrdPuraUsokkieBodyH_tlut_desc",
+            "rootOffset": 286432
+        },
+        {
+            "name": "GrdPuraUsokkieEyeA_C8_image",
+            "rootOffset": 286464
+        },
+        {
+            "name": "GrdPuraUsokkieEyeA_tlut",
+            "rootOffset": 287488
+        },
+        {
+            "name": "GrdPuraUsokkieEyeA_tlut_desc",
+            "rootOffset": 287744
+        },
+        {
+            "name": "GrdPuraUsokkieMouthA_C8_image",
+            "rootOffset": 287776
+        },
+        {
+            "name": "GrdPuraUsokkieMouthA_tlut",
+            "rootOffset": 288800
+        },
+        {
+            "name": "GrdPuraUsokkieMouthA_tlut_desc",
+            "rootOffset": 288992
+        },
+        {
+            "name": "GrdPuraUsokkieNenrin_C4_image",
+            "rootOffset": 289024
+        },
+        {
+            "name": "GrdPuraUsokkieNenrin_tlut",
+            "rootOffset": 289056
+        },
+        {
+            "name": "GrdPuraUsokkieNenrin_tlut_desc",
+            "rootOffset": 289088
+        },
+        {
+            "name": "GrdPuraUsokkieTama_C8_image",
+            "rootOffset": 281760
+        },
+        {
+            "name": "GrdPuraUsokkieTama_tlut",
+            "rootOffset": 282784
+        },
+        {
+            "name": "GrdPuraUsokkieTama_tlut_desc",
+            "rootOffset": 282976
+        },
+        {
+            "name": "GrdPuraYadonBodyA_CMPR_image",
+            "rootOffset": 289152
+        },
+        {
+            "name": "GrdPuraYadonBodyB_CMPR_image",
+            "rootOffset": 289184
+        },
+        {
+            "name": "GrdPuraYadonEar_C8_image",
+            "rootOffset": 290432
+        },
+        {
+            "name": "GrdPuraYadonEar_tlut",
+            "rootOffset": 291456
+        },
+        {
+            "name": "GrdPuraYadonEar_tlut_desc",
+            "rootOffset": 291616
+        },
+        {
+            "name": "GrdPuraYadonEye_C8_image",
+            "rootOffset": 292768
+        },
+        {
+            "name": "GrdPuraYadonEye_tlut",
+            "rootOffset": 293792
+        },
+        {
+            "name": "GrdPuraYadonEye_tlut_desc",
+            "rootOffset": 293952
+        },
+        {
+            "name": "GrdPuraYadonMouthA_C8_image",
+            "rootOffset": 289248
+        },
+        {
+            "name": "GrdPuraYadonMouthA_tlut",
+            "rootOffset": 290272
+        },
+        {
+            "name": "GrdPuraYadonMouthA_tlut_desc",
+            "rootOffset": 290400
+        },
+        {
+            "name": "GrdPuraYadonMouthB_CMPR_image",
+            "rootOffset": 289120
+        },
+        {
+            "name": "GrdPuraYadonNosehole_C8_image",
+            "rootOffset": 291648
+        },
+        {
+            "name": "GrdPuraYadonNosehole_tlut",
+            "rootOffset": 292672
+        },
+        {
+            "name": "GrdPuraYadonNosehole_tlut_desc",
+            "rootOffset": 292736
+        },
+        {
+            "name": "GrdPuraYadonTongue_C8_image",
+            "rootOffset": 293984
+        },
+        {
+            "name": "GrdPuraYadonTongue_tlut",
+            "rootOffset": 295008
+        },
+        {
+            "name": "GrdPuraYadonTongue_tlut_desc",
+            "rootOffset": 295168
+        },
+        {
+            "name": "GrdPuraZenigameBase_CMPR_image",
+            "rootOffset": 295200
+        },
+        {
+            "name": "GrdPuraZenigameBodyA_CMPR_image",
+            "rootOffset": 301920
+        },
+        {
+            "name": "GrdPuraZenigameBodyB_CMPR_image",
+            "rootOffset": 295232
+        },
+        {
+            "name": "GrdPuraZenigameEye_C8_image",
+            "rootOffset": 297856
+        },
+        {
+            "name": "GrdPuraZenigameEye_tlut",
+            "rootOffset": 299904
+        },
+        {
+            "name": "GrdPuraZenigameEye_tlut_desc",
+            "rootOffset": 300352
+        },
+        {
+            "name": "GrdPuraZenigameKouraA_CMPR_image",
+            "rootOffset": 296832
+        },
+        {
+            "name": "GrdPuraZenigameKouraB_I4_image",
+            "rootOffset": 296288
+        },
+        {
+            "name": "GrdPuraZenigameKouraC_C8_image",
+            "rootOffset": 300384
+        },
+        {
+            "name": "GrdPuraZenigameKouraC_tlut",
+            "rootOffset": 301408
+        },
+        {
+            "name": "GrdPuraZenigameKouraC_tlut_desc",
+            "rootOffset": 301888
+        },
+        {
+            "name": "GrdPuraZenigameMouth_CMPR_image",
+            "rootOffset": 295776
+        },
+        {
+            "name": "GrdPuraZenigameNose_CMPR_image",
+            "rootOffset": 296320
+        },
+        {
+            "name": "GrdPuraZenigameTeilA_CMPR_image",
+            "rootOffset": 295264
+        },
+        {
+            "name": "PkmLuckyDark_CMPR_image",
+            "rootOffset": 208032
+        },
+        {
+            "name": "PkmLuckyEgg_CMPR_image",
+            "rootOffset": 206240
+        },
+        {
+            "name": "PkmLuckyEye_C4_image",
+            "rootOffset": 206272
+        },
+        {
+            "name": "PkmLuckyEye_tlut",
+            "rootOffset": 206784
+        },
+        {
+            "name": "PkmLuckyEye_tlut_desc",
+            "rootOffset": 206816
+        },
+        {
+            "name": "PkmLuckyGrade_CMPR_image",
+            "rootOffset": 208000
+        },
+        {
+            "name": "PkmLuckyKuti_C8_image",
+            "rootOffset": 206848
+        },
+        {
+            "name": "PkmLuckyKuti_tlut",
+            "rootOffset": 207872
+        },
+        {
+            "name": "PkmLuckyKuti_tlut_desc",
+            "rootOffset": 207968
+        },
+        {
+            "name": "PkmLuckyLight_CMPR_image",
+            "rootOffset": 206208
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 970776
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 971220
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 971440
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 511376
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 971584
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 303912
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 971444
+        }
+    ]
+}

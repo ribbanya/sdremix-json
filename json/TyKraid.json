@@ -1,0 +1,9 @@
+{
+    "sourceFile": "TyKraid.dat",
+    "nodes": [
+        {
+            "name": "ToyKraidModel_TopN_joint",
+            "rootOffset": 49928
+        }
+    ]
+}

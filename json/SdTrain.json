@@ -1,0 +1,9 @@
+{
+    "sourceFile": "SdTrain.dat",
+    "nodes": [
+        {
+            "name": "SIS_TrainingData",
+            "rootOffset": 0
+        }
+    ]
+}

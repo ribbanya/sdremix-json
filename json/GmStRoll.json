@@ -1,0 +1,13 @@
+{
+    "sourceFile": "GmStRoll.dat",
+    "nodes": [
+        {
+            "name": "ScGamRegStaffrollNames_scene_modelset",
+            "rootOffset": 2216628
+        },
+        {
+            "name": "ScGamRegStaffroll_scene_data",
+            "rootOffset": 1932564
+        }
+    ]
+}

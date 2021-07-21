@@ -1,0 +1,9 @@
+{
+    "sourceFile": "GmPause.dat",
+    "nodes": [
+        {
+            "name": "ScGamPause_scene_data",
+            "rootOffset": 32088
+        }
+    ]
+}

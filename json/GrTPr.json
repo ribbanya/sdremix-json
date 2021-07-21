@@ -1,0 +1,57 @@
+{
+    "sourceFile": "GrTPr.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 86428
+        },
+        {
+            "name": "GrdTargetBack00_CMPR_image",
+            "rootOffset": 174112
+        },
+        {
+            "name": "GrdTargetPurinFloorC_I8_image",
+            "rootOffset": 98336
+        },
+        {
+            "name": "GrdTargetPurinFloorE_I8_image",
+            "rootOffset": 90144
+        },
+        {
+            "name": "GrdTargetPurinWoodA_CMPR_image",
+            "rootOffset": 163872
+        },
+        {
+            "name": "GrdTargetPurinWoodB_CMPR_image",
+            "rootOffset": 165920
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 85988
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 86132
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 86352
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 508
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 89344
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 177128
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 86396
+        }
+    ]
+}

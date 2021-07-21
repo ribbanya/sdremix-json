@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlFeNr.dat",
+    "nodes": [
+        {
+            "name": "PlyEmblem5K_Share_joint",
+            "rootOffset": 130216
+        },
+        {
+            "name": "PlyEmblem5K_Share_matanim_joint",
+            "rootOffset": 509368
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "sourceFile": "EfIcData.dat",
+    "nodes": [
+        {
+            "name": "effIceclimberDataTable",
+            "rootOffset": 0
+        }
+    ]
+}

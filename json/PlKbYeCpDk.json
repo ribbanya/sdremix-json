@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlKbYeCpDk.dat",
+    "nodes": [
+        {
+            "name": "PlyKirbyDkYe_Share_joint",
+            "rootOffset": 57876
+        },
+        {
+            "name": "PlyKirbyDkYe_Share_matanim_joint",
+            "rootOffset": 108716
+        }
+    ]
+}

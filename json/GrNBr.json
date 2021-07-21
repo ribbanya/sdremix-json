@@ -1,0 +1,645 @@
+{
+    "sourceFile": "GrNBr.dat",
+    "nodes": [
+        {
+            "name": "ALDYakuAll",
+            "rootOffset": 486604
+        },
+        {
+            "name": "GrbBigblueRBody10_RGBA8_image",
+            "rootOffset": 793920
+        },
+        {
+            "name": "GrdBigblueArch2_CMPR_image",
+            "rootOffset": 917888
+        },
+        {
+            "name": "GrdBigblueHasi1_CMPR_image",
+            "rootOffset": 932768
+        },
+        {
+            "name": "GrdBigblueHasi2_C8_image",
+            "rootOffset": 928128
+        },
+        {
+            "name": "GrdBigblueHasi2_tlut",
+            "rootOffset": 932224
+        },
+        {
+            "name": "GrdBigblueHasi2_tlut_desc",
+            "rootOffset": 932736
+        },
+        {
+            "name": "GrdBigblueHasi3_C8_image",
+            "rootOffset": 945056
+        },
+        {
+            "name": "GrdBigblueHasi3_tlut",
+            "rootOffset": 961440
+        },
+        {
+            "name": "GrdBigblueHasi3_tlut_desc",
+            "rootOffset": 961952
+        },
+        {
+            "name": "GrdBigblueLoad3a_CMPR_image",
+            "rootOffset": 940960
+        },
+        {
+            "name": "GrdBigbluePlant1b1n2_CMPR_image",
+            "rootOffset": 1040320
+        },
+        {
+            "name": "GrdBigbluePlant1b1n_CMPR_image",
+            "rootOffset": 1032128
+        },
+        {
+            "name": "GrdBigbluePlant2n_CMPR_image",
+            "rootOffset": 1048512
+        },
+        {
+            "name": "GrdBigblueRArch1a_CMPR_image",
+            "rootOffset": 919936
+        },
+        {
+            "name": "GrdBigblueRArch2_CMPR_image",
+            "rootOffset": 883072
+        },
+        {
+            "name": "GrdBigblueRArch3_CMPR_image",
+            "rootOffset": 987072
+        },
+        {
+            "name": "GrdBigblueRArch4_CMPR_image",
+            "rootOffset": 915840
+        },
+        {
+            "name": "GrdBigblueRArch5_CMPR_image",
+            "rootOffset": 907648
+        },
+        {
+            "name": "GrdBigblueRArch6_CMPR_image",
+            "rootOffset": 970176
+        },
+        {
+            "name": "GrdBigblueRBody1_RGBA8_image",
+            "rootOffset": 496608
+        },
+        {
+            "name": "GrdBigblueRBody2_RGBA8_image",
+            "rootOffset": 645920
+        },
+        {
+            "name": "GrdBigblueRBody4_CMPR_image",
+            "rootOffset": 905600
+        },
+        {
+            "name": "GrdBigblueRBody6_C8_image",
+            "rootOffset": 529376
+        },
+        {
+            "name": "GrdBigblueRBody6_tlut",
+            "rootOffset": 594912
+        },
+        {
+            "name": "GrdBigblueRBody6_tlut_desc",
+            "rootOffset": 595168
+        },
+        {
+            "name": "GrdBigblueRBody83_RGBA8_image",
+            "rootOffset": 613152
+        },
+        {
+            "name": "GrdBigblueRBody9_CMPR_image",
+            "rootOffset": 595200
+        },
+        {
+            "name": "GrdBigblueRCloud1_IA4_image",
+            "rootOffset": 1097664
+        },
+        {
+            "name": "GrdBigblueRFloor1_CMPR_image",
+            "rootOffset": 903552
+        },
+        {
+            "name": "GrdBigblueRFloor1b_CMPR_image",
+            "rootOffset": 881024
+        },
+        {
+            "name": "GrdBigblueRFloor1c_CMPR_image",
+            "rootOffset": 901504
+        },
+        {
+            "name": "GrdBigblueRGrid1_CMPR_image",
+            "rootOffset": 488416
+        },
+        {
+            "name": "GrdBigblueRGround2_C8_image",
+            "rootOffset": 596224
+        },
+        {
+            "name": "GrdBigblueRGround2_tlut",
+            "rootOffset": 612608
+        },
+        {
+            "name": "GrdBigblueRGround2_tlut_desc",
+            "rootOffset": 613120
+        },
+        {
+            "name": "GrdBigblueRHasi2_CMPR_image",
+            "rootOffset": 961984
+        },
+        {
+            "name": "GrdBigblueRJump1_CMPR_image",
+            "rootOffset": 876928
+        },
+        {
+            "name": "GrdBigblueRLoad1_CMPR_image",
+            "rootOffset": 991168
+        },
+        {
+            "name": "GrdBigblueRLoad1b_CMPR_image",
+            "rootOffset": 860544
+        },
+        {
+            "name": "GrdBigblueRLoad2_CMPR_image",
+            "rootOffset": 852352
+        },
+        {
+            "name": "GrdBigblueRLoad3_CMPR_image",
+            "rootOffset": 840064
+        },
+        {
+            "name": "GrdBigblueRLoad4_CMPR_image",
+            "rootOffset": 844160
+        },
+        {
+            "name": "GrdBigblueRObj1_CMPR_image",
+            "rootOffset": 911744
+        },
+        {
+            "name": "GrdBigblueRPlant1an_CMPR_image",
+            "rootOffset": 1023936
+        },
+        {
+            "name": "GrdBigblueRRock1_C8_image",
+            "rootOffset": 662304
+        },
+        {
+            "name": "GrdBigblueRRock1_tlut",
+            "rootOffset": 793376
+        },
+        {
+            "name": "GrdBigblueRRock1_tlut_desc",
+            "rootOffset": 793888
+        },
+        {
+            "name": "GrdBigblueRSafe2_CMPR_image",
+            "rootOffset": 885120
+        },
+        {
+            "name": "GrdBigblueRSea4nb_CMPR_image",
+            "rootOffset": 1064896
+        },
+        {
+            "name": "GrdBigblueRSi1_CMPR_image",
+            "rootOffset": 1007552
+        },
+        {
+            "name": "GrdBigblueRSi2_CMPR_image",
+            "rootOffset": 1015744
+        },
+        {
+            "name": "GrdBigblueRSi3_CMPR_image",
+            "rootOffset": 1011648
+        },
+        {
+            "name": "GrdBigblueRSi4_CMPR_image",
+            "rootOffset": 1019840
+        },
+        {
+            "name": "GrdBigblueRSide01_C8_image",
+            "rootOffset": 831328
+        },
+        {
+            "name": "GrdBigblueRSide01_tlut",
+            "rootOffset": 839520
+        },
+        {
+            "name": "GrdBigblueRSide01_tlut_desc",
+            "rootOffset": 840032
+        },
+        {
+            "name": "GrdBigblueRSide2_CMPR_image",
+            "rootOffset": 810304
+        },
+        {
+            "name": "GrdBigblueRSide2d_C8_image",
+            "rootOffset": 822592
+        },
+        {
+            "name": "GrdBigblueRSide2d_tlut",
+            "rootOffset": 830784
+        },
+        {
+            "name": "GrdBigblueRSide2d_tlut_desc",
+            "rootOffset": 831296
+        },
+        {
+            "name": "GrdBigblueRSide2l1_CMPR_image",
+            "rootOffset": 814400
+        },
+        {
+            "name": "GrdBigblueSea4n_CMPR_image",
+            "rootOffset": 1056704
+        },
+        {
+            "name": "GrdCorneriaGsurf1_IA8_image",
+            "rootOffset": 970688
+        },
+        {
+            "name": "GrdMuteCityBarner1_IA8_image",
+            "rootOffset": 1372992
+        },
+        {
+            "name": "GrdMuteCityBarner2_IA8_image",
+            "rootOffset": 1381184
+        },
+        {
+            "name": "GrdMuteCityCarA2_C4_image",
+            "rootOffset": 1356480
+        },
+        {
+            "name": "GrdMuteCityCarA2_tlut",
+            "rootOffset": 1364672
+        },
+        {
+            "name": "GrdMuteCityCarA2_tlut_desc",
+            "rootOffset": 1364704
+        },
+        {
+            "name": "GrdMuteCityCarB_C4_image",
+            "rootOffset": 1348224
+        },
+        {
+            "name": "GrdMuteCityCarB_tlut",
+            "rootOffset": 1356416
+        },
+        {
+            "name": "GrdMuteCityCarB_tlut_desc",
+            "rootOffset": 1356448
+        },
+        {
+            "name": "GrdMuteCityCarC_C4_image",
+            "rootOffset": 1339968
+        },
+        {
+            "name": "GrdMuteCityCarC_tlut",
+            "rootOffset": 1348160
+        },
+        {
+            "name": "GrdMuteCityCarC_tlut_desc",
+            "rootOffset": 1348192
+        },
+        {
+            "name": "GrdMuteCityCarD_C4_image",
+            "rootOffset": 1321472
+        },
+        {
+            "name": "GrdMuteCityCarD_tlut",
+            "rootOffset": 1329664
+        },
+        {
+            "name": "GrdMuteCityCarD_tlut_desc",
+            "rootOffset": 1329696
+        },
+        {
+            "name": "GrdMuteCityCarE_C4_image",
+            "rootOffset": 1313216
+        },
+        {
+            "name": "GrdMuteCityCarE_tlut",
+            "rootOffset": 1321408
+        },
+        {
+            "name": "GrdMuteCityCarE_tlut_desc",
+            "rootOffset": 1321440
+        },
+        {
+            "name": "GrdMuteCityCarF_C4_image",
+            "rootOffset": 1304960
+        },
+        {
+            "name": "GrdMuteCityCarF_tlut",
+            "rootOffset": 1313152
+        },
+        {
+            "name": "GrdMuteCityCarF_tlut_desc",
+            "rootOffset": 1313184
+        },
+        {
+            "name": "GrdMuteCityCarG_C4_image",
+            "rootOffset": 1296704
+        },
+        {
+            "name": "GrdMuteCityCarG_tlut",
+            "rootOffset": 1304896
+        },
+        {
+            "name": "GrdMuteCityCarG_tlut_desc",
+            "rootOffset": 1304928
+        },
+        {
+            "name": "GrdMuteCityCarH_C4_image",
+            "rootOffset": 1288448
+        },
+        {
+            "name": "GrdMuteCityCarH_tlut",
+            "rootOffset": 1296640
+        },
+        {
+            "name": "GrdMuteCityCarH_tlut_desc",
+            "rootOffset": 1296672
+        },
+        {
+            "name": "GrdMuteCityCarZA_C4_image",
+            "rootOffset": 1283264
+        },
+        {
+            "name": "GrdMuteCityCarZA_tlut",
+            "rootOffset": 1288384
+        },
+        {
+            "name": "GrdMuteCityCarZA_tlut_desc",
+            "rootOffset": 1288416
+        },
+        {
+            "name": "GrdMuteCityCarZB_C4_image",
+            "rootOffset": 1275008
+        },
+        {
+            "name": "GrdMuteCityCarZB_tlut",
+            "rootOffset": 1283200
+        },
+        {
+            "name": "GrdMuteCityCarZB_tlut_desc",
+            "rootOffset": 1283232
+        },
+        {
+            "name": "GrdMuteCityCarZC_C4_image",
+            "rootOffset": 1364736
+        },
+        {
+            "name": "GrdMuteCityCarZC_tlut",
+            "rootOffset": 1372928
+        },
+        {
+            "name": "GrdMuteCityCarZC_tlut_desc",
+            "rootOffset": 1372960
+        },
+        {
+            "name": "GrdMuteCityCarZD_C4_image",
+            "rootOffset": 1266752
+        },
+        {
+            "name": "GrdMuteCityCarZD_tlut",
+            "rootOffset": 1274944
+        },
+        {
+            "name": "GrdMuteCityCarZD_tlut_desc",
+            "rootOffset": 1274976
+        },
+        {
+            "name": "GrdMuteCityCarZE_C4_image",
+            "rootOffset": 1258496
+        },
+        {
+            "name": "GrdMuteCityCarZE_tlut",
+            "rootOffset": 1266688
+        },
+        {
+            "name": "GrdMuteCityCarZE_tlut_desc",
+            "rootOffset": 1266720
+        },
+        {
+            "name": "GrdMuteCityCarZF_C4_image",
+            "rootOffset": 1250240
+        },
+        {
+            "name": "GrdMuteCityCarZF_tlut",
+            "rootOffset": 1258432
+        },
+        {
+            "name": "GrdMuteCityCarZF_tlut_desc",
+            "rootOffset": 1258464
+        },
+        {
+            "name": "GrdMuteCityCarZG_C4_image",
+            "rootOffset": 1241984
+        },
+        {
+            "name": "GrdMuteCityCarZG_tlut",
+            "rootOffset": 1250176
+        },
+        {
+            "name": "GrdMuteCityCarZG_tlut_desc",
+            "rootOffset": 1250208
+        },
+        {
+            "name": "GrdMuteCityCarZH_CMPR_image",
+            "rootOffset": 1233792
+        },
+        {
+            "name": "GrdMuteCityCarZI_C4_image",
+            "rootOffset": 1225536
+        },
+        {
+            "name": "GrdMuteCityCarZI_tlut",
+            "rootOffset": 1233728
+        },
+        {
+            "name": "GrdMuteCityCarZI_tlut_desc",
+            "rootOffset": 1233760
+        },
+        {
+            "name": "GrdMuteCityCarZJ_C4_image",
+            "rootOffset": 1217280
+        },
+        {
+            "name": "GrdMuteCityCarZJ_tlut",
+            "rootOffset": 1225472
+        },
+        {
+            "name": "GrdMuteCityCarZJ_tlut_desc",
+            "rootOffset": 1225504
+        },
+        {
+            "name": "GrdMuteCityCarZKZL_C4_image",
+            "rootOffset": 1209024
+        },
+        {
+            "name": "GrdMuteCityCarZKZL_tlut",
+            "rootOffset": 1217216
+        },
+        {
+            "name": "GrdMuteCityCarZKZL_tlut_desc",
+            "rootOffset": 1217248
+        },
+        {
+            "name": "GrdMuteCityCarZMc4_C4_image",
+            "rootOffset": 1200768
+        },
+        {
+            "name": "GrdMuteCityCarZMc4_tlut",
+            "rootOffset": 1208960
+        },
+        {
+            "name": "GrdMuteCityCarZMc4_tlut_desc",
+            "rootOffset": 1208992
+        },
+        {
+            "name": "GrdMuteCityCarZN_C4_image",
+            "rootOffset": 1192512
+        },
+        {
+            "name": "GrdMuteCityCarZN_tlut",
+            "rootOffset": 1200704
+        },
+        {
+            "name": "GrdMuteCityCarZN_tlut_desc",
+            "rootOffset": 1200736
+        },
+        {
+            "name": "GrdMuteCityCarZOc4_C4_image",
+            "rootOffset": 1184256
+        },
+        {
+            "name": "GrdMuteCityCarZOc4_tlut",
+            "rootOffset": 1192448
+        },
+        {
+            "name": "GrdMuteCityCarZOc4_tlut_desc",
+            "rootOffset": 1192480
+        },
+        {
+            "name": "GrdMuteCityCarZP_C4_image",
+            "rootOffset": 1174336
+        },
+        {
+            "name": "GrdMuteCityCarZP_tlut",
+            "rootOffset": 1184192
+        },
+        {
+            "name": "GrdMuteCityCarZP_tlut_desc",
+            "rootOffset": 1184224
+        },
+        {
+            "name": "GrdMuteCityCarZQ_C4_image",
+            "rootOffset": 1163936
+        },
+        {
+            "name": "GrdMuteCityCarZQ_tlut",
+            "rootOffset": 1174272
+        },
+        {
+            "name": "GrdMuteCityCarZQ_tlut_desc",
+            "rootOffset": 1174304
+        },
+        {
+            "name": "GrdMuteCityCarZR_C4_image",
+            "rootOffset": 1155680
+        },
+        {
+            "name": "GrdMuteCityCarZR_tlut",
+            "rootOffset": 1163872
+        },
+        {
+            "name": "GrdMuteCityCarZR_tlut_desc",
+            "rootOffset": 1163904
+        },
+        {
+            "name": "GrdMuteCityCarZS_C4_image",
+            "rootOffset": 1147424
+        },
+        {
+            "name": "GrdMuteCityCarZS_tlut",
+            "rootOffset": 1155616
+        },
+        {
+            "name": "GrdMuteCityCarZS_tlut_desc",
+            "rootOffset": 1155648
+        },
+        {
+            "name": "GrdMuteCityCarZT_C8_image",
+            "rootOffset": 1130560
+        },
+        {
+            "name": "GrdMuteCityCarZT_tlut",
+            "rootOffset": 1146944
+        },
+        {
+            "name": "GrdMuteCityCarZT_tlut_desc",
+            "rootOffset": 1147392
+        },
+        {
+            "name": "GrdMuteCityCarZU_C4_image",
+            "rootOffset": 1122304
+        },
+        {
+            "name": "GrdMuteCityCarZU_tlut",
+            "rootOffset": 1130496
+        },
+        {
+            "name": "GrdMuteCityCarZU_tlut_desc",
+            "rootOffset": 1130528
+        },
+        {
+            "name": "GrdMuteCityCarZV_C4_image",
+            "rootOffset": 1114048
+        },
+        {
+            "name": "GrdMuteCityCarZV_tlut",
+            "rootOffset": 1122240
+        },
+        {
+            "name": "GrdMuteCityCarZV_tlut_desc",
+            "rootOffset": 1122272
+        },
+        {
+            "name": "GrdMuteCityCarcrash1_CMPR_image",
+            "rootOffset": 1329728
+        },
+        {
+            "name": "GrdMuteCityCarcrash2_CMPR_image",
+            "rootOffset": 1337920
+        },
+        {
+            "name": "coll_data",
+            "rootOffset": 486004
+        },
+        {
+            "name": "grGroundParam",
+            "rootOffset": 486248
+        },
+        {
+            "name": "itemdata",
+            "rootOffset": 486468
+        },
+        {
+            "name": "map_head",
+            "rootOffset": 2436
+        },
+        {
+            "name": "map_plit",
+            "rootOffset": 486712
+        },
+        {
+            "name": "quake_model_set",
+            "rootOffset": 1390344
+        },
+        {
+            "name": "yakumono_param",
+            "rootOffset": 486472
+        }
+    ]
+}

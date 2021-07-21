@@ -1,0 +1,9 @@
+{
+    "sourceFile": "EfSsData.dat",
+    "nodes": [
+        {
+            "name": "effSamusDataTable",
+            "rootOffset": 0
+        }
+    ]
+}

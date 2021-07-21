@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlPeGr.dat",
+    "nodes": [
+        {
+            "name": "PlyPeach5KGr_Share_joint",
+            "rootOffset": 127624
+        },
+        {
+            "name": "PlyPeach5KGr_Share_matanim_joint",
+            "rootOffset": 437080
+        }
+    ]
+}

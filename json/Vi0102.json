@@ -1,0 +1,17 @@
+{
+    "sourceFile": "Vi0102.dat",
+    "nodes": [
+        {
+            "name": "ftDemoVi0102MotionFileLuigi",
+            "rootOffset": 21280
+        },
+        {
+            "name": "ftDemoVi0102MotionFileMario",
+            "rootOffset": 896
+        },
+        {
+            "name": "visual0102Scene",
+            "rootOffset": 852
+        }
+    ]
+}

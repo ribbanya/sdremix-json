@@ -1,0 +1,9 @@
+{
+    "sourceFile": "EfCaData.dat",
+    "nodes": [
+        {
+            "name": "effCaptainDataTable",
+            "rootOffset": 0
+        }
+    ]
+}

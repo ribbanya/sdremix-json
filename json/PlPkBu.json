@@ -1,0 +1,13 @@
+{
+    "sourceFile": "PlPkBu.dat",
+    "nodes": [
+        {
+            "name": "PlyPikachu5KBu_Share_joint",
+            "rootOffset": 82536
+        },
+        {
+            "name": "PlyPikachu5KBu_Share_matanim_joint",
+            "rootOffset": 120584
+        }
+    ]
+}

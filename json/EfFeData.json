@@ -1,0 +1,9 @@
+{
+    "sourceFile": "EfFeData.dat",
+    "nodes": [
+        {
+            "name": "effEmblemDataTable",
+            "rootOffset": 0
+        }
+    ]
+}
