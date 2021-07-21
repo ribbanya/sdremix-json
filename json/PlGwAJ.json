@@ -2,13 +2,13 @@
     "sourceFile": "PlGwAJ.dat",
     "nodes": [
         {
-            "shortName": "Wait1",
-            "name": "PlyGamewatch5K_Share_ACTION_Wait1_figatree",
-            "rootOffset": 4532,
+            "shortName": "DamageFall",
+            "name": "PlyGamewatch5K_Share_ACTION_DamageFall_figatree",
+            "rootOffset": 5028,
             "data": {
-                "numFrames": 60.0,
-                "boneTableOffset": 4476,
-                "animDataOffset": 1992
+                "numFrames": 40.0,
+                "boneTableOffset": 4972,
+                "animDataOffset": 2416
             }
         }
     ]
